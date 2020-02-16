@@ -2,6 +2,25 @@
 
 Welcome! This page will be filled with material and links throughout the semester. I recommend to **bookmark it now**
 
+### Content
+- Week 1 - Guessing The Landscape
+- Week 2 - Data Types
+- Week 3 - Human / Bias I
+- Week 4 - Human / Bias II
+- Week 5 - Prediction & Uncertainty
+- Week 6 - Data Zine Project Presentation 🎉
+- Week 7 - Surveillance Capitalism I
+- Week 8 - Surveillance Capitalism II
+- Week 9 - Ethics & Privacy
+- Week 10 - Data Story Contextual Report & Presentation 📚
+- Week 11 - Power & Control I
+- Week 12 - Power & Control II
+- Week 13 - Resistance
+- Week 14 - Data Story Presentations 🥂
+
+
+<br>
+
 - **Instructor**: Leon Eckert, [leon.eckert@nyu.edu](mailto:leoneckert@nyu.edu)
 - **Class Times**: Mondays & Wednesdays, 1:15pm-2:30pm ([calendar](https://calendar.google.com/calendar?cid=bnl1LmVkdV9pNzZhYWZzbDRmdTRoZmQzYzVkZjRpZHI2c0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t))
 - **Class Location**: Cyberspace ([zoom links](https://calendar.google.com/calendar?cid=bnl1LmVkdV9pNzZhYWZzbDRmdTRoZmQzYzVkZjRpZHI2c0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t))
