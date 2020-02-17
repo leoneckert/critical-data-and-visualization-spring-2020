@@ -273,7 +273,7 @@ and write something into it. If you had difficulties with the assignment, please
 
 ###### Add a link to our class Wiki
 
-find the files your have just worked on on your GitHub account (do you see the README.md file rendered, too?). Copy the link to them (this will probably look a bit like ``github.com/your-username/my-cdv-ss20/tree/master/my-work/week1/coding-foundation``) and paste it on our [Class Wiki](https://github.com/leoneckert/cdv-ss20/wiki).
+find the files your have just worked on on your GitHub account (do you see the README.md file rendered, too?). Copy the link to them (this will probably look a bit like ``github.com/your-username/my-cdv-ss20/tree/master/my-work/week1/coding-foundation``) and paste it on our [Class Wiki](https://github.com/leoneckert/critical-data-and-visualization-spring-2020/wiki).
 
 ## DONE! 😃
 ### This was A LOT. Please be proud.
