@@ -33,7 +33,7 @@ Content:
 
 ##### Github
 
-This semester you will be maintaining a Github repository of you own to backup and share your work. Think of a repository as an online backup copy of your local (on your computer) project folder. The idea is this:
+This semester you will be maintaining your own Github repository to backup and share your work. Think of a repository as an online backup copy of your local (on your computer) project folder. The idea is this:
 
 ![push](assets/push.png)
 
@@ -50,7 +50,7 @@ This is much like setting up any other account, you will not need much help, exc
 
 ###### 2) Create your own repository
 You can create as many repositories as you like. By the way, repositories are public, everyone can see them. It's great to share code, we should all get used to this. However, keep this in mind so you don't accidentally share sensitive information. But don't worry, I will remind you often and show you ways to avoid it :)
-You will find a big PLUS symbol on the top right when you are logged into GitHub. This is where you create new repositories. However (!) in our case we will do it differently. That is because I have prepared some files for you to get started. You will "fork" (make a copy) of a repository I have prepared. Follow [this link](https://github.com/leoneckert/my-cdv-fall19)  (ATTENTION: this is a different repository than the one you are reading right now. Note the "my-" in its name) and click on "fork" in the top right corner:
+You will find a big PLUS symbol on the top right when you are logged into GitHub. This is where you create new repositories. However (!) in our case we will do it differently. That is because I have prepared some files for you to get started. You will "fork" (make a copy) of a repository I have prepared. Follow [this link](https://github.com/leoneckert/my-cdv-ss20)  (ATTENTION: this is a different repository than the one you are reading right now. Note the "my-" in its name) and click on "fork" in the top right corner:
 
 ![find-fork](assets/find-fork.png)
 
