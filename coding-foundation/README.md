@@ -78,7 +78,7 @@ We are going to use four Atom extensions. Three of the come preinstalled. Verify
 
 ![packages](assets/packages.png)
 
-Apart from these there is one more we need. It's called **atom-live-server**. To install it go to ```Atom>Preferences...```, click on ``+ Install``, find **atom-live-server** and hit ``install``:
+Apart from these there is one more we need. It's called **atom-live-server** (`atom-live-server-plus` also works). To install it go to ```Atom>Preferences...```, click on ``+ Install``, find **atom-live-server** and hit ``install``:
 
 ![atom-live-server](assets/atom-live-server.png)
 
@@ -97,7 +97,7 @@ For the whole semester, you will always work in the same folder (with subfolder 
 
 You only need to do this once in the first week.
 
-First, let's find the repository we want to clone on your GitHub profile - this should be the "my-cdv-fall19" repository that is on YOUR account (the one your forked just a few minutes ago). In order to tell Atom to clone it, the descriptor we need is to be found on the right side, copy the HTTPS-link:
+First, let's find the repository we want to clone on your GitHub profile - this should be the "my-cdv-ss20" repository that is on YOUR account (the one your forked just a few minutes ago). In order to tell Atom to clone it, the descriptor we need is to be found on the right side, copy the HTTPS-link:
 
 ![https](assets/https-link.png)
 
