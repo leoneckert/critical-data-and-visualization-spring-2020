@@ -46,11 +46,11 @@ As you can see above, there will be two repositories:
 The following steps will guide you through setting all this up. Please follow carefully:
 
 ###### 1) Make a GitHub account
-This is much like setting up any other account, you will not need much help, except, let me recommend to make a student account instead of a regular one. It comes with some nice, free benefits: [https://education.github.com/pack](https://education.github.com/pack)
+This is much like setting up any other account, you will not need much help, except, let me recommend to make a student account instead of a regular one. It comes with some nice, free benefits: [https://education.github.com/students](https://education.github.com/students)
 
 ###### 2) Create your own repository
 You can create as many repositories as you like. By the way, repositories are public, everyone can see them. It's great to share code, we should all get used to this. However, keep this in mind so you don't accidentally share sensitive information. But don't worry, I will remind you often and show you ways to avoid it :)
-You will find a big PLUS symbol on the top right when you are logged into GitHub. This is where you create new repositories. However (!) in our case we will do it differently. That is because I have prepared some files for you to get started. You will "fork" (make a copy) of a repository I have prepared. Follow [this link](https://github.com/leoneckert/my-cdv-ss20)  (ATTENTION: this is a different repository than the one you are reading right now. Note the "my-" in its name) and click on "fork" in the top right corner:
+You will find a big PLUS symbol on the top right when you are logged into GitHub. This is where you create new repositories. However (!) in our case we will do it differently. That is because I have prepared some files for you to get started. You will "fork" (make a copy) of a repository I have prepared. Follow [this link](https://github.com/leoneckert/my-cdv-ss20)  (ATTENTION: this is a different repository than the one you are reading right now. Note its name) and click on "fork" in the top right corner:
 
 ![find-fork](assets/find-fork.png)
 
@@ -74,11 +74,11 @@ We will be using Atom to write our code. Please download it [here](https://atom.
 
 ###### Atom Packages
 
-We are going to use four Atom extensions. Three of the come preinstalled. Verify if you see them when you open Atom:
+We are going to use four Atom extensions. Three of them come pre-installed. Verify if you see them when you open Atom:
 
 ![packages](assets/packages.png)
 
-Apart from these there is one more we need. It's called **atom-live-server** (`atom-live-server-plus` also works). To install it go to ```Atom>Preferences...```, click on ``+ Install``, find **atom-live-server** and hit ``install``:
+Apart from these, there is one more we need. It's called **atom-live-server** (`atom-live-server-plus` also works). To install it go to ```Atom>Preferences...```, click on ``+ Install``, find **atom-live-server** and hit ``install``:
 
 ![atom-live-server](assets/atom-live-server.png)
 
@@ -124,10 +124,10 @@ Great, we are very far, everything you will work on takes place in this folder. 
 ###### Open your files in Atom (the right way(s))
 I recommend to use one of two ways to open your class folder in Atom.
 
-1. After opening Atom, click ``File>Open..`` and navigate to your folder, don't click on a subfolder or a specific file, just on the folder named "my-cdv-ss20". Then click ``Open``.
-2. Find the "my-cdv-ss20" folder in your file system, drag it onto the Atom application icon.
+- METHOD 1: After opening Atom, click ``File>Open..`` and navigate to your folder, don't click on a subfolder or a specific file, just on the folder named "my-cdv-ss20". Then click ``Open``.
+- METHOD 2: Find the "my-cdv-ss20" folder in your file system, drag it onto the Atom application icon.
 
-If you did it correctly you will notice two things. 1) Atom displays all the files and subfolder easily accessible in the sidebar. 2) See this little book symbol next to the name of the repository? That means that Atom know that it is also a GitHub repository and will make it really easy for us to push our changes to GitHub!
+If you did it correctly you will notice two things. 1) Atom displays all the files and subfolder easily accessible in the sidebar. 2) See this little book symbol next to the name of the repository? That means that Atom knows that it is also a GitHub repository and will make it really easy for us to push our changes to GitHub (because that's the idea if you remember the very first drawing of this tutorial)!
 
 ![atom-dir](assets/atom-dir.png)
 
@@ -137,7 +137,7 @@ From now on you will always use atom-live-server. Let's see how it works. With y
 
 ![start server](assets/start-server.png)
 
-Your browser should automatically open (please define Chrome as your default browser), in the url you will see something like ``http://127.0.0.1:3000/`` or ``http://localhost:3000/`` (the number at the end might vary) and in the browser you see all the folder from your "my-cdv-ss20" directory:
+Your browser should automatically open (please define Chrome as your default browser), in the url you will see something like ``http://127.0.0.1:3000/`` or ``http://localhost:3000/`` (the number at the end might vary) and in the browser you see all the folders and files from your "my-cdv-ss20" directory:
 
 ![live server](assets/live-server.png)
 
@@ -149,7 +149,7 @@ I assume the best way would be to click on ``Packages>atom-live-server>Stop...``
 
 ###### Pushing changes to your remote GitHub repository
 
-Okay, I bet this is new for you and I am excited. Let's assume we work on a project somewhere inside the "my-cdv-ss20" directory. Normally this would probably take place in a subfolder like ``my-cdv-ss20/my-work/week3/data-project``, but for now let's make some changes in ``test-page/index.html`` and save them (``cmd+s``). Look at the files in your sidebar, the are yellow-ish (or maybe green) now:
+Okay, I bet this is new for you and I am excited. Let's assume we work on a project somewhere inside the "my-cdv-ss20" directory. Normally this would probably take place in a subfolder like ``my-cdv-ss20/my-work/week3/data-project``, but for now let's make some changes in ``test-page/index.html`` and save them (``cmd+s``). Look at the files in your sidebar, the are orange-ish (or maybe green) now:
 
 ![changes](assets/changes.png)
 
@@ -215,7 +215,7 @@ Please start to bring such a structure into place. You can create folders and fi
 
 ###### build a website
 
-Finally, making use of the **atom-live-server** and **Chrome Developer Tools** you learnt above, **build a website** in ``my-cdv-ss20/my-work/week1/coding-foundation``. This *chapter* has much fewer instructions that the last ones because I want you to figure out (recall from last Semester / the internet) much on your own. Your website should have **separated html, css, js files** and behave like this one:
+Finally, making use of the **atom-live-server** and **Chrome Developer Tools** you learnt above, **build a website** in ``my-cdv-ss20/my-work/week1/coding-foundation``. This *chapter* has much fewer instructions than the last ones because I want you to figure out (recall from last Semester / the internet) much on your own. Your website should have **separated html, css, js files** and behave like this one (but does not need to look exactly the same, be creative!):
 
 ![website](assets/website.gif)
 
@@ -252,7 +252,7 @@ In all coding you do this semester, please make sure to use comments in your cod
 Your work will look great on GitHub if you add README.md files to folders. GitHub renders them as the "front page" of a folder - just like you are reading this text right now (it is written on a README.md file, too). The ".md" stands for "Markdown" which is a specific syntax for writing text. Since this might be your first time doing this, simply add the README.md file here:
 
 ```
-my-cdv-ss20 
+my-cdv-ss20
 ├── my-work
 │   ├── week1
 │   │   ├── ...
@@ -272,7 +272,7 @@ and write something into it. If you had difficulties with the assignment, please
 
 ###### Add a link to our class Wiki
 
-find the files your have just worked on on your GitHub account (do you see the README.md file rendered, too?). Copy the link to them (this will probably look a bit like ``github.com/your-username/my-cdv-ss20/tree/master/my-work/week1/coding-foundation``) and paste it on our (Class Wiki)[https://github.com/leoneckert/cdv-fall19/wiki](https://github.com/leoneckert/cdv-fall19/wiki).
+find the files your have just worked on on your GitHub account (do you see the README.md file rendered, too?). Copy the link to them (this will probably look a bit like ``github.com/your-username/my-cdv-ss20/tree/master/my-work/week1/coding-foundation``) and paste it on our (Class Wiki)[https://github.com/leoneckert/cdv-ss20/wiki](https://github.com/leoneckert/cdv-ss20/wiki).
 
 ## DONE! 😃
 ### This was A LOT. Please be proud.
