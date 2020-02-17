@@ -86,6 +86,7 @@ Verify that it is installed (for you, it might appear at a different location in
 
 ![installed](assets/atom-live-server-installed.png)
 
+Since we are starting this semester so far apart, see if you can find another package called `teletype`, install that, too, please. We'll test it together soon!
 
 Great! We have achieved a lot. Let's go on!
 
