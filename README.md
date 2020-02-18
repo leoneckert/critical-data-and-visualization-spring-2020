@@ -91,6 +91,7 @@ Due Monday (2020/02/24):
 
 ###### Optional/Related readings and resources:
 
+- [*\"Breaking the Black Box](https://www.propublica.org/article/breaking-the-black-box-what-facebook-knows-about-you), 4 videos with texts, various ProPublica journalists (2016)\*
 - [*\"Raw Data" is an Oxymoron* (Introduction)](https://mitpress.mit.edu/books/raw-data-oxymoron), Gitelman L (2013)\*
 - [*\"Raw Data" is an Oxymoron* (Capter 1: Data before the Fact)](https://mitpress.mit.edu/books/raw-data-oxymoron), Rosenberg D\*
 - [*Data infrastructure literacy*](https://journals.sagepub.com/doi/10.1177/2053951718786316), Gray J, Gerlitz C, Bounegru L (2018)
@@ -98,6 +99,36 @@ Due Monday (2020/02/24):
 - [*Anatomy of an AI System*](https://anatomyof.ai/), Crawford K, Joler V (2018)
 
 \*online version accessible through NYU library
+
+<!-- ### Wednesday Lab
+
+Find the Lab in detail [here](labs/lab1)
+
+Content:
+- how a browser meets a website
+- how a browser sees html
+- css and js, endless metaphors
+- review homework
+- review JavaScript data structures
+- collect data using Google Forms
+- Mini data visualization using javascript
+
+#### Assignments:
+
+Due Wednesday (2020/02/26):
+- Mini Project:
+    - Create a Google Form collecting data of the "linear scale" type (like we did in this week's Lab)
+    - collect responses from at least 10 people (e.g. send it to people in this class (use Slack or even Discord))
+    - use the techniques [used in the lab](https://github.com/leoneckert/cdv-fall19/tree/master/labs/lab1) to
+    - export the data in `json` format
+    - transform it to an array with average values
+    - build a bar graph using JavaScript ([lab's code](labs/lab1/in-class-website))
+        - be creative and make it look **more fun** than my example!
+    - the last two points can be worked on simultaneously (**you don't need all the responses to start working on the code**)
+    - relvant links:
+        - [How to collect data using Google Forms
+    ](labs/collect-data-google-form)
+- Watch [this fun talk by Mike Bostock](https://vimeo.com/69448223), creator of [D3js](http://d3js.org/). -->
 
 
 #### Course Overview and Learning Outcomes
