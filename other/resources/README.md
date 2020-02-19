@@ -55,5 +55,7 @@
 - [Custom GeoJSON](https://geojson-maps.ash.ms/)
 - [Web News Ngram Datasets (WEB-NGRAM)](https://blog.gdeltproject.org/announcing-the-web-news-ngram-datasets-web-ngram/)
 - [Corona Virus Data](https://www.kaggle.com/sudalairajkumar/novel-corona-virus-2019-dataset)
+- [Eurostat.js: "Reusable library to quickly create and customise web maps showing data directly retrieved from @EU_Eurostat database"](https://github.com/eurostat/eurostat.js)
+- [Maps in geojson and other formats](https://geo.nyu.edu)
 
-\*Thanks for contributing, Thomas, Phyllis!
+\*Thanks for contributing, Thomas, Phyllis, Eszter!
