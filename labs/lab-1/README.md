@@ -42,6 +42,120 @@ It ends with [this exercise](http://cdv.leoneckert.com/json-nav) on navigating a
 Today, we will all use the same dataset collected using this method. It is here for you to **copy and paste** (will update in class):
 
 ```json
+[
+    {
+        "timestamp": "2020-02-19T06:01:33.120Z",
+        "pizza": 10,
+        "chocolate": 2,
+        "coffee": 10,
+        "hotpot": 8,
+        "yoghurt": 5
+    },
+    {
+        "timestamp": "2020-02-19T06:01:37.084Z",
+        "pizza": 8,
+        "chocolate": 8,
+        "coffee": 7,
+        "hotpot": 10,
+        "yoghurt": 8
+    },
+    {
+        "timestamp": "2020-02-19T06:01:38.428Z",
+        "pizza": 9,
+        "chocolate": 7,
+        "coffee": 8,
+        "hotpot": 4,
+        "yoghurt": 3
+    },
+    {
+        "timestamp": "2020-02-19T06:01:38.708Z",
+        "pizza": 3,
+        "chocolate": 9,
+        "coffee": 9,
+        "hotpot": 10,
+        "yoghurt": 5
+    },
+    {
+        "timestamp": "2020-02-19T06:01:38.801Z",
+        "pizza": 7,
+        "chocolate": 10,
+        "coffee": 9,
+        "hotpot": 10,
+        "yoghurt": 5
+    },
+    {
+        "timestamp": "2020-02-19T06:01:39.091Z",
+        "pizza": 8,
+        "chocolate": 5,
+        "coffee": 5,
+        "hotpot": 9,
+        "yoghurt": 10
+    },
+    {
+        "timestamp": "2020-02-19T06:01:39.514Z",
+        "pizza": 8,
+        "chocolate": 7,
+        "coffee": 9,
+        "hotpot": 10,
+        "yoghurt": 10
+    },
+    {
+        "timestamp": "2020-02-19T06:01:39.784Z",
+        "pizza": 8,
+        "chocolate": 10,
+        "coffee": 10,
+        "hotpot": 10,
+        "yoghurt": 8
+    },
+    {
+        "timestamp": "2020-02-19T06:01:41.015Z",
+        "pizza": 7,
+        "chocolate": 5,
+        "coffee": 9,
+        "hotpot": 2,
+        "yoghurt": 10
+    },
+    {
+        "timestamp": "2020-02-19T06:01:44.589Z",
+        "pizza": 10,
+        "chocolate": 5,
+        "coffee": 8,
+        "hotpot": 10,
+        "yoghurt": 6
+    },
+    {
+        "timestamp": "2020-02-19T06:01:45.563Z",
+        "pizza": 7,
+        "chocolate": 6,
+        "coffee": 1,
+        "hotpot": 7,
+        "yoghurt": 9
+    },
+    {
+        "timestamp": "2020-02-19T06:01:46.431Z",
+        "pizza": 7,
+        "chocolate": 8,
+        "coffee": 10,
+        "hotpot": 7,
+        "yoghurt": 9
+    },
+    {
+        "timestamp": "2020-02-19T06:01:47.885Z",
+        "pizza": 6,
+        "chocolate": 10,
+        "coffee": 6,
+        "hotpot": 10,
+        "yoghurt": 10
+    },
+    {
+        "timestamp": "2020-02-19T06:02:17.312Z",
+        "pizza": 8,
+        "chocolate": 9,
+        "coffee": 10,
+        "hotpot": 7,
+        "yoghurt": 9
+    }
+]
 
 ```
 
