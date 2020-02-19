@@ -1,0 +1,10 @@
+/* general styling for the bars
+we leave out the width, because the width
+will vary depending on the each datapoints value
+the width will be defined in javascript where
+the bar (div) elements are being created */
+.bar{
+  height: 50px;
+  background-color: lightblue;
+  margin-bottom: 5px;
+}

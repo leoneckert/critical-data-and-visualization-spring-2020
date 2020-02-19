@@ -102,7 +102,7 @@ Due Monday (2020/02/24):
 
 ### Wednesday Lab
 
-Find the Lab in detail [here](labs/lab1)
+Find the Lab in detail [here](labs/lab-1)
 
 Content:
 - how a browser meets a website
@@ -119,10 +119,10 @@ Due Wednesday (2020/02/26):
 - Mini Project:
     - Create a Google Form collecting data of the "linear scale" type (like we did in this week's Lab)
     - collect responses from at least 10 people (e.g. send it to people in this class (use Slack or even Discord))
-    - use the techniques [used in the lab](labs/lab1) to
+    - use the techniques [used in the lab](labs/lab-1) to
     - export the data in `json` format
     - transform it to an array with average values
-    - build a bar graph using JavaScript ([lab's code](labs/lab1/in-class-website))
+    - build a bar graph using JavaScript ([lab's code](labs/lab-1/in-class-website))
         - be creative and make it look **more fun** than my example!
     - the last two points can be worked on simultaneously (**you don't need all the responses to start working on the code**)
     - relvant links:
