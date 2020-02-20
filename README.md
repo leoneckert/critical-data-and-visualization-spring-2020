@@ -76,7 +76,7 @@ Due Monday (2020/02/24):
   - Introduction and Chapter 2
     - Why does Bowker say "'*Raw data is both and oxymoron and a bad idea*'" ? (pp. 663)
   - Section 1 (pp. 665)
-    - What could be meant by the quote "'*accounting tools [...] do not simply aid the measurement of economic activity, they shape the reality they measure*'"? Try draw parallels to the CompStat system from the Reply All Podcast.
+    - What could be meant by the quote "'*accounting tools [...] do not simply aid the measurement of economic activity, they shape the reality they measure*'"?
   - Section 3 and 4 (pp. 668)
     - In which way is Twitter data limited?
   - Section 5 (pp. 671)
