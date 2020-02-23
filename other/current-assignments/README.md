@@ -19,4 +19,4 @@ Due Monday (2020/02/24):
 - **How to submit the homework**:
   - First, find or create a folder in your repository (e.g. `my-work/week1/reading-response/`). In there, create a `README.md` file.
   - In this file, do your writing (if you want, [format your text nicely](https://guides.github.com/features/mastering-markdown/)).
-  - When you are done, [push your changes to your repository](other/how-to-submit-assigments) as you learned in the [Coding Foundation Exercise](coding-foundation) and paste a link to the [class wiki](wiki).
+  - When you are done, [push your changes to your repository](other/how-to-submit-assigments) as you learned in the [Coding Foundation Exercise](coding-foundation) and paste a link to the [class wiki](https://github.com/leoneckert/critical-data-and-visualization-spring-2020/wiki).
