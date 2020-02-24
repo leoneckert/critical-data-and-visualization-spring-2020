@@ -1,4 +1,31 @@
-Due this Wednesday (2020/02/19):
+Due Wednesday (2020/02/26):
+- Mini Project:
+    - Create a Google Form collecting data of the "linear scale" type (like we did in this week's Lab)
+    - collect responses from at least 10 people (e.g. send it to people in this class (use Slack or even Discord))
+    - use the techniques [used in the lab](labs/lab-1) to
+    - export the data in `json` format
+    - transform it to an array with average values
+    - build a bar graph using JavaScript ([lab's code](labs/lab-1/in-class-website))
+        - be creative and make it look **more fun** than my example!
+    - the last two points can be worked on simultaneously (**you don't need all the responses to start working on the code**)
+    - relvant links:
+        - [How to collect data using Google Forms
+    ](labs/collect-data-google-form)
+- Watch [this fun talk by Mike Bostock](https://vimeo.com/69448223), creator of [D3js](http://d3js.org/).
+
+
+ Monday (2020/03/02):
+- Read and add three contributions to this weeks reading assignment of "*You Are Your Data*" by Deborah Lupton. The text and the description of the assignment are in [this document](https://docs.google.com/document/d/1hl5ehstO1GhcWEio7DIl55m22Aqr3FDEl8rDK2bdsTQ/edit?usp=sharing).
+- Listen (and enjoy) to this podcast: *Artificial Intelligence: The Problem with Bias, with Kate Crawford*. Here is a [Spotify Link](https://open.spotify.com/episode/0ysGO67iXaPmTx4h9v33z3?si=FmJeEuyJTeiqckjpHCTlVQ) - if you have trouble accessing, please contact me.
+- Read through the Data Zine Project brief, especially the “The Data” paragraph, multiple times.
+  - Define on a phenomenon that you will document/collect data about.
+  - Name the features that you will take note of.  
+Be poetic.
+  - Check back with me on Slack if you are unsure or need help deciding between different options.
+  - Start collecting your data tonight and present a week’s worth of data next week.
+
+
+<!-- Due this Wednesday (2020/02/19):
 - Do this assignment first (strongly recommended)
 -  We will spend 50% of our time in this course coding. Having a shared foundation for this is **extremely important**. I will always be there to support and assist you with problems you encounter. For now, please work your way through [Coding Foundation: Setup and Exercises](coding-foundation) and submit your work in the end.
 - Here is a thorough, interactive ``basic-javascript`` tutorial if you want to brush up your skills: [Basic JavaScript](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-javascript/). And [here](https://www.codecademy.com/learn/introduction-to-javascript) is Codecadey's version.
@@ -19,4 +46,4 @@ Due Monday (2020/02/24):
 - **How to submit the homework**:
   - First, find or create a folder in your repository (e.g. `my-work/week1/reading-response/`). In there, create a `README.md` file.
   - In this file, do your writing (if you want, [format your text nicely](https://guides.github.com/features/mastering-markdown/)).
-  - When you are done, [push your changes to your repository](other/how-to-submit-assigments) as you learned in the [Coding Foundation Exercise](coding-foundation) and paste a link to the [class wiki](https://github.com/leoneckert/critical-data-and-visualization-spring-2020/wiki).
+  - When you are done, [push your changes to your repository](other/how-to-submit-assigments) as you learned in the [Coding Foundation Exercise](coding-foundation) and paste a link to the [class wiki](https://github.com/leoneckert/critical-data-and-visualization-spring-2020/wiki). -->
