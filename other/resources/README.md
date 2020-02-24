@@ -30,6 +30,7 @@
 - [Corona Virus Data Viz (mostly static)](https://multimedia.scmp.com/infographics/news/china/article/3047038/wuhan-virus/index.html?)
 - [Making data mean more through storytelling | Ben Wellington](https://www.youtube.com/watch?v=6xsvGYIxJok)
 - [The Internet of Things (IoT) Assistant app](https://cylab.cmu.edu/news/2020/02/19-privacy-assistant.html)
+- [13,000 Missing Flights: The Global Consequences of the Coronavirus](https://www.nytimes.com/interactive/2020/02/21/business/coronavirus-airline-travel.html)
 
 ### Infos
 

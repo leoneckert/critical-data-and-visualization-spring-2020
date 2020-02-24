@@ -131,6 +131,35 @@ Due Wednesday (2020/02/26):
 - Watch [this fun talk by Mike Bostock](https://vimeo.com/69448223), creator of [D3js](http://d3js.org/).
 
 
+## Week 2
+
+Data (types or categories)
+
+### Monday Class
+
+[today's slides](https://docs.google.com/presentation/d/1KMWsv-aqrG9gUheQfMJmR0iXoWAc7cQP9Lje_u2EEpU/edit?usp=sharing)
+
+- discussion of "Critical Questions for Big Data"
+- data (types) exercise
+- art works I'd like to share
+- Announcing Data Zine Project
+
+
+#### Assignments:
+
+Due Monday (2020/03/02):
+- Read and add three contributions to this weeks reading assignment of "*You Are Your Data*" by Deborah Lupton. The text and the description of the assignment are in [this document](https://docs.google.com/document/d/1hl5ehstO1GhcWEio7DIl55m22Aqr3FDEl8rDK2bdsTQ/edit?usp=sharing).
+- Listen (and enjoy) to this podcast: *Artificial Intelligence: The Problem with Bias, with Kate Crawford*. Here is a [Spotify Link](https://open.spotify.com/episode/0ysGO67iXaPmTx4h9v33z3?si=FmJeEuyJTeiqckjpHCTlVQ) - if you have trouble accessing, please contact me.
+- Read through the Data Zine Project brief, especially the “The Data” paragraph, multiple times.
+  - Define on a phenomenon that you will document/collect data about.
+  - Name the features that you will take note of.  
+Be poetic.
+  - Check back with me on Slack if you are unsure or need help deciding between different options.
+  - Start collecting your data tonight and present a week’s worth of data next week.
+
+
+
+
 #### Course Overview and Learning Outcomes
 
 The overarching goal of this course is for students to gain the tools and the comfort to think critically about the ways data is utilized in the ever-growing technological landscape we are immersed in. With this in mind, the course is split in two weekly sessions: a theoretical class and a practical lab.
