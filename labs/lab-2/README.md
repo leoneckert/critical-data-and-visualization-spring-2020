@@ -21,7 +21,7 @@ Today's Lab introduces concepts that are fundamental to learning D3. I am tempte
   - Part 4: Real Data ([Video](https://nyu.zoom.us/rec/share/z8ZfA5OgxEhJX52VtFv9Qas4DL_heaa8hnRPq_dZnk7-eH-SSxqAUyOjLnmSBpQQ?startTime=1582689194000))
     - loading data in D3
 
-Alternatively, you can also download all 4 videos [here](https://drive.google.com/open?id=156-UyGw71i1AxjFPVWTQ-EnZtfBiug-g).
+Alternatively, you can also download all 4 videos [here](https://drive.google.com/file/d/156-UyGw71i1AxjFPVWTQ-EnZtfBiug-g/view?usp=sharing).
 
 ### What is a library?
 
