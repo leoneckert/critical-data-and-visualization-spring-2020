@@ -31,6 +31,8 @@
 - [Making data mean more through storytelling | Ben Wellington](https://www.youtube.com/watch?v=6xsvGYIxJok)
 - [The Internet of Things (IoT) Assistant app](https://cylab.cmu.edu/news/2020/02/19-privacy-assistant.html)
 - [13,000 Missing Flights: The Global Consequences of the Coronavirus](https://www.nytimes.com/interactive/2020/02/21/business/coronavirus-airline-travel.html)
+- [COVID-19 Data visualization from Peking University's research group](http://vis.pku.edu.cn/ncov/home.html)
+- [We Read 150 Privacy Policies. They Were an Incomprehensible Disaster.](https://www.nytimes.com/interactive/2019/06/12/opinion/facebook-google-privacy-policies.html)
 
 ### Infos
 

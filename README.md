@@ -27,7 +27,7 @@ So, what exactly is data? How is value extracted from it? And why should we care
 
 ### Content
 - Week 1 - [Guessing The Landscape](#week-1)
-- Week 2 - Data Types
+- Week 2 - [Data Types](#week-2)
 - Week 3 - Human / Bias I
 - Week 4 - Human / Bias II
 - Week 5 - Prediction & Uncertainty
@@ -157,6 +157,41 @@ Be poetic.
   - Check back with me on Slack if you are unsure or need help deciding between different options.
   - Start collecting your data tonight and present a week’s worth of data next week.
 
+
+### Wednesday Lab
+
+Find the Lab in detail [here](labs/lab-2)
+
+Content:
+- What is a library?
+- Hi, D3!
+  - pixels vs. SVG
+  - examples
+  - Data Driven Documents
+- What you see when you see D3
+  - Something dot something dot something semicolon
+- **Code**
+  - Download working files
+  - Part 1: The Start ([Video](https://nyu.zoom.us/rec/share/yO9uELX6rUdIZc_R2XHxAa4oT6nnX6a8h3JL__JenU3HOYj2dbLeTxv9xbKx_bF-?startTime=1582681651000))
+    - selections, methods, attributes, return values, shapes
+  - Part 2: The Whole Point ([Video](https://nyu.zoom.us/rec/share/yO9uELX6rUdIZc_R2XHxAa4oT6nnX6a8h3JL__JenU3HOYj2dbLeTxv9xbKx_bF-?startTime=1582684221000))
+    - binding data to elements, "select nothing?!", enter-selection
+  - Part 3: Jaws Drop ([Video](https://nyu.zoom.us/rec/share/yO9uELX6rUdIZc_R2XHxAa4oT6nnX6a8h3JL__JenU3HOYj2dbLeTxv9xbKx_bF-?startTime=1582686145000))
+    - data functions
+  - Part 4: Real Data ([Video](https://nyu.zoom.us/rec/share/z8ZfA5OgxEhJX52VtFv9Qas4DL_heaa8hnRPq_dZnk7-eH-SSxqAUyOjLnmSBpQQ?startTime=1582689194000))
+    - loading data in D3
+
+
+
+#### Assignments:
+
+Due Wednesday (2020/03/04):
+- Read the [notes from the lab](labs/lab-2) carefully and watch the videos.
+- Read them again, and email me questions you have. Book my [office hours](https://calendar.google.com/calendar/selfsched?sstoken=UUE0X1AyMVlCNnpyfGRlZmF1bHR8ZTBmYjk2MTcyMjZkZmUwMzhjYTllN2IxMzlkMmQ4MTU), too.
+- Use D3 to turn the dataset you are currently collecting (started after Week 2 class) into shapes.
+- Do not worry about visualizing the data *effectively* yet.
+- create any shapes from it and use [data functions](labs/lab-2#data-functions) in at least one spot in way that the value of your data point affects the shape you created using D3.
+- push your work to your repo and submit a link to the [class wiki](https://github.com/leoneckert/critical-data-and-visualization-spring-2020/wiki) by Wednesday (2019/09/18)
 
 
 

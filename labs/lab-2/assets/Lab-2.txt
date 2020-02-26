@@ -1,0 +1,140 @@
+Lab2 - Welcome to D3js
+
+Part 1: The Start
+	Exercise
+Part 2: The Whole Point
+	Exercise
+Part 3: Jaws Drop
+	Exercise
+Part 4: Real Data
+	Exercise
+
+
+	
+Critical Data and Visualization 
+Leon Eckert
+
+Lab2 - Welcome to D3js
+
+
+PART 1: "The Start"
+
+	selections
+	methods / append
+	attributes
+	what is returned?
+	shapes
+	
+
+
+Critical Data and Visualization 
+Leon Eckert
+
+Exercise
+
+
+- use various shapes 
+- play with attributes
+
+shapes and attributes they need: 
+rect  		x, y, width, height
+circle	  	cx, cy, r
+ellipse  	cx, cy, rx, ry
+line 		x1, x2, y1, y2  other attributes: 
+fill & stroke (both for colors)
+stroke-width
+
+Lab2 - Welcome to D3js
+
+
+
+PART 2: "The Whole Point"
+
+	binding data to elements
+	"select nothing?!"
+	enter-selection
+	
+
+
+
+Critical Data and Visualization 
+Leon Eckert
+
+Exercise:
+
+
+- experiment by changing the data
+- try to bind various shapes to data
+
+
+
+
+
+
+
+
+
+
+
+Lab2 - Welcome to D3js
+
+
+PART 3: "Jaws Drop"
+
+	data functions
+	
+
+
+
+
+
+
+Critical Data and Visualization 
+Leon Eckert
+
+Exercise:
+
+
+- use data functions to change multiple attributes
+- experiment with different shapes
+
+
+
+
+
+
+
+
+
+
+Lab2 - Welcome to D3js
+
+
+PART 4: "Real Data"
+
+	loading data in D3
+
+
+
+
+
+
+
+Critical Data and Visualization 
+Leon Eckert
+
+Exercise:
+
+- load the data you have collected last week and apply the methods learned today
+
+
+
+
+
+
+
+
+
+
+
+The END
