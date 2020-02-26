@@ -1,20 +1,6 @@
-Due Wednesday (2020/02/26):
-- Mini Project:
-    - Create a Google Form collecting data of the "linear scale" type (like we did in this week's Lab)
-    - collect responses from at least 10 people (e.g. send it to people in this class (use Slack or even Discord))
-    - use the techniques [used in the lab](labs/lab-1) to
-    - export the data in `json` format
-    - transform it to an array with average values
-    - build a bar graph using JavaScript ([lab's code](labs/lab-1/in-class-website))
-        - be creative and make it look **more fun** than my example!
-    - the last two points can be worked on simultaneously (**you don't need all the responses to start working on the code**)
-    - relvant links:
-        - [How to collect data using Google Forms
-    ](labs/collect-data-google-form)
-- Watch [this fun talk by Mike Bostock](https://vimeo.com/69448223), creator of [D3js](http://d3js.org/).
 
 
- Monday (2020/03/02):
+Monday (2020/03/02):
 - Read and add three contributions to this weeks reading assignment of "*You Are Your Data*" by Deborah Lupton. The text and the description of the assignment are in [this document](https://docs.google.com/document/d/1hl5ehstO1GhcWEio7DIl55m22Aqr3FDEl8rDK2bdsTQ/edit?usp=sharing).
 - Listen (and enjoy) to this podcast: *Artificial Intelligence: The Problem with Bias, with Kate Crawford*. Here is a [Spotify Link](https://open.spotify.com/episode/0ysGO67iXaPmTx4h9v33z3?si=FmJeEuyJTeiqckjpHCTlVQ) - if you have trouble accessing, please contact me.
 - Read through the Data Zine Project brief, especially the “The Data” paragraph, multiple times.
@@ -23,6 +9,14 @@ Due Wednesday (2020/02/26):
 Be poetic.
   - Check back with me on Slack if you are unsure or need help deciding between different options.
   - Start collecting your data tonight and present a week’s worth of data next week.
+
+Due Wednesday (2020/03/04):
+- Read the [notes from the lab](labs/lab-2) carefully and watch the videos.
+- Read them again, and email me questions you have. Book my [office hours](https://calendar.google.com/calendar/selfsched?sstoken=UUE0X1AyMVlCNnpyfGRlZmF1bHR8ZTBmYjk2MTcyMjZkZmUwMzhjYTllN2IxMzlkMmQ4MTU), too.
+- Use D3 to turn the dataset you are currently collecting (started after Week 2 class) into shapes.
+- Do not worry about visualizing the data *effectively* yet.
+- create any shapes from it and use [data functions](labs/lab-2#data-functions) in at least one spot in way that the value of your data point affects the shape you created using D3.
+- push your work to your repo and submit a link to the [class wiki](https://github.com/leoneckert/critical-data-and-visualization-spring-2020/wiki) by Wednesday (2019/09/18)
 
 
 <!-- Due this Wednesday (2020/02/19):
@@ -47,3 +41,21 @@ Due Monday (2020/02/24):
   - First, find or create a folder in your repository (e.g. `my-work/week1/reading-response/`). In there, create a `README.md` file.
   - In this file, do your writing (if you want, [format your text nicely](https://guides.github.com/features/mastering-markdown/)).
   - When you are done, [push your changes to your repository](other/how-to-submit-assigments) as you learned in the [Coding Foundation Exercise](coding-foundation) and paste a link to the [class wiki](https://github.com/leoneckert/critical-data-and-visualization-spring-2020/wiki). -->
+
+
+
+
+<!-- Due Wednesday (2020/02/26):
+- Mini Project:
+    - Create a Google Form collecting data of the "linear scale" type (like we did in this week's Lab)
+    - collect responses from at least 10 people (e.g. send it to people in this class (use Slack or even Discord))
+    - use the techniques [used in the lab](labs/lab-1) to
+    - export the data in `json` format
+    - transform it to an array with average values
+    - build a bar graph using JavaScript ([lab's code](labs/lab-1/in-class-website))
+        - be creative and make it look **more fun** than my example!
+    - the last two points can be worked on simultaneously (**you don't need all the responses to start working on the code**)
+    - relvant links:
+        - [How to collect data using Google Forms
+    ](labs/collect-data-google-form)
+- Watch [this fun talk by Mike Bostock](https://vimeo.com/69448223), creator of [D3js](http://d3js.org/). -->
