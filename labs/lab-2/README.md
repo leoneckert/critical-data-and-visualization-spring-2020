@@ -10,7 +10,7 @@ Today's Lab introduces concepts that are fundamental to learning D3. I am tempte
   - Data Driven Documents
 - What you see when you see D3
   - Something dot something dot something semicolon
-- **Code**
+- [**Code**](#code)
   - Download working files
   - Part 1: The Start ([Video](https://nyu.zoom.us/rec/share/yO9uELX6rUdIZc_R2XHxAa4oT6nnX6a8h3JL__JenU3HOYj2dbLeTxv9xbKx_bF-?startTime=1582681651000))
     - selections, methods, attributes, return values, shapes
@@ -21,6 +21,7 @@ Today's Lab introduces concepts that are fundamental to learning D3. I am tempte
   - Part 4: Real Data ([Video](https://nyu.zoom.us/rec/share/z8ZfA5OgxEhJX52VtFv9Qas4DL_heaa8hnRPq_dZnk7-eH-SSxqAUyOjLnmSBpQQ?startTime=1582689194000))
     - loading data in D3
 
+Alternatively, you can also download all 4 videos [here](https://drive.google.com/open?id=156-UyGw71i1AxjFPVWTQ-EnZtfBiug-g).
 
 ### What is a library?
 
