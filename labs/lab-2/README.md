@@ -115,7 +115,7 @@ I will upload a written walk through of the four parts in the evening after the 
 - Part 4: Real Data ([Video](https://nyu.zoom.us/rec/share/z8ZfA5OgxEhJX52VtFv9Qas4DL_heaa8hnRPq_dZnk7-eH-SSxqAUyOjLnmSBpQQ?startTime=1582689194000))
   - loading data in D3
 
-<!--
+
 
 ### Part 1: The Start
 #### intro
@@ -409,4 +409,4 @@ d3.json("data.json").then(gotData)
 
 ```
 
-![data](assets/data.jpg) -->
+![data](assets/data.jpg)

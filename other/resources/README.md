@@ -33,6 +33,9 @@
 - [13,000 Missing Flights: The Global Consequences of the Coronavirus](https://www.nytimes.com/interactive/2020/02/21/business/coronavirus-airline-travel.html)
 - [COVID-19 Data visualization from Peking University's research group](http://vis.pku.edu.cn/ncov/home.html)
 - [We Read 150 Privacy Policies. They Were an Incomprehensible Disaster.](https://www.nytimes.com/interactive/2019/06/12/opinion/facebook-google-privacy-policies.html)
+- [An animated bubble map of U.S. population by state, 1790–1990. (tweet + reply)](https://twitter.com/mbostock/status/1232819317055475717?s=20)
+- [Mapping Wikipedia](https://www.theatlantic.com/technology/archive/2020/02/where-wikipedias-editors-are-where-they-arent-and-why/605023/)
+- [Mapping coronavirus, responsibly](https://www.esri.com/arcgis-blog/products/product/mapping/mapping-coronavirus-responsibly/)
 
 ### Infos
 
