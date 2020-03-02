@@ -204,8 +204,12 @@ Human / Bias I
 
 [today's slides](https://docs.google.com/presentation/d/1KMWsv-aqrG9gUheQfMJmR0iXoWAc7cQP9Lje_u2EEpU/edit?usp=sharing)
 
-- discussion of "You are Your Data"
+- discussion of reading/listening
   - what is "[*The Problem with Bias*](https://open.spotify.com/episode/0ysGO67iXaPmTx4h9v33z3?si=FmJeEuyJTeiqckjpHCTlVQ)"?
+  - in pairs, find arguments for both theses:
+    - When making decisions, machines/algorithms/data...
+      - ... are more objective than humans.
+      - ... are biased.
 - Check-in: Data Self collection ([sheet](https://docs.google.com/spreadsheets/d/1SRh-0o51itDFr8xg4VAkXJLHSt-tIllEO-hl8MKeE6A/edit?usp=sharing))
 - Current topics: [China's new Internet Content Regulations](http://www.cac.gov.cn/2019-12/20/c_1578375159509309.htm)
 - Data Art ([slides](https://docs.google.com/presentation/d/125nhtAiFL-EcsLb0iJwoKTvRPCHXgtbYSGkZ6cyZ9y4/edit?usp=sharing))
