@@ -202,7 +202,6 @@ Human / Bias I
 
 ### Monday Class
 
-[today's slides](https://docs.google.com/presentation/d/1KMWsv-aqrG9gUheQfMJmR0iXoWAc7cQP9Lje_u2EEpU/edit?usp=sharing)
 
 - discussion of reading/listening
   - what is "[*The Problem with Bias*](https://open.spotify.com/episode/0ysGO67iXaPmTx4h9v33z3?si=FmJeEuyJTeiqckjpHCTlVQ)"?
