@@ -28,7 +28,7 @@ So, what exactly is data? How is value extracted from it? And why should we care
 ### Content
 - Week 1 - [Guessing The Landscape](#week-1)
 - Week 2 - [Data Types](#week-2)
-- Week 3 - Human / Bias I
+- Week 3 - [Human / Bias I](#week-3)
 - Week 4 - Human / Bias II
 - Week 5 - Prediction & Uncertainty
 - Week 6 - Data Zine Project Presentation 🎉
@@ -192,6 +192,48 @@ Due Wednesday (2020/03/04):
 - Do not worry about visualizing the data *effectively* yet.
 - create any shapes from it and use [data functions](labs/lab-2#data-functions) in at least one spot in way that the value of your data point affects the shape you created using D3.
 - push your work to your repo and submit a link to the [class wiki](https://github.com/leoneckert/critical-data-and-visualization-spring-2020/wiki) by Wednesday (2019/09/18)
+
+
+
+
+## Week 3
+
+Human / Bias I
+
+### Monday Class
+
+[today's slides](https://docs.google.com/presentation/d/1KMWsv-aqrG9gUheQfMJmR0iXoWAc7cQP9Lje_u2EEpU/edit?usp=sharing)
+
+- discussion of "You are Your Data"
+  - what is "[*The Problem with Bias*](https://open.spotify.com/episode/0ysGO67iXaPmTx4h9v33z3?si=FmJeEuyJTeiqckjpHCTlVQ)"?
+- Check-in: Data Self collection ([sheet](https://docs.google.com/spreadsheets/d/1SRh-0o51itDFr8xg4VAkXJLHSt-tIllEO-hl8MKeE6A/edit?usp=sharing))
+- Current topics: [China's new Internet Content Regulations](http://www.cac.gov.cn/2019-12/20/c_1578375159509309.htm)
+- Data Art ([slides](https://docs.google.com/presentation/d/125nhtAiFL-EcsLb0iJwoKTvRPCHXgtbYSGkZ6cyZ9y4/edit?usp=sharing))
+- Assignments
+
+#### Assignments:
+
+Due **THIS** Wednesday (2020/03/04):
+- Upload a JSON file of the data you have so far self-collected to your repository and post a link to the [class wiki](https://github.com/leoneckert/critical-data-and-visualization-spring-2020/wiki).
+
+Due Monday (2020/03/09):
+- "[Automating Inequality](https://us.macmillan.com/books/9781250074317)" (2018) is a fantastic book by Virginia Eubanks that addresses specifically the *who* -- who is impacted by the process of *datafication* of society we discuss in this class. The book discusses the *who* that is not individuals, but groups of people.
+  - This week, you don't have to read (you may if you wish; I can make the book available to you), but listen to an interview with the author Virginia Eubanks.
+    -  "Writer's Voice, Automating Inequality w Virginia Eubanks" (**1 hour**)
+      - [web link](https://www.writersvoice.net/tag/virginia-eubanks/), [Apple Podcast](https://podcasts.apple.com/us/podcast/virginia-eubanks-automating-inequality/id268934105?i=1000454045481), it's on Spotify, too, but I cannot link to it for a strange reason, search for `Virginia Eubanks, AUTOMATING INEQUALITY` and find this image:
+      - ![automating inqequality](other/assets/ve.png)
+  - Formulate short responses to the following prompts, no more than **400-500 words in total**.
+    - How to technical tools promise to "fair out" the remaining discrimination that exist in social/welfare systems? In how far can they succeed, in which ways do they fail?
+    - Imagine, what could this (following quotes) mean in the widest sense?
+      > "*The state doesn't need a cop to kill a person*" and "*electronic incarceration*"
+    - What do you understand this to mean?
+      > "*systems act as a kind of 'empathy-overwrite'*"
+    - China is much more advanced and expansive when it comes to applying technical solutions to societal processes or instant challenges ([recent example](https://www.nytimes.com/2020/03/01/business/china-coronavirus-surveillance.html?)). Try to point example cases in China that are in accordance or in opposition to the problematics discussed in the podcast. Perhaps you can think of
+      > "*technical systems not well thought-through about what their impace on human beings is*"
+  - Post your writing to the [class wiki](https://github.com/leoneckert/critical-data-and-visualization-spring-2020/wiki).
+- Watch [Machine Learning and Human Bias](https://www.youtube.com/watch?v=59bMh59JQDo) (**3 minutes**)
+- Watch [How I'm fighting bias in algorithms](https://www.youtube.com/watch?v=UG_X_7g63rY) by Joy Buolamwini (**9 minutes**)
+
 
 
 
