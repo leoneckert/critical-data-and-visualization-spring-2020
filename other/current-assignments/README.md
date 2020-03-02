@@ -16,7 +16,7 @@ Due Monday (2020/03/09):
   - This week, you don't have to read (you may if you wish; I can make the book available to you), but listen to an interview with the author Virginia Eubanks.
     -  "Writer's Voice, Automating Inequality w Virginia Eubanks" (**1 hour**)
       - [web link](https://www.writersvoice.net/tag/virginia-eubanks/), [Apple Podcast](https://podcasts.apple.com/us/podcast/virginia-eubanks-automating-inequality/id268934105?i=1000454045481), it's on Spotify, too, but I cannot link to it for a strange reason, search for `Virginia Eubanks, AUTOMATING INEQUALITY` and find this image:
-      - ![automating inqequality](other/assets/ve.png)
+      - ![automating inqequality](../assets/ve.png)
   - Formulate short responses to the following prompts, no more than **400-500 words in total**.
     - How to technical tools promise to "fair out" the remaining discrimination that exist in social/welfare systems? In how far can they succeed, in which ways do they fail?
     - Imagine, what could this (following quotes) mean in the widest sense?
