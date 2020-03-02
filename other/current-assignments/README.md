@@ -1,14 +1,6 @@
 
 
-Monday (2020/03/02):
-- Read and add three contributions to this weeks reading assignment of "*You Are Your Data*" by Deborah Lupton. The text and the description of the assignment are in [this document](https://docs.google.com/document/d/1hl5ehstO1GhcWEio7DIl55m22Aqr3FDEl8rDK2bdsTQ/edit?usp=sharing).
-- Listen (and enjoy) to this podcast: *Artificial Intelligence: The Problem with Bias, with Kate Crawford*. Here is a [Spotify Link](https://open.spotify.com/episode/0ysGO67iXaPmTx4h9v33z3?si=FmJeEuyJTeiqckjpHCTlVQ) - if you have trouble accessing, please contact me.
-- Read through the Data Zine Project brief, especially the “The Data” paragraph, multiple times.
-  - Define on a phenomenon that you will document/collect data about.
-  - Name the features that you will take note of.  
-Be poetic.
-  - Check back with me on Slack if you are unsure or need help deciding between different options.
-  - Start collecting your data tonight and present a week’s worth of data next week.
+
 
 Due Wednesday (2020/03/04):
 - Read the [notes from the lab](labs/lab-2) carefully and watch the videos.
@@ -17,6 +9,26 @@ Due Wednesday (2020/03/04):
 - Do not worry about visualizing the data *effectively* yet.
 - create any shapes from it and use [data functions](labs/lab-2#data-functions) in at least one spot in way that the value of your data point affects the shape you created using D3.
 - push your work to your repo and submit a link to the [class wiki](https://github.com/leoneckert/critical-data-and-visualization-spring-2020/wiki) by Wednesday (2019/09/18)
+- Upload a JSON file of the data you have so far self-collected to your repository and post a link to the [class wiki](https://github.com/leoneckert/critical-data-and-visualization-spring-2020/wiki).
+
+Due Monday (2020/03/09):
+- "[Automating Inequality](https://us.macmillan.com/books/9781250074317)" (2018) is a fantastic book by Virginia Eubanks that addresses specifically the *who* -- who is impacted by the process of *datafication* of society we discuss in this class. The book discusses the *who* that is not individuals, but groups of people.
+  - This week, you don't have to read (you may if you wish; I can make the book available to you), but listen to an interview with the author Virginia Eubanks.
+    -  "Writer's Voice, Automating Inequality w Virginia Eubanks" (**1 hour**)
+      - [web link](https://www.writersvoice.net/tag/virginia-eubanks/), [Apple Podcast](https://podcasts.apple.com/us/podcast/virginia-eubanks-automating-inequality/id268934105?i=1000454045481), it's on Spotify, too, but I cannot link to it for a strange reason, search for `Virginia Eubanks, AUTOMATING INEQUALITY` and find this image:
+      - ![automating inqequality](other/assets/ve.png)
+  - Formulate short responses to the following prompts, no more than **400-500 words in total**.
+    - How to technical tools promise to "fair out" the remaining discrimination that exist in social/welfare systems? In how far can they succeed, in which ways do they fail?
+    - Imagine, what could this (following quotes) mean in the widest sense?
+      > "*The state doesn't need a cop to kill a person*" and "*electronic incarceration*"
+    - What do you understand this to mean?
+      > "*systems act as a kind of 'empathy-overwrite'*"
+    - China is much more advanced and expansive when it comes to applying technical solutions to societal processes or instant challenges ([recent example](https://www.nytimes.com/2020/03/01/business/china-coronavirus-surveillance.html?)). Try to point example cases in China that are in accordance or in opposition to the problematics discussed in the podcast. Perhaps you can think of
+      > "*technical systems not well thought-through about what their impace on human beings is*"
+  - Post your writing to the [class wiki](https://github.com/leoneckert/critical-data-and-visualization-spring-2020/wiki).
+- Watch [Machine Learning and Human Bias](https://www.youtube.com/watch?v=59bMh59JQDo) (**3 minutes**)
+- Watch [How I'm fighting bias in algorithms](https://www.youtube.com/watch?v=UG_X_7g63rY) by Joy Buolamwini (**9 minutes**)
+
 
 
 <!-- Due this Wednesday (2020/02/19):
@@ -59,3 +71,14 @@ Due Monday (2020/02/24):
         - [How to collect data using Google Forms
     ](labs/collect-data-google-form)
 - Watch [this fun talk by Mike Bostock](https://vimeo.com/69448223), creator of [D3js](http://d3js.org/). -->
+
+
+<!-- Monday (2020/03/02):
+- Read and add three contributions to this weeks reading assignment of "*You Are Your Data*" by Deborah Lupton. The text and the description of the assignment are in [this document](https://docs.google.com/document/d/1hl5ehstO1GhcWEio7DIl55m22Aqr3FDEl8rDK2bdsTQ/edit?usp=sharing).
+- Listen (and enjoy) to this podcast: *Artificial Intelligence: The Problem with Bias, with Kate Crawford*. Here is a [Spotify Link](https://open.spotify.com/episode/0ysGO67iXaPmTx4h9v33z3?si=FmJeEuyJTeiqckjpHCTlVQ) - if you have trouble accessing, please contact me.
+- Read through the Data Zine Project brief, especially the “The Data” paragraph, multiple times.
+  - Define on a phenomenon that you will document/collect data about.
+  - Name the features that you will take note of.  
+Be poetic.
+  - Check back with me on Slack if you are unsure or need help deciding between different options.
+  - Start collecting your data tonight and present a week’s worth of data next week. -->
