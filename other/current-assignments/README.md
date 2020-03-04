@@ -1,16 +1,5 @@
 
 
-
-
-Due Wednesday (2020/03/04):
-- Read the [notes from the lab](labs/lab-2) carefully and watch the videos.
-- Read them again, and email me questions you have. Book my [office hours](https://calendar.google.com/calendar/selfsched?sstoken=UUE0X1AyMVlCNnpyfGRlZmF1bHR8ZTBmYjk2MTcyMjZkZmUwMzhjYTllN2IxMzlkMmQ4MTU), too.
-- Use D3 to turn the dataset you are currently collecting (started after Week 2 class) into shapes.
-- Do not worry about visualizing the data *effectively* yet.
-- create any shapes from it and use [data functions](labs/lab-2#data-functions) in at least one spot in way that the value of your data point affects the shape you created using D3.
-- push your work to your repo and submit a link to the [class wiki](https://github.com/leoneckert/critical-data-and-visualization-spring-2020/wiki) by Wednesday (2019/09/18)
-- Upload a JSON file of the data you have so far self-collected to your repository and post a link to the [class wiki](https://github.com/leoneckert/critical-data-and-visualization-spring-2020/wiki).
-
 Due Monday (2020/03/09):
 - "[Automating Inequality](https://us.macmillan.com/books/9781250074317)" (2018) is a fantastic book by Virginia Eubanks that addresses specifically the *who* -- who is impacted by the process of *datafication* of society we discuss in this class. The book discusses the *who* that is not individuals, but groups of people.
   - This week, you don't have to read (you may if you wish; I can make the book available to you), but listen to an interview with the author Virginia Eubanks.
@@ -29,6 +18,11 @@ Due Monday (2020/03/09):
 - Watch [Machine Learning and Human Bias](https://www.youtube.com/watch?v=59bMh59JQDo) (**3 minutes**)
 - Watch [How I'm fighting bias in algorithms](https://www.youtube.com/watch?v=UG_X_7g63rY) by Joy Buolamwini (**9 minutes**)
 
+Due Wednesday (2020/03/11):
+- Visualize your data making use of group (`<g>`) elements
+- Your data points have multiple categories (names, values, labels etc.). Make each category affect a different aspect of a visual representation in a group.
+- Take this example by [Giorgia Lupi](http://giorgialupi.com/dear-data). Each shape is a group of other shapes with attributes that represent different aspects of the data. She describes her logic on the back of the postcard. Create your own such logic for your data, and group shapes with different attributes into svg group elements.
+  ![giorgia](other/assets/DearData-week52-Giorgia.jpg)
 
 
 <!-- Due this Wednesday (2020/02/19):
@@ -82,3 +76,13 @@ Due Monday (2020/02/24):
 Be poetic.
   - Check back with me on Slack if you are unsure or need help deciding between different options.
   - Start collecting your data tonight and present a week’s worth of data next week. -->
+
+
+<!-- Due Wednesday (2020/03/04):
+- Read the [notes from the lab](labs/lab-2) carefully and watch the videos.
+- Read them again, and email me questions you have. Book my [office hours](https://calendar.google.com/calendar/selfsched?sstoken=UUE0X1AyMVlCNnpyfGRlZmF1bHR8ZTBmYjk2MTcyMjZkZmUwMzhjYTllN2IxMzlkMmQ4MTU), too.
+- Use D3 to turn the dataset you are currently collecting (started after Week 2 class) into shapes.
+- Do not worry about visualizing the data *effectively* yet.
+- create any shapes from it and use [data functions](labs/lab-2#data-functions) in at least one spot in way that the value of your data point affects the shape you created using D3.
+- push your work to your repo and submit a link to the [class wiki](https://github.com/leoneckert/critical-data-and-visualization-spring-2020/wiki) by Wednesday (2019/09/18)
+- Upload a JSON file of the data you have so far self-collected to your repository and post a link to the [class wiki](https://github.com/leoneckert/critical-data-and-visualization-spring-2020/wiki). -->

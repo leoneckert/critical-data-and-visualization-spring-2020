@@ -26,7 +26,7 @@ Decisions based on algorithms affect society at large whether it’s changing th
 So, what exactly is data? How is value extracted from it? And why should we care? How can we ethically balance the positive uses of data-driven systems with the threats they pose to discriminate and infringe basic human rights? This course seeks to untangle some of these issues practically and theoretically.
 
 ### Content
-- Week 1 - [Guessing The Landscape](#week-1)
+- Week 1 - [Mapping The Landscape](#week-1)
 - Week 2 - [Data Types](#week-2)
 - Week 3 - [Human / Bias I](#week-3)
 - Week 4 - Human / Bias II
@@ -43,7 +43,8 @@ So, what exactly is data? How is value extracted from it? And why should we care
 
 ## Week 1
 
-![Guessing the Landscape](other/assets/week1.jpg)
+![Mapping the Landscape](other/assets/week1.png)
+
 ### Monday Class
 
 Introductions.
@@ -133,6 +134,8 @@ Due Wednesday (2020/02/26):
 
 ## Week 2
 
+![data types](other/assets/week2.png)
+
 Data (types or categories)
 
 ### Monday Class
@@ -198,6 +201,8 @@ Due Wednesday (2020/03/04):
 
 ## Week 3
 
+![human bias 1](other/assets/week3.png)
+
 Human / Bias I
 
 ### Monday Class
@@ -236,6 +241,201 @@ Due Monday (2020/03/09):
   - Post your writing to the [class wiki](https://github.com/leoneckert/critical-data-and-visualization-spring-2020/wiki).
 - Watch [Machine Learning and Human Bias](https://www.youtube.com/watch?v=59bMh59JQDo) (**3 minutes**)
 - Watch [How I'm fighting bias in algorithms](https://www.youtube.com/watch?v=UG_X_7g63rY) by Joy Buolamwini (**9 minutes**)
+
+
+### Wednesday Lab
+
+Find the Lab in detail [here](https://github.com/leoneckert/cdv-fall19/tree/master/labs/lab3)
+
+Content:
+- [useful resources](other/resources)
+- Binding Data to Elements: Various Scenarios
+  - a **no-code** introduction to enter-, update-, and exit-selections ([slides](https://docs.google.com/presentation/d/1B8bSYedD5rO4Tu18KTdbA0u2jMxSOMJFpT856HZIfBM/edit?usp=sharing))
+- incoming data: the enter-selection in detail ([slides](https://docs.google.com/presentation/d/1u0r8bXqpMTD-H6xq3mYBjHmQNkIfn27iMgERj6AZY5E/edit?usp=sharing))
+- loading data and data functions: 2 "*rules*" to avoid errors
+- Classes: why & how we should use them ([video](https://nyu.zoom.us/rec/share/949WdJOr_WZJZ4Gdr0rFBYkPQZ_Vaaa82nBI-vsLmE7rf2Tn3ZAgfjdQoPpq8TQ2)\*)
+- Groups: Structure ([video](https://nyu.zoom.us/rec/share/1_VRPqnr53tJQ7ff7mDlQ7EFQtjFX6a81yge8vJYnkfUcXCcnG6MNZ6SNoAZ7Sv2)\*)
+
+\*videos can be downloaded on the same link
+
+#### Assignments:
+
+Due Wednesday (2020/03/11):
+- Visualize your data making use of group (`<g>`) elements
+- Your data points have multiple categories (names, values, labels etc.). Make each category affect a different aspect of a visual representation in a group.
+- Take this example by [Giorgia Lupi](http://giorgialupi.com/dear-data). Each shape is a group of other shapes with attributes that represent different aspects of the data. She describes her logic on the back of the postcard. Create your own such logic for your data, and group shapes with different attributes into svg group elements.
+  ![giorgia](other/assets/DearData-week52-Giorgia.jpg)
+
+
+
+
+
+<!-- ## Week 4
+
+![human bias 2](other/assets/week4.png)
+
+Human / Bias II -->
+
+
+
+
+
+
+
+
+
+
+
+<!-- ## Week 5
+
+![prediction and uncertainty](other/assets/week5.png)
+
+Prediction & Uncertainty -->
+
+
+
+
+
+
+
+
+
+
+<!-- ## Week 6
+
+![Data Zine Project Presentations](other/assets/week6.png)
+
+Data Zine Project Presentations -->
+
+
+
+
+
+
+
+
+
+<!-- ## Week 7
+
+![Surveillance Capitalism I](other/assets/week7.png)
+
+Surveillance Capitalism I -->
+
+
+
+
+
+
+
+
+
+<!-- ## Week 8
+
+![Surveillance Capitalism II](other/assets/week8.png)
+
+Surveillance Capitalism II -->
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- ## Week 9
+
+![Ethics & Privacy](other/assets/week9.png)
+
+Ethics & Privacy -->
+
+
+
+
+
+
+
+
+
+
+
+<!-- ## Week 10
+
+![Data Story: Contextual Report Presentations](other/assets/week10.png)
+
+Data Story: Contextual Report Presentations -->
+
+
+
+
+
+
+
+
+
+
+
+<!-- ## Week 11
+
+![Power & Control I](other/assets/week11.png)
+
+Power & Control I -->
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- ## Week 12
+
+![Power & Control II](other/assets/week12.png)
+
+Power & Control II -->
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- ## Week 13
+
+![Resistance](other/assets/week13.png)
+
+Resistance -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- ## Week 14
+
+![Data Story: Final Project Presentation](other/assets/week14.png)
+
+Data Story: Final Project Presentation -->
 
 
 
