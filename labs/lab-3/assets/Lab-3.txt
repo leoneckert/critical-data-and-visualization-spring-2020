@@ -1,0 +1,46 @@
+Lab3 - Welcome to D3js II
+
+
+PART 1: Classes
+	 Why & How we should use classes
+	
+Part 2: Groups
+	 Bring structure and unique character
+	 to your visualization
+	
+
+Critical Data and Visualization 
+Leon Eckert
+
+Lab3 - Welcome to D3js II
+
+
+PART 1: Classes
+
+	 Why & How we should use classes
+
+
+
+
+Critical Data and Visualization 
+Leon Eckert
+
+Lab3 - Welcome to D3js II
+
+
+PART 2: Groups
+
+	 Bring structure and unique character
+	 to your visualization
+
+	clean structure
+	complex shapes / more expressive
+	move multiple shapes at the same time
+	link text to you shapes
+
+
+
+
+Critical Data and Visualization 
+Leon Eckert
+	

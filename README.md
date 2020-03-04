@@ -245,7 +245,7 @@ Due Monday (2020/03/09):
 
 ### Wednesday Lab
 
-Find the Lab in detail [here](https://github.com/leoneckert/cdv-fall19/tree/master/labs/lab3)
+Find the Lab in detail [here](labs/lab-3)
 
 Content:
 - [useful resources](other/resources)
