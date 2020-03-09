@@ -287,7 +287,7 @@ Human / Bias II
 ```
       MONDAY, 2020/03/23
 ```
-- Data Zine: [Prototype](other/material/datazine-paperprototype.pdf) (see assignments) and [Coding Template](other/material/datazine-template.zip).
+- Data Zine: Prototype([A3](other/material/datazine-paperprototype.pdf)，[A4](other/material/datazine-paperprototype-嗄.pdf)） (see assignments) and [Coding Template](other/material/datazine-template.zip).
 
 \*with thanks to Mimi Onuoha And Mother Cyborg (Diana Nucera); the activity is taken from their publication "[*A people's guide to AI*](https://www.alliedmedia.org/peoples-ai)" (2018)
 
@@ -300,7 +300,7 @@ Due **THIS** Wednesday (2020/03/11):
   - Sources of Graphical Integrity and Sophistication
   - I highly recommend getting a physical copy from the library. A [digital version]https://drive.google.com/file/d/1Hz0ZRcJYTy-WkZQq3_DYJ9MLq5eF3k5C/view is also  available on request.
 - Paper prototype for your Data Zine Project:
-  - Print out [this template](other/material/datazine-paperprototype.pdf) on A3-sized paper.
+  - Print out [the template](other/material/datazine-paperprototype.pdf) on A3-sized paper, or [this template](other/material/datazine-paperprototype-4.pdf) on A4-size paper.
   - Sketch out where you are planning to put which information (graphic and descriptive text). Remember you can create more than one visualization to illustrate different aspects of your data set.
   - Scan your prototype, push it to your repository and add a link to the [class wiki](https://github.com/leoneckert/critical-data-and-visualization-spring-2020/wiki).
 

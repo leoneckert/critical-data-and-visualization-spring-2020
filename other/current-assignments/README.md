@@ -12,7 +12,7 @@ Due Wednesday (2020/03/11):
   - Sources of Graphical Integrity and Sophistication
   - I highly recommend getting a physical copy from the library. A [digital version]https://drive.google.com/file/d/1Hz0ZRcJYTy-WkZQq3_DYJ9MLq5eF3k5C/view is also  available on request.
 - Paper prototype for your Data Zine Project:
-  - Print out [this template](../material/datazine-paperprototype.pdf) on A3-sized paper.
+  - Print out [the template](other/material/datazine-paperprototype.pdf) on A3-sized paper, or [this template](other/material/datazine-paperprototype-4.pdf) on A4-size paper.
   - Sketch out where you are planning to put which information (graphic and descriptive text). Remember you can create more than one visualization to illustrate different aspects of your data set.
   - Scan your prototype, push it to your repository and add a link to the [class wiki](https://github.com/leoneckert/critical-data-and-visualization-spring-2020/wiki).
 
