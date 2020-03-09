@@ -15,6 +15,6 @@ The goal of this visualization is display all data the data points and their fea
 The format of your zine is small. Keep this is mind when deciding on the size of texts you include. The visualization will be ultimately printed. Take into consideration how well contrasts appear on paper when you choose colors. Make test prints!
 
 ### Deliverables:
-- JSON data set, by [DATE HERE]
-- paper prototype, by [DATE HERE]
-- code for the visualization, by [DATE HERE]
+- [X] JSON data set (in-progress), by 2020/03/04
+- [ ] paper prototype, by 2020/03/11
+- [ ] code for the visualization, by 2020/03/21 (SATURDAY!)

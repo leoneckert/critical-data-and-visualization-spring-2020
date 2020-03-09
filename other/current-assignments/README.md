@@ -1,28 +1,38 @@
 
 
-Due Monday (2020/03/09):
-- "[Automating Inequality](https://us.macmillan.com/books/9781250074317)" (2018) is a fantastic book by Virginia Eubanks that addresses specifically the *who* -- who is impacted by the process of *datafication* of society we discuss in this class. The book discusses the *who* that is not individuals, but groups of people.
-  - This week, you don't have to read (you may if you wish; I can make the book available to you), but listen to an interview with the author Virginia Eubanks.
-    -  "Writer's Voice, Automating Inequality w Virginia Eubanks" (**1 hour**)
-      - [web link](https://www.writersvoice.net/tag/virginia-eubanks/), [Apple Podcast](https://podcasts.apple.com/us/podcast/virginia-eubanks-automating-inequality/id268934105?i=1000454045481), it's on Spotify, too, but I cannot link to it for a strange reason, search for `Virginia Eubanks, AUTOMATING INEQUALITY` and find this image:
-      - ![automating inqequality](../assets/ve.png)
-  - Formulate short responses to the following prompts, no more than **400-500 words in total**.
-    - How to technical tools promise to "fair out" the remaining discrimination that exist in social/welfare systems? In how far can they succeed, in which ways do they fail?
-    - Imagine, what could this (following quotes) mean in the widest sense?
-      > "*The state doesn't need a cop to kill a person*" and "*electronic incarceration*"
-    - What do you understand this to mean?
-      > "*systems act as a kind of 'empathy-overwrite'*"
-    - China is much more advanced and expansive when it comes to applying technical solutions to societal processes or instant challenges ([recent example](https://www.nytimes.com/2020/03/01/business/china-coronavirus-surveillance.html?)). Try to point example cases in China that are in accordance or in opposition to the problematics discussed in the podcast. Perhaps you can think of
-      > "*technical systems not well thought-through about what their impace on human beings is*"
-  - Post your writing to the [class wiki](https://github.com/leoneckert/critical-data-and-visualization-spring-2020/wiki).
-- Watch [Machine Learning and Human Bias](https://www.youtube.com/watch?v=59bMh59JQDo) (**3 minutes**)
-- Watch [How I'm fighting bias in algorithms](https://www.youtube.com/watch?v=UG_X_7g63rY) by Joy Buolamwini (**9 minutes**)
-
 Due Wednesday (2020/03/11):
 - Visualize your data making use of group (`<g>`) elements
 - Your data points have multiple categories (names, values, labels etc.). Make each category affect a different aspect of a visual representation in a group.
 - Take this example by [Giorgia Lupi](http://giorgialupi.com/dear-data). Each shape is a group of other shapes with attributes that represent different aspects of the data. She describes her logic on the back of the postcard. Create your own such logic for your data, and group shapes with different attributes into svg group elements.
-  ![giorgia](other/assets/DearData-week52-Giorgia.jpg)
+  ![giorgia](../assets/DearData-week52-Giorgia.jpg)
+
+- Read the following Chapters of The Visual Display of Quantitative Information by Edward R. Tufte:
+  - Graphical Excellence
+  - Graphical Integrity
+  - Sources of Graphical Integrity and Sophistication
+  - I highly recommend getting a physical copy from the library. A [digital version]https://drive.google.com/file/d/1Hz0ZRcJYTy-WkZQq3_DYJ9MLq5eF3k5C/view is also  available on request.
+- Paper prototype for your Data Zine Project:
+  - Print out [this template](../material/datazine-paperprototype.pdf) on A3-sized paper.
+  - Sketch out where you are planning to put which information (graphic and descriptive text). Remember you can create more than one visualization to illustrate different aspects of your data set.
+  - Scan your prototype, push it to your repository and add a link to the [class wiki](https://github.com/leoneckert/critical-data-and-visualization-spring-2020/wiki).
+
+Due Monday (2020/03/16):
+- To take in:
+  - Read [*The Minority Report*](../../readings/Philip-K-Dick-The-Minority-Report.pdf) by Philip K. Dick.
+  - Read [*What statistics can't tell us about ourselves*](https://www.newyorker.com/magazine/2019/09/09/what-statistics-can-and-cant-tell-us-about-ourselves) by Hannah Fry (September 9, 2019 Issue of The New Yorker)
+  - Listen to two parts of **Reply All's 'The Crime Machine' Podcast**. This is both super entertaining AND relevant next class. You can listen to the podcast via
+    - your browser ([Part 1](https://gimletmedia.com/shows/reply-all/o2hx34), [Part 2](https://gimletmedia.com/shows/reply-all/n8hwl7))
+    - spotify ([Part 1](https://open.spotify.com/episode/6uagdYENZ1HjiaeX7gbqIN), [Part 2](https://open.spotify.com/episode/4ULMa8oh9nJWSv4PM9gPNh))
+    - apple podcast ([Part 1](https://podcasts.apple.com/hk/podcast/127-the-crime-machine-part-i/id941907967?i=1000446958122), [Part 2](https://podcasts.apple.com/hk/podcast/128-the-crime-machine-part-ii/id941907967?i=1000446958123))
+    - other services (search "Reply All Crime Machine")
+- To put out:
+  - Think of contemporary systems/applications in which data is used to predict the future in order to then act upon it. Compile a list of 3 such situations that come to your mind and describe them **briefly**.
+  - Collect your thoughts on the *Prediction* and its role in the three above sources. Your associations, opinions and ideas may be complemented by reflections on *"collective average vs individual fate"*, *"statistic vs. algorithmic prediction"* or *"social physics"* (but don't feel obliged to discuss these). Express yourself in 300-400 words.
+  - add your writing to the [class wiki](https://github.com/leoneckert/critical-data-and-visualization-spring-2020/wiki).
+
+
+
+
 
 
 <!-- Due this Wednesday (2020/02/19):
@@ -86,3 +96,24 @@ Be poetic.
 - create any shapes from it and use [data functions](labs/lab-2#data-functions) in at least one spot in way that the value of your data point affects the shape you created using D3.
 - push your work to your repo and submit a link to the [class wiki](https://github.com/leoneckert/critical-data-and-visualization-spring-2020/wiki) by Wednesday (2019/09/18)
 - Upload a JSON file of the data you have so far self-collected to your repository and post a link to the [class wiki](https://github.com/leoneckert/critical-data-and-visualization-spring-2020/wiki). -->
+
+
+
+
+<!-- Due Monday (2020/03/09):
+- "[Automating Inequality](https://us.macmillan.com/books/9781250074317)" (2018) is a fantastic book by Virginia Eubanks that addresses specifically the *who* -- who is impacted by the process of *datafication* of society we discuss in this class. The book discusses the *who* that is not individuals, but groups of people.
+  - This week, you don't have to read (you may if you wish; I can make the book available to you), but listen to an interview with the author Virginia Eubanks.
+    -  "Writer's Voice, Automating Inequality w Virginia Eubanks" (**1 hour**)
+      - [web link](https://www.writersvoice.net/tag/virginia-eubanks/), [Apple Podcast](https://podcasts.apple.com/us/podcast/virginia-eubanks-automating-inequality/id268934105?i=1000454045481), it's on Spotify, too, but I cannot link to it for a strange reason, search for `Virginia Eubanks, AUTOMATING INEQUALITY` and find this image:
+      - ![automating inqequality](../assets/ve.png)
+  - Formulate short responses to the following prompts, no more than **400-500 words in total**.
+    - How to technical tools promise to "fair out" the remaining discrimination that exist in social/welfare systems? In how far can they succeed, in which ways do they fail?
+    - Imagine, what could this (following quotes) mean in the widest sense?
+      > "*The state doesn't need a cop to kill a person*" and "*electronic incarceration*"
+    - What do you understand this to mean?
+      > "*systems act as a kind of 'empathy-overwrite'*"
+    - China is much more advanced and expansive when it comes to applying technical solutions to societal processes or instant challenges ([recent example](https://www.nytimes.com/2020/03/01/business/china-coronavirus-surveillance.html?)). Try to point example cases in China that are in accordance or in opposition to the problematics discussed in the podcast. Perhaps you can think of
+      > "*technical systems not well thought-through about what their impact on human beings is*"
+  - Post your writing to the [class wiki](https://github.com/leoneckert/critical-data-and-visualization-spring-2020/wiki).
+- Watch [Machine Learning and Human Bias](https://www.youtube.com/watch?v=59bMh59JQDo) (**3 minutes**)
+- Watch [How I'm fighting bias in algorithms](https://www.youtube.com/watch?v=UG_X_7g63rY) by Joy Buolamwini (**9 minutes**) -->

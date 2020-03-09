@@ -237,7 +237,7 @@ Due Monday (2020/03/09):
     - What do you understand this to mean?
       > "*systems act as a kind of 'empathy-overwrite'*"
     - China is much more advanced and expansive when it comes to applying technical solutions to societal processes or instant challenges ([recent example](https://www.nytimes.com/2020/03/01/business/china-coronavirus-surveillance.html?)). Try to point example cases in China that are in accordance or in opposition to the problematics discussed in the podcast. Perhaps you can think of
-      > "*technical systems not well thought-through about what their impace on human beings is*"
+      > "*technical systems not well thought-through about what their impact on human beings is*"
   - Post your writing to the [class wiki](https://github.com/leoneckert/critical-data-and-visualization-spring-2020/wiki).
 - Watch [Machine Learning and Human Bias](https://www.youtube.com/watch?v=59bMh59JQDo) (**3 minutes**)
 - Watch [How I'm fighting bias in algorithms](https://www.youtube.com/watch?v=UG_X_7g63rY) by Joy Buolamwini (**9 minutes**)
@@ -270,20 +270,53 @@ Due Wednesday (2020/03/11):
 
 
 
-<!-- ## Week 4
+## Week 4
 
 ![human bias 2](other/assets/week4.png)
 
-Human / Bias II -->
+Human / Bias II
 
 
 
+### Monday Class
 
 
+- discussion of ["*Automating Inequality*"](https://github.com/leoneckert/critical-data-and-visualization-spring-2020/wiki/Responses-to-Automating-Inequality-(week4))
+- Group Exercise!* ([slides](https://docs.google.com/presentation/d/1xaiOLn12vRbB4oAsggFmZdZEmsXx1sCrLaOQcHfvFGg/edit?usp=sharing))
+- the [Data Zine Project](projects/data-zine-project) is due on:
+```
+      MONDAY, 2020/03/23
+```
+- Data Zine: [Prototype](other/material/datazine-paperprototype.pdf) (see assignments) and [Coding Template](other/material/datazine-template.zip).
 
+\*with thanks to Mimi Onuoha And Mother Cyborg (Diana Nucera); the activity is taken from their publication "[*A people's guide to AI*](https://www.alliedmedia.org/peoples-ai)" (2018)
 
+#### Assignments:
 
+Due **THIS** Wednesday (2020/03/11):
+- Read the following Chapters of The Visual Display of Quantitative Information by Edward R. Tufte:
+  - Graphical Excellence
+  - Graphical Integrity
+  - Sources of Graphical Integrity and Sophistication
+  - I highly recommend getting a physical copy from the library. A [digital version]https://drive.google.com/file/d/1Hz0ZRcJYTy-WkZQq3_DYJ9MLq5eF3k5C/view is also  available on request.
+- Paper prototype for your Data Zine Project:
+  - Print out [this template](other/material/datazine-paperprototype.pdf) on A3-sized paper.
+  - Sketch out where you are planning to put which information (graphic and descriptive text). Remember you can create more than one visualization to illustrate different aspects of your data set.
+  - Scan your prototype, push it to your repository and add a link to the [class wiki](https://github.com/leoneckert/critical-data-and-visualization-spring-2020/wiki).
 
+Due Monday (2020/03/16):
+- To take in:
+  - Read [*The Minority Report*](readings/Philip-K-Dick-The-Minority-Report.pdf) by Philip K. Dick.
+  - Read [*What statistics can't tell us about ourselves*](https://www.newyorker.com/magazine/2019/09/09/what-statistics-can-and-cant-tell-us-about-ourselves) by Hannah Fry (September 9, 2019 Issue of The New Yorker)
+  - Listen to two parts of **Reply All's 'The Crime Machine' Podcast**. This is both super entertaining AND relevant next class. You can listen to the podcast via
+    - your browser ([Part 1](https://gimletmedia.com/shows/reply-all/o2hx34), [Part 2](https://gimletmedia.com/shows/reply-all/n8hwl7))
+    - spotify ([Part 1](https://open.spotify.com/episode/6uagdYENZ1HjiaeX7gbqIN), [Part 2](https://open.spotify.com/episode/4ULMa8oh9nJWSv4PM9gPNh))
+    - apple podcast ([Part 1](https://podcasts.apple.com/hk/podcast/127-the-crime-machine-part-i/id941907967?i=1000446958122), [Part 2](https://podcasts.apple.com/hk/podcast/128-the-crime-machine-part-ii/id941907967?i=1000446958123))
+    - other services (search "Reply All Crime Machine")
+- To put out:
+  - Think of contemporary systems/applications in which data is used to predict the future in order to then act upon it. Compile a list of 3 such situations that come to your mind and describe them **briefly**.
+  - Collect your thoughts on the *Prediction* and its role in the three above sources. Your associations, opinions and ideas may be complemented by reflections on *"collective average vs individual fate"*, *"statistic vs. algorithmic prediction"* or *"social physics"* (but don't feel obliged to discuss these). Express yourself in 300-400 words.
+  - add your writing to the [class wiki](https://github.com/leoneckert/critical-data-and-visualization-spring-2020/wiki).
 
 
 <!-- ## Week 5

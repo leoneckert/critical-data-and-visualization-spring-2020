@@ -9,6 +9,7 @@
 - [Check what's wrong with your JSON file here](https://jsonlint.com/)
 - Mapping: coordinate tool: [teczno.com/squares](http://teczno.com/squares/)
 - [Markdown Cheatsheet](https://guides.github.com/features/mastering-markdown/)
+- [D3 Shapes - good explanations](https://www.d3indepth.com/shapes/)
 
 ### General JS
 - [Array Methods (to format/clean/restructure data)](https://dev.to/thegamefreak720/how-not-to-be-scared-of-js-array-methods-foreach-map-filter-and-reduce-2c13)
@@ -36,6 +37,9 @@
 - [An animated bubble map of U.S. population by state, 1790–1990. (tweet + reply)](https://twitter.com/mbostock/status/1232819317055475717?s=20)
 - [Mapping Wikipedia](https://www.theatlantic.com/technology/archive/2020/02/where-wikipedias-editors-are-where-they-arent-and-why/605023/)
 - [Mapping coronavirus, responsibly](https://www.esri.com/arcgis-blog/products/product/mapping/mapping-coronavirus-responsibly/)
+- [Streets in Brussels](https://twitter.com/karim_douieb/status/1235137396418760705)
+- [Sorting Streets](http://fakeisthenewreal.org/street-grids/)
+
 
 ### Infos
 
@@ -64,5 +68,7 @@
 - [Corona Virus Data](https://www.kaggle.com/sudalairajkumar/novel-corona-virus-2019-dataset)
 - [Eurostat.js: "Reusable library to quickly create and customise web maps showing data directly retrieved from @EU_Eurostat database"](https://github.com/eurostat/eurostat.js)
 - [Maps in geojson and other formats](https://geo.nyu.edu)
+- [Open Knowdledge Foundation](https://okfn.org/network/)
+- [Epidemiological data of COVID-19 patients in South Korea](https://www.kaggle.com/kimjihoo/coronavirusdataset)
 
 \*Thanks for contributing, Thomas, Phyllis, Eszter!
