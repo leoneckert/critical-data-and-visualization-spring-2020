@@ -1,15 +1,16 @@
 ### JavaScript's `.forEach()`, `.filter()` and `.map()` method
 
 #### Content
-- Intro
-- The For Loop & `.forEach()`
+- [Intro](#intro)
+- [The For Loop & `.forEach()`](#the-for-loop--foreach)
   - use `.forEach()` to **read** each element of an array and do something with its value.
-- The For Loop & `.filter()`
+- [The For Loop & `.filter()`](#the-for-loop--filter)
   - use `.filter()` to construct a new array with only a selection of element from an old array.
-- The For Loop & `.map()`
+- [The For Loop & `.map()`](#the-for-loop--map)
   - use `.map()` to construct a new array that is based on an old array with each element modified.
-- Notes on style 1
-- Notes on style 2
+- [Notes on style 1](#notes-on-style-1)
+- [Notes on style 2](#notes-on-style-2)
+
 
 
 ###### Intro
