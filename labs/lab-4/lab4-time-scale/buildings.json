@@ -1,0 +1,702 @@
+[
+    {
+        "name": "23 Marina",
+        "city": "Dubai(AE)",
+        "height": 392.4,
+        "floors": 88,
+        "completion": 2012
+    },
+    {
+        "name": "3 World Trade Center",
+        "city": "New York City(US)",
+        "height": 328.9,
+        "floors": 69,
+        "completion": 2018
+    },
+    {
+        "name": "30 Hudson Yards",
+        "city": "New York City(US)",
+        "height": 386.6,
+        "floors": 73,
+        "completion": 2019
+    },
+    {
+        "name": "432 Park Avenue",
+        "city": "New York City(US)",
+        "height": 425.7,
+        "floors": 85,
+        "completion": 2015
+    },
+    {
+        "name": "85 Sky Tower",
+        "city": "Kaohsiung(CN)",
+        "height": 347.5,
+        "floors": 85,
+        "completion": 1997
+    },
+    {
+        "name": "875 North Michigan Avenue",
+        "city": "Chicago(US)",
+        "height": 343.7,
+        "floors": 100,
+        "completion": 1969
+    },
+    {
+        "name": "ADNOC Headquarters",
+        "city": "Abu Dhabi(AE)",
+        "height": 342,
+        "floors": 65,
+        "completion": 2015
+    },
+    {
+        "name": "Al Hamra Tower",
+        "city": "Kuwait City(KW)",
+        "height": 412.6,
+        "floors": 80,
+        "completion": 2011
+    },
+    {
+        "name": "Al Yaqoub Tower",
+        "city": "Dubai(AE)",
+        "height": 328,
+        "floors": 69,
+        "completion": 2013
+    },
+    {
+        "name": "Almas Tower",
+        "city": "Dubai(AE)",
+        "height": 360,
+        "floors": 68,
+        "completion": 2008
+    },
+    {
+        "name": "Aon Center",
+        "city": "Chicago(US)",
+        "height": 346.3,
+        "floors": 83,
+        "completion": 1973
+    },
+    {
+        "name": "Bank of America Tower",
+        "city": "New York City(US)",
+        "height": 365.8,
+        "floors": 55,
+        "completion": 2009
+    },
+    {
+        "name": "Bank of China Tower",
+        "city": "Hong Kong(CN)",
+        "height": 367.4,
+        "floors": 72,
+        "completion": 1990
+    },
+    {
+        "name": "Baoneng Center",
+        "city": "Shenzhen(CN)",
+        "height": 327.3,
+        "floors": 65,
+        "completion": 2018
+    },
+    {
+        "name": "Blue Tower",
+        "city": "Dubai(AE)",
+        "height": 317.6,
+        "floors": 72,
+        "completion": 2010
+    },
+    {
+        "name": "Burj Al Arab",
+        "city": "Dubai(AE)",
+        "height": 321,
+        "floors": 56,
+        "completion": 1999
+    },
+    {
+        "name": "Burj Khalifa",
+        "city": "Dubai(AE)",
+        "height": 828,
+        "floors": 163,
+        "completion": 2010
+    },
+    {
+        "name": "Burj Mohammed Bin Rashid",
+        "city": "Abu Dhabi(AE)",
+        "height": 381.2,
+        "floors": 88,
+        "completion": 2014
+    },
+    {
+        "name": "Central Plaza",
+        "city": "Hong Kong(CN)",
+        "height": 373.9,
+        "floors": 78,
+        "completion": 1992
+    },
+    {
+        "name": "Changsha IFS Tower T1",
+        "city": "Changsha(CN)",
+        "height": 452.1,
+        "floors": 94,
+        "completion": 2018
+    },
+    {
+        "name": "China Resources Tower",
+        "city": "Shenzhen(CN)",
+        "height": 392.5,
+        "floors": 68,
+        "completion": 2018
+    },
+    {
+        "name": "China World Tower",
+        "city": "Beijing(CN)",
+        "height": 330,
+        "floors": 74,
+        "completion": 2010
+    },
+    {
+        "name": "Chongqing World Financial Center",
+        "city": "Chongqing(CN)",
+        "height": 338.9,
+        "floors": 72,
+        "completion": 2015
+    },
+    {
+        "name": "Chrysler Building",
+        "city": "New York City(US)",
+        "height": 318.9,
+        "floors": 77,
+        "completion": 1930
+    },
+    {
+        "name": "CITIC Plaza",
+        "city": "Guangzhou(CN)",
+        "height": 390.2,
+        "floors": 80,
+        "completion": 1996
+    },
+    {
+        "name": "CITIC Tower",
+        "city": "Beijing(CN)",
+        "height": 527.7,
+        "floors": 109,
+        "completion": 2018
+    },
+    {
+        "name": "Comcast Technology Center",
+        "city": "Philadelphia(US)",
+        "height": 341.7,
+        "floors": 59,
+        "completion": 2018
+    },
+    {
+        "name": "DAMAC Heights",
+        "city": "Dubai(AE)",
+        "height": 335.1,
+        "floors": 88,
+        "completion": 2018
+    },
+    {
+        "name": "Deji Plaza",
+        "city": "Nanjing(CN)",
+        "height": 324,
+        "floors": 62,
+        "completion": 2013
+    },
+    {
+        "name": "Elite Residence",
+        "city": "Dubai(AE)",
+        "height": 380.5,
+        "floors": 87,
+        "completion": 2012
+    },
+    {
+        "name": "Emirates Tower One",
+        "city": "Dubai(AE)",
+        "height": 354.6,
+        "floors": 54,
+        "completion": 2000
+    },
+    {
+        "name": "Empire State Building",
+        "city": "New York City(US)",
+        "height": 381,
+        "floors": 102,
+        "completion": 1931
+    },
+    {
+        "name": "Eton Place Dalian Tower 1",
+        "city": "Dalian(CN)",
+        "height": 383.2,
+        "floors": 80,
+        "completion": 2016
+    },
+    {
+        "name": "Fanya International Finance Building North",
+        "city": "Kunming(CN)",
+        "height": 317.8,
+        "floors": 67,
+        "completion": 2016
+    },
+    {
+        "name": "Fanya International Finance Building South",
+        "city": "Kunming(CN)",
+        "height": 317.8,
+        "floors": 66,
+        "completion": 2016
+    },
+    {
+        "name": "Federation Tower",
+        "city": "Moscow(RU)",
+        "height": 373.7,
+        "floors": 93,
+        "completion": 2016
+    },
+    {
+        "name": "Forum 66 Tower 1",
+        "city": "Shenyang(CN)",
+        "height": 350.6,
+        "floors": 68,
+        "completion": 2015
+    },
+    {
+        "name": "Four Seasons Place",
+        "city": "Kuala Lumpur(MY)",
+        "height": 342.5,
+        "floors": 65,
+        "completion": 2018
+    },
+    {
+        "name": "Gevora Hotel",
+        "city": "Dubai(AE)",
+        "height": 356.3,
+        "floors": 75,
+        "completion": 2017
+    },
+    {
+        "name": "Global City Square",
+        "city": "Guangzhou(CN)",
+        "height": 318.9,
+        "floors": 67,
+        "completion": 2016
+    },
+    {
+        "name": "Guangxi Finance Plaza",
+        "city": "Nanning(CN)",
+        "height": 321,
+        "floors": 68,
+        "completion": 2017
+    },
+    {
+        "name": "Guangzhou CTF Finance Centre",
+        "city": "Guangzhou(CN)",
+        "height": 530,
+        "floors": 111,
+        "completion": 2016
+    },
+    {
+        "name": "Guangzhou International Finance Center",
+        "city": "Guangzhou(CN)",
+        "height": 438.6,
+        "floors": 103,
+        "completion": 2010
+    },
+    {
+        "name": "Hanking Center",
+        "city": "Shenzhen(CN)",
+        "height": 358.9,
+        "floors": 65,
+        "completion": 2018
+    },
+    {
+        "name": "Hon Kwok City Center",
+        "city": "Shenzhen(CN)",
+        "height": 329.4,
+        "floors": 80,
+        "completion": 2017
+    },
+    {
+        "name": "International Commerce Centre",
+        "city": "Hong Kong(CN)",
+        "height": 484,
+        "floors": 108,
+        "completion": 2010
+    },
+    {
+        "name": "Jin Mao Tower",
+        "city": "Shanghai(CN)",
+        "height": 420.5,
+        "floors": 88,
+        "completion": 1999
+    },
+    {
+        "name": "Jiuzhou International Tower",
+        "city": "Nanning(CN)",
+        "height": 318,
+        "floors": 71,
+        "completion": 2017
+    },
+    {
+        "name": "JW Marriott Marquis Hotel Dubai Tower 1",
+        "city": "Dubai(AE)",
+        "height": 355.4,
+        "floors": 82,
+        "completion": 2012
+    },
+    {
+        "name": "JW Marriott Marquis Hotel Dubai Tower 2",
+        "city": "Dubai(AE)",
+        "height": 355.4,
+        "floors": 82,
+        "completion": 2013
+    },
+    {
+        "name": "Keangnam Hanoi Landmark Tower",
+        "city": "Hanoi(VN)",
+        "height": 328.6,
+        "floors": 72,
+        "completion": 2012
+    },
+    {
+        "name": "KK100",
+        "city": "Shenzhen(CN)",
+        "height": 441.8,
+        "floors": 100,
+        "completion": 2011
+    },
+    {
+        "name": "Longxi International Hotel",
+        "city": "Wuxi(CN)",
+        "height": 328,
+        "floors": 72,
+        "completion": 2011
+    },
+    {
+        "name": "Lotte World Tower",
+        "city": "Seoul(KR)",
+        "height": 554.5,
+        "floors": 123,
+        "completion": 2017
+    },
+    {
+        "name": "Makkah Royal Clock Tower",
+        "city": "Mecca(SA)",
+        "height": 601,
+        "floors": 120,
+        "completion": 2012
+    },
+    {
+        "name": "Marina 101",
+        "city": "Dubai(AE)",
+        "height": 425,
+        "floors": 101,
+        "completion": 2017
+    },
+    {
+        "name": "Mercury City Tower",
+        "city": "Moscow(RU)",
+        "height": 338.8,
+        "floors": 75,
+        "completion": 2013
+    },
+    {
+        "name": "Minsheng Bank Building",
+        "city": "Wuhan(CN)",
+        "height": 331,
+        "floors": 68,
+        "completion": 2008
+    },
+    {
+        "name": "Nanning Logan Century 1",
+        "city": "Nanning(CN)",
+        "height": 381.3,
+        "floors": 82,
+        "completion": 2018
+    },
+    {
+        "name": "New York Times Tower",
+        "city": "New York City(US)",
+        "height": 318.8,
+        "floors": 52,
+        "completion": 2007
+    },
+    {
+        "name": "Nina Tower",
+        "city": "Hong Kong(CN)",
+        "height": 320.4,
+        "floors": 80,
+        "completion": 2006
+    },
+    {
+        "name": "OKO - Residential Tower",
+        "city": "Moscow(RU)",
+        "height": 354.2,
+        "floors": 90,
+        "completion": 2015
+    },
+    {
+        "name": "One Shenzhen Bay Tower 7",
+        "city": "Shenzhen(CN)",
+        "height": 341.4,
+        "floors": 71,
+        "completion": 2018
+    },
+    {
+        "name": "One World Trade Center",
+        "city": "New York City(US)",
+        "height": 541.3,
+        "floors": 94,
+        "completion": 2014
+    },
+    {
+        "name": "Petronas Twin Tower 1",
+        "city": "Kuala Lumpur(MY)",
+        "height": 451.9,
+        "floors": 88,
+        "completion": 1998
+    },
+    {
+        "name": "Petronas Twin Tower 2",
+        "city": "Kuala Lumpur(MY)",
+        "height": 451.9,
+        "floors": 88,
+        "completion": 1998
+    },
+    {
+        "name": "Ping An Finance Center",
+        "city": "Shenzhen(CN)",
+        "height": 599.1,
+        "floors": 115,
+        "completion": 2017
+    },
+    {
+        "name": "Princess Tower",
+        "city": "Dubai(AE)",
+        "height": 413.4,
+        "floors": 101,
+        "completion": 2012
+    },
+    {
+        "name": "Q1 Tower",
+        "city": "Gold Coast(AU)",
+        "height": 322.5,
+        "floors": 78,
+        "completion": 2005
+    },
+    {
+        "name": "Rose Rayhaan by Rotana",
+        "city": "Dubai(AE)",
+        "height": 333,
+        "floors": 71,
+        "completion": 2007
+    },
+    {
+        "name": "Salesforce Tower",
+        "city": "San Francisco(US)",
+        "height": 326.1,
+        "floors": 61,
+        "completion": 2018
+    },
+    {
+        "name": "Shanghai Tower",
+        "city": "Shanghai(CN)",
+        "height": 632,
+        "floors": 128,
+        "completion": 2015
+    },
+    {
+        "name": "Shanghai World Financial Center",
+        "city": "Shanghai(CN)",
+        "height": 492,
+        "floors": 101,
+        "completion": 2008
+    },
+    {
+        "name": "Shimao International Plaza",
+        "city": "Shanghai(CN)",
+        "height": 333.3,
+        "floors": 60,
+        "completion": 2006
+    },
+    {
+        "name": "Shun Hing Square",
+        "city": "Shenzhen(CN)",
+        "height": 384,
+        "floors": 69,
+        "completion": 1996
+    },
+    {
+        "name": "Sinar Mas Center 1",
+        "city": "Shanghai(CN)",
+        "height": 320,
+        "floors": 65,
+        "completion": 2017
+    },
+    {
+        "name": "Suning Plaza Tower 1",
+        "city": "Zhenjiang(CN)",
+        "height": 338,
+        "floors": 75,
+        "completion": 2018
+    },
+    {
+        "name": "TAIPEI 101",
+        "city": "Taipei(CN)",
+        "height": 508,
+        "floors": 101,
+        "completion": 2004
+    },
+    {
+        "name": "The Address Boulevard",
+        "city": "Dubai(AE)",
+        "height": 370,
+        "floors": 73,
+        "completion": 2017
+    },
+    {
+        "name": "The Center",
+        "city": "Hong Kong(CN)",
+        "height": 346,
+        "floors": 73,
+        "completion": 1998
+    },
+    {
+        "name": "The Index",
+        "city": "Dubai(AE)",
+        "height": 326,
+        "floors": 80,
+        "completion": 2010
+    },
+    {
+        "name": "The Landmark",
+        "city": "Abu Dhabi(AE)",
+        "height": 324,
+        "floors": 72,
+        "completion": 2013
+    },
+    {
+        "name": "The Pinnacle",
+        "city": "Guangzhou(CN)",
+        "height": 350.3,
+        "floors": 60,
+        "completion": 2012
+    },
+    {
+        "name": "The Torch",
+        "city": "Dubai(AE)",
+        "height": 352,
+        "floors": 86,
+        "completion": 2011
+    },
+    {
+        "name": "Tianjin CTF Finance Centre",
+        "city": "Tianjin(CN)",
+        "height": 530,
+        "floors": 97,
+        "completion": 2019
+    },
+    {
+        "name": "Tianjin Modern City Office Tower",
+        "city": "Tianjin(CN)",
+        "height": 338,
+        "floors": 65,
+        "completion": 2016
+    },
+    {
+        "name": "Tianjin World Financial Center",
+        "city": "Tianjin(CN)",
+        "height": 336.9,
+        "floors": 75,
+        "completion": 2011
+    },
+    {
+        "name": "Trump International Hotel & Tower",
+        "city": "Chicago(US)",
+        "height": 423.2,
+        "floors": 98,
+        "completion": 2009
+    },
+    {
+        "name": "Two International Finance Centre",
+        "city": "Hong Kong(CN)",
+        "height": 412,
+        "floors": 88,
+        "completion": 2003
+    },
+    {
+        "name": "Vincom Landmark 81",
+        "city": "Ho Chi Minh City(VN)",
+        "height": 461.3,
+        "floors": 81,
+        "completion": 2018
+    },
+    {
+        "name": "Wenzhou Trade Center",
+        "city": "Wenzhou(CN)",
+        "height": 321.9,
+        "floors": 68,
+        "completion": 2011
+    },
+    {
+        "name": "Willis Tower",
+        "city": "Chicago(US)",
+        "height": 442.1,
+        "floors": 108,
+        "completion": 1974
+    },
+    {
+        "name": "Wilshire Grand Center",
+        "city": "Los Angeles(US)",
+        "height": 335.3,
+        "floors": 73,
+        "completion": 2017
+    },
+    {
+        "name": "Wuhan Center Tower",
+        "city": "Wuhan(CN)",
+        "height": 438,
+        "floors": 88,
+        "completion": 2019
+    },
+    {
+        "name": "Wuxi International Finance Square",
+        "city": "Wuxi(CN)",
+        "height": 339,
+        "floors": 68,
+        "completion": 2014
+    },
+    {
+        "name": "Wuxi Suning Plaza 1",
+        "city": "Wuxi(CN)",
+        "height": 328,
+        "floors": 67,
+        "completion": 2014
+    },
+    {
+        "name": "Yantai Shimao No. 1 The Harbour",
+        "city": "Yantai(CN)",
+        "height": 323,
+        "floors": 59,
+        "completion": 2017
+    },
+    {
+        "name": "Yuexiu Fortune Center Tower 1",
+        "city": "Wuhan(CN)",
+        "height": 330,
+        "floors": 68,
+        "completion": 2017
+    },
+    {
+        "name": "Zhuhai St. Regis Hotel & Office Tower",
+        "city": "Zhuhai(CN)",
+        "height": 328.8,
+        "floors": 66,
+        "completion": 2017
+    },
+    {
+        "name": "Zifeng Tower",
+        "city": "Nanjing(CN)",
+        "height": 450,
+        "floors": 66,
+        "completion": 2010
+    }
+]
