@@ -25,12 +25,12 @@ document.body.appendChild(p1);
 
 // create "bob" p tag
 let p2 = document.createElement('p');
-p1.innerHTML = "bob";
+p2.innerHTML = "bob";
 document.body.appendChild(p2);
 
 // create "claire" p tag
 let p3 = document.createElement('p');
-p1.innerHTML = "claire";
+p3.innerHTML = "claire";
 document.body.appendChild(p3);
 
 ```
