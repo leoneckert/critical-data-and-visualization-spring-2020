@@ -1,21 +1,4 @@
 
-
-Due Wednesday (2020/03/11):
-- Visualize your data making use of group (`<g>`) elements
-- Your data points have multiple categories (names, values, labels etc.). Make each category affect a different aspect of a visual representation in a group.
-- Take this example by [Giorgia Lupi](http://giorgialupi.com/dear-data). Each shape is a group of other shapes with attributes that represent different aspects of the data. She describes her logic on the back of the postcard. Create your own such logic for your data, and group shapes with different attributes into svg group elements.
-  ![giorgia](../assets/DearData-week52-Giorgia.jpg)
-
-- Read the following Chapters of The Visual Display of Quantitative Information by Edward R. Tufte:
-  - Graphical Excellence
-  - Graphical Integrity
-  - Sources of Graphical Integrity and Sophistication
-  - I highly recommend getting a physical copy from the library. A [digital version]https://drive.google.com/file/d/1Hz0ZRcJYTy-WkZQq3_DYJ9MLq5eF3k5C/view is also  available on request.
-- Paper prototype for your Data Zine Project:
-  - Print out [the template](other/material/datazine-paperprototype.pdf) on A3-sized paper, or [this template](other/material/datazine-paperprototype-a4.pdf) on A4-size paper.
-  - Sketch out where you are planning to put which information (graphic and descriptive text). Remember you can create more than one visualization to illustrate different aspects of your data set.
-  - Scan your prototype, push it to your repository and add a link to the [class wiki](https://github.com/leoneckert/critical-data-and-visualization-spring-2020/wiki).
-
 Due Monday (2020/03/16):
 - To take in:
   - Read [*The Minority Report*](../../readings/Philip-K-Dick-The-Minority-Report.pdf) by Philip K. Dick.
@@ -29,8 +12,13 @@ Due Monday (2020/03/16):
   - Think of contemporary systems/applications in which data is used to predict the future in order to then act upon it. Compile a list of 3 such situations that come to your mind and describe them **briefly**.
   - Collect your thoughts on the *Prediction* and its role in the three above sources. Your associations, opinions and ideas may be complemented by reflections on *"collective average vs individual fate"*, *"statistic vs. algorithmic prediction"* or *"social physics"* (but don't feel obliged to discuss these). Express yourself in 300-400 words.
   - add your writing to the [class wiki](https://github.com/leoneckert/critical-data-and-visualization-spring-2020/wiki).
+- Be prepared to explain your Data Zine project to me in 2 minutes. Prepare visuals (your paper prototype, your in-progress coding, and more if necessary) to support your explanation.
+  - On Monday we will be chatting in a one-on-one setting to understand where you are in your process and what your needs are going forward.
 
 
+Due Wednesday (2020/03/18):
+- **Aim** to upload a finished version of your Data Zine project.
+  - Make notes of difficulties you still need to resolve.
 
 
 
@@ -117,3 +105,23 @@ Be poetic.
   - Post your writing to the [class wiki](https://github.com/leoneckert/critical-data-and-visualization-spring-2020/wiki).
 - Watch [Machine Learning and Human Bias](https://www.youtube.com/watch?v=59bMh59JQDo) (**3 minutes**)
 - Watch [How I'm fighting bias in algorithms](https://www.youtube.com/watch?v=UG_X_7g63rY) by Joy Buolamwini (**9 minutes**) -->
+
+
+
+
+
+<!-- Due Wednesday (2020/03/11):
+- Visualize your data making use of group (`<g>`) elements
+- Your data points have multiple categories (names, values, labels etc.). Make each category affect a different aspect of a visual representation in a group.
+- Take this example by [Giorgia Lupi](http://giorgialupi.com/dear-data). Each shape is a group of other shapes with attributes that represent different aspects of the data. She describes her logic on the back of the postcard. Create your own such logic for your data, and group shapes with different attributes into svg group elements.
+  ![giorgia](../assets/DearData-week52-Giorgia.jpg)
+
+- Read the following Chapters of The Visual Display of Quantitative Information by Edward R. Tufte:
+  - Graphical Excellence
+  - Graphical Integrity
+  - Sources of Graphical Integrity and Sophistication
+  - I highly recommend getting a physical copy from the library. A [digital version]https://drive.google.com/file/d/1Hz0ZRcJYTy-WkZQq3_DYJ9MLq5eF3k5C/view is also  available on request.
+- Paper prototype for your Data Zine Project:
+  - Print out [the template](other/material/datazine-paperprototype.pdf) on A3-sized paper, or [this template](other/material/datazine-paperprototype-a4.pdf) on A4-size paper.
+  - Sketch out where you are planning to put which information (graphic and descriptive text). Remember you can create more than one visualization to illustrate different aspects of your data set.
+  - Scan your prototype, push it to your repository and add a link to the [class wiki](https://github.com/leoneckert/critical-data-and-visualization-spring-2020/wiki). -->
