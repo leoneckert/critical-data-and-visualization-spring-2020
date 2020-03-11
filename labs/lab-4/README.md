@@ -17,5 +17,5 @@
 
 ### live coding demo: dead celebrities
 - [Exercise Files](lab4-time-scale)
-- Video processing
+- [Video](https://nyu.zoom.us/rec/share/yZV8D-GppzxJZtLV2BrVYYV5NIPuX6a81ihK-fQMmE_NQrWdwiOiPOP-SpIIOIQj)
 ![](assets/time-scale.png)
