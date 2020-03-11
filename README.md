@@ -319,6 +319,27 @@ Due Monday (2020/03/16):
   - add your writing to the [class wiki](https://github.com/leoneckert/critical-data-and-visualization-spring-2020/wiki).
 
 
+### Wednesday Lab
+
+Find the Lab in detail [here](labs/lab-4)
+
+Content:
+- intro to scales (with pictures) [slides](https://docs.google.com/presentation/d/1fRveGavkf0OOO7wL35Q4INLJjrYASywdpfBITSsrOCU/edit?usp=sharing)
+- live coding demo: high buildings
+- live coding demo: dead celebrities
+
+#### Assignments:
+
+Due Monday (2020/03/16):
+- Be prepared to explain your Data Zine project to me in 2 minutes. Prepare visuals (your paper prototype, your in-progress coding, and more if necessary) to support your explanation.
+  - On Monday we will be chatting in a one-on-one setting to understand where you are in your process and what your needs are going forward.
+
+
+Due Wednesday (2020/03/18):
+- **Aim** to upload a finished version of your Data Zine project.
+  - Make notes of difficulties you still need to resolve.
+
+
 <!-- ## Week 5
 
 ![prediction and uncertainty](other/assets/week5.png)

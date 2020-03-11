@@ -70,5 +70,6 @@
 - [Maps in geojson and other formats](https://geo.nyu.edu)
 - [Open Knowdledge Foundation](https://okfn.org/network/)
 - [Epidemiological data of COVID-19 patients in South Korea](https://www.kaggle.com/kimjihoo/coronavirusdataset)
+- [github.com/awesomedata/awesome-public-datasets](https://github.com/awesomedata/awesome-public-datasets)
 
 \*Thanks for contributing, Thomas, Phyllis, Eszter!
