@@ -60,7 +60,7 @@ This is a bit more convenient. It is also something we do a lot in code:
 - a loop that loops as many times as there are values in the array (`i < data.length`)
 - and then does something with each element of the array as it iterates over them (`data[i].name`).
 
-Because we use loops like this, when dealing with arrays so much, there is an even more convenient way of doing this: **arrays have an in-built method to let us access and 'do something with' each item that it carries**. This in-built method is called `.forEach()`:
+Because we use loops like this when dealing with arrays so much, there is an even more convenient way of doing this: **arrays have an in-built method to let us access and 'do something with' each item that it carries**. This in-built method is called `.forEach()`:
 
 ```js
 let data = [
@@ -78,7 +78,7 @@ function doSomething(element){
 data.forEach(doSomething);
 ```
 
-What is going on here? `.forEach` as a *method* that we can use with any array. It iterates over each element of the array, and *for each* of them, it call a function that we supply (e.g. `doSomething`). Please note, we do not *call* the function ourselves (we call functions with the help of two parenthesis `doSomething()`, but here, they are missing) - instead we pass a reference of the function (its name) to the `.forEach()` method; then, `.forEach()` itself call our function as it iterates over the array. In each iteration, it passes the current element it is iterating over as an argument to our function. We receive this argument by defining the function with a parameter: `function doSomething(element){`.
+What is going on here? `.forEach` is a *method* that we can use with any array. It iterates over the elements in the array, and *for each* of them, it call a function that we supply (e.g. `doSomething`). Please note, we do not *call* the function ourselves (we call functions with the help of two parenthesis `doSomething()`, but here, they are missing) - instead we pass a reference of the function (its name) to the `.forEach()` method; then, `.forEach()` itself call our function as it iterates over the array. In each iteration, it passes the current element it is iterating over as an argument to our function. We receive this argument by defining the function with a parameter: `function doSomething(element){`.
 
 In the first iteration, when `doSomething` is called, the value of `element` is `{name: "anna", age: 21}`, the second time it is `{name: "bob", age: 20}`, and the third time it's `name: "claire", age: 22}`.
 
