@@ -346,6 +346,22 @@ Due Wednesday (2020/03/18):
 
 Prediction & Uncertainty
 
+one-on-one check ins, each 4.6666666667 minutes ((75mins class time - 5 mins intro time)/14 students):
+- [ ] Iris
+- [ ] William
+- [ ] Daisy
+- [ ] Kris
+- [ ] Novia
+- [ ] Ellen
+- [ ] Kenneth
+- [ ] Lydia
+- [ ] Thea
+- [ ] Sumner
+- [ ] Lishan
+- [ ] Crystal
+- [ ] Yufeng
+- [ ] Shiny
+
 
 
 
