@@ -30,7 +30,7 @@ So, what exactly is data? How is value extracted from it? And why should we care
 - Week 2 - [Data Types](#week-2)
 - Week 3 - [Human / Bias I](#week-3)
 - Week 4 - [Human / Bias II](#week-4)
-- Week 5 - Prediction & Uncertainty
+- Week 5 - [Prediction & Uncertainty](#week-5)
 - Week 6 - Data Zine Project Presentation 🎉
 - Week 7 - Surveillance Capitalism I
 - Week 8 - Surveillance Capitalism II
@@ -340,11 +340,11 @@ Due Wednesday (2020/03/18):
   - Make notes of difficulties you still need to resolve.
 
 
-<!-- ## Week 5
+## Week 5
 
 ![prediction and uncertainty](other/assets/week5.png)
 
-Prediction & Uncertainty -->
+Prediction & Uncertainty
 
 
 

@@ -19,3 +19,5 @@
 - [Exercise Files](lab4-time-scale)
 - [Video](https://nyu.zoom.us/rec/share/yZV8D-GppzxJZtLV2BrVYYV5NIPuX6a81ihK-fQMmE_NQrWdwiOiPOP-SpIIOIQj)
 ![](assets/time-scale.png)
+
+[a commented code](lab4-time-scale-commmented/js/middlescript.js)
