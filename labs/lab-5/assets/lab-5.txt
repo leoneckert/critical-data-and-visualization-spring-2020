@@ -1,7 +1,7 @@
 Lab 5 - Review + Axis & Custom SVG Shapes
 
 
-Part 1: Setup a project 
+Part 1: Setup a project + filter
 Part 2: Time Scale + finding minimum and maximum value
 Part 3: Linear Scale
 Part 4: Building a D3 Axis!
@@ -12,29 +12,3 @@ Part 5: Using custom SVG Shapes
 Critical Data and Visualization 
 Leon Eckert
 
-Lab3 - D3 Scales
-
-
-
-
-PART 1: Linear Scale
-
-
-
-
-Critical Data and Visualization 
-Leon Eckert
-
-Lab3 - D3 Scales
-
-
-
-
-PART 2: 
-
-
-
-
-
-Critical Data and Visualization 
-Leon Eckert
