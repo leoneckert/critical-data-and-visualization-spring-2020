@@ -7,7 +7,7 @@
 - Question
 
 ### Review and New Learnings
-- [Exercise Files](hiv-graph-start.zip)
+- [Download Exercise Files](https://github.com/leoneckert/critical-data-and-visualization-spring-2020/raw/master/labs/lab-5/hiv-graph-start.zip)
 
 ##### Videos
 
@@ -20,4 +20,3 @@
 - Part 4: Building a D3 Axis! ([video](https://nyu.zoom.us/rec/share/3-xaA63b-39JYNLo6mPTXow4B4rAT6a81SYWq_IEmhr8NioRHaGb6btXH5RxOJHl) 15:09)
   ![](assets/part4.png)
 - Part 5: Using custom SVG Shapes ([video](https://nyu.zoom.us/rec/share/5-IlAqPhp31ISY322Wv9UaJ4Mp21T6a80CcZ_PAMzkowcy_hDPqT4SEiLQHcQPMR) 19:51)
-  
