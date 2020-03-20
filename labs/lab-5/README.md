@@ -8,6 +8,7 @@
 
 ### Review and New Learnings
 - [Download Exercise Files](https://github.com/leoneckert/critical-data-and-visualization-spring-2020/raw/master/labs/lab-5/hiv-graph-start.zip)
+- Edit: [commented finished version of the code](finished-hiv-graph/script.js)
 
 ##### Videos
 
