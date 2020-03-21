@@ -1,24 +1,18 @@
 
-Due Monday (2020/03/16):
-- To take in:
-  - Read [*The Minority Report*](../../readings/Philip-K-Dick-The-Minority-Report.pdf) by Philip K. Dick.
-  - Read [*What statistics can't tell us about ourselves*](https://www.newyorker.com/magazine/2019/09/09/what-statistics-can-and-cant-tell-us-about-ourselves) by Hannah Fry (September 9, 2019 Issue of The New Yorker)
-  - Listen to two parts of **Reply All's 'The Crime Machine' Podcast**. This is both super entertaining AND relevant next class. You can listen to the podcast via
-    - your browser ([Part 1](https://gimletmedia.com/shows/reply-all/o2hx34), [Part 2](https://gimletmedia.com/shows/reply-all/n8hwl7))
-    - spotify ([Part 1](https://open.spotify.com/episode/6uagdYENZ1HjiaeX7gbqIN), [Part 2](https://open.spotify.com/episode/4ULMa8oh9nJWSv4PM9gPNh))
-    - apple podcast ([Part 1](https://podcasts.apple.com/hk/podcast/127-the-crime-machine-part-i/id941907967?i=1000446958122), [Part 2](https://podcasts.apple.com/hk/podcast/128-the-crime-machine-part-ii/id941907967?i=1000446958123))
-    - other services (search "Reply All Crime Machine")
-- To put out:
-  - Think of contemporary systems/applications in which data is used to predict the future in order to then act upon it. Compile a list of 3 such situations that come to your mind and describe them **briefly**.
-  - Collect your thoughts on the *Prediction* and its role in the three above sources. Your associations, opinions and ideas may be complemented by reflections on *"collective average vs individual fate"*, *"statistic vs. algorithmic prediction"* or *"social physics"* (but don't feel obliged to discuss these). Express yourself in 300-400 words.
-  - add your writing to the [class wiki](https://github.com/leoneckert/critical-data-and-visualization-spring-2020/wiki).
-- Be prepared to explain your Data Zine project to me in 2 minutes. Prepare visuals (your paper prototype, your in-progress coding, and more if necessary) to support your explanation.
-  - On Monday we will be chatting in a one-on-one setting to understand where you are in your process and what your needs are going forward.
+Due Monday (2020/03/23):
+- Please **record a video presentation** of you project.
+  - The video should be **2.5 minutes long**.
+  - The video should be a screen capture in which you flick through the pages of you zine.
+  - As you show the pages, discuss the following questions - feel free to add other things you want to say, or change the order, be yourself :)
+    - What data did you choose to collect?
+    - How did you collect it, what was the routine?
+    - Why did you choose to visualize the data in this way?
+    - What can be seen in the visualization? Does it reveal something you didn't expect?
+    - Did you make crucial compromises? Which ones?
+    - If this project had a larger scale and wasn't built for print, how would you imagine it to be?
+  - When you are done, drop the video into [this folder](https://drive.google.com/drive/folders/1es18O3IMwhZj00WaHHfh4U4sbsHNbM4C?usp=sharing) and add a link to the [class wiki](https://github.com/leoneckert/critical-data-and-visualization-spring-2020/wiki) (no worries, only nyu emails can see the Google Drive).
 
 
-Due Wednesday (2020/03/18):
-- **Aim** to upload a finished version of your Data Zine project.
-  - Make notes of difficulties you still need to resolve.
 
 
 
@@ -125,3 +119,26 @@ Be poetic.
   - Print out [the template](other/material/datazine-paperprototype.pdf) on A3-sized paper, or [this template](other/material/datazine-paperprototype-a4.pdf) on A4-size paper.
   - Sketch out where you are planning to put which information (graphic and descriptive text). Remember you can create more than one visualization to illustrate different aspects of your data set.
   - Scan your prototype, push it to your repository and add a link to the [class wiki](https://github.com/leoneckert/critical-data-and-visualization-spring-2020/wiki). -->
+
+
+<!-- Due Monday (2020/03/16):
+- To take in:
+  - Read [*The Minority Report*](../../readings/Philip-K-Dick-The-Minority-Report.pdf) by Philip K. Dick.
+  - Read [*What statistics can't tell us about ourselves*](https://www.newyorker.com/magazine/2019/09/09/what-statistics-can-and-cant-tell-us-about-ourselves) by Hannah Fry (September 9, 2019 Issue of The New Yorker)
+  - Listen to two parts of **Reply All's 'The Crime Machine' Podcast**. This is both super entertaining AND relevant next class. You can listen to the podcast via
+    - your browser ([Part 1](https://gimletmedia.com/shows/reply-all/o2hx34), [Part 2](https://gimletmedia.com/shows/reply-all/n8hwl7))
+    - spotify ([Part 1](https://open.spotify.com/episode/6uagdYENZ1HjiaeX7gbqIN), [Part 2](https://open.spotify.com/episode/4ULMa8oh9nJWSv4PM9gPNh))
+    - apple podcast ([Part 1](https://podcasts.apple.com/hk/podcast/127-the-crime-machine-part-i/id941907967?i=1000446958122), [Part 2](https://podcasts.apple.com/hk/podcast/128-the-crime-machine-part-ii/id941907967?i=1000446958123))
+    - other services (search "Reply All Crime Machine")
+- To put out:
+  - Think of contemporary systems/applications in which data is used to predict the future in order to then act upon it. Compile a list of 3 such situations that come to your mind and describe them **briefly**.
+  - Collect your thoughts on the *Prediction* and its role in the three above sources. Your associations, opinions and ideas may be complemented by reflections on *"collective average vs individual fate"*, *"statistic vs. algorithmic prediction"* or *"social physics"* (but don't feel obliged to discuss these). Express yourself in 300-400 words.
+  - add your writing to the [class wiki](https://github.com/leoneckert/critical-data-and-visualization-spring-2020/wiki).
+- Be prepared to explain your Data Zine project to me in 2 minutes. Prepare visuals (your paper prototype, your in-progress coding, and more if necessary) to support your explanation.
+  - On Monday we will be chatting in a one-on-one setting to understand where you are in your process and what your needs are going forward.
+
+
+Due Wednesday (2020/03/18):
+- **Aim** to upload a finished version of your Data Zine project.
+  - Make notes of difficulties you still need to resolve.
+   -->

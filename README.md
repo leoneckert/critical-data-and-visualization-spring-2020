@@ -383,7 +383,23 @@ Content:
 ![lab5](labs/lab-5/assets/all.png)
 
 
+### Saturday Lab
 
+
+#### Assignments:
+
+Due Monday (2020/03/23):
+- Please **record a video presentation** of you project.
+  - The video should be **2.5 minutes long**.
+  - The video should be a screen capture in which you flick through the pages of you zine.
+  - As you show the pages, discuss the following questions - feel free to add other things you want to say, or change the order, be yourself :)
+    - What data did you choose to collect?
+    - How did you collect it, what was the routine?
+    - Why did you choose to visualize the data in this way?
+    - What can be seen in the visualization? Does it reveal something you didn't expect?
+    - Did you make crucial compromises? Which ones?
+    - If this project had a larger scale and wasn't built for print, how would you imagine it to be?
+  - When you are done, drop the video into [this folder](https://drive.google.com/drive/folders/1es18O3IMwhZj00WaHHfh4U4sbsHNbM4C?usp=sharing) and add a link to the [class wiki](https://github.com/leoneckert/critical-data-and-visualization-spring-2020/wiki) (no worries, only nyu emails can see the Google Drive).
 
 
 
@@ -391,6 +407,11 @@ Content:
 
 ![Data Zine Project Presentations](other/assets/week6.png)
 
+
+
+
+
+###
 Data Zine Project Presentations -->
 
 
