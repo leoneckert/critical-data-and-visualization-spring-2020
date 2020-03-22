@@ -385,6 +385,13 @@ Content:
 
 ### Saturday Lab
 
+##### Lab 6: Enter, Update, Exit, Transitions
+
+Find the Lab in detail [here](labs/lab-6)
+
+- In the lab, we are building this visualization:
+  - ![preview](labs/lab-6/assets/lab6-result.gif)
+
 
 #### Assignments:
 
