@@ -1,0 +1,22 @@
+Lab 6 - Enter, Update, Exit, Transitions
+
+
+Part 1: 
+	- What we will learn
+	- Understand the data
+	- Setup
+Part 2: 
+	- Update
+	- Exit
+	- Enter
+	- Synthesize: Enter, Update, Exit
+Part 3:
+	- Transitions
+Part 4:
+	- Data Keys 
+	
+
+
+Critical Data and Visualization 
+Leon Eckert
+
