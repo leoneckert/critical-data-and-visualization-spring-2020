@@ -31,7 +31,7 @@ So, what exactly is data? How is value extracted from it? And why should we care
 - Week 3 - [Human / Bias I](#week-3)
 - Week 4 - [Human / Bias II](#week-4)
 - Week 5 - [Prediction & Uncertainty](#week-5)
-- Week 6 - Data Zine Project Presentation 🎉
+- Week 6 - [Data Zine Project Presentation 🎉](#week-6)
 - Week 7 - Surveillance Capitalism I
 - Week 8 - Surveillance Capitalism II
 - Week 9 - Ethics & Privacy
@@ -410,17 +410,36 @@ Due Monday (2020/03/23):
 
 
 
-<!-- ## Week 6
+## Week 6
 
 ![Data Zine Project Presentations](other/assets/week6.png)
 
+### Monday Class
 
+During the Presentations, **please help each other** by giving feedback, thoughts, ideas, inspiration in [this document](https://docs.google.com/document/d/1DqT94lHkJjgclopknO2qbi_IDerTHDnJ0EFvVw941VM/edit?usp=sharing).
 
+Presentation Order:
+- [ ] Iris
+- [ ] William
+- [ ] Kris
+- [ ] Lydia
+- [ ] Yufeng
+- [ ] Shiny
+- [ ] Daisy
+- [ ] Sumner
+- [ ] Kenneth
+- [ ] Lishan
+- [ ] Ellen
+- [ ] Thea
+- [ ] Crystal
+- [ ] Novia
 
+Due Wednesday (2020/03/25):
 
-###
-Data Zine Project Presentations -->
-
+- Find two articles that tell a story with data and data visualization.
+  - Supply links to them in a markdown file alongside 2-3 sentences explaining what they are about. Push the file and add a link to the class wiki.
+  - Be prepared to explain what you enjoy about these articles and the way they use data / data visualization.
+  - finding your own sources is highly encouraged. Nevertheless, here are potential sources: nytimes, washingtonpost, fivethirtyeight, pudding.cool.
 
 
 
