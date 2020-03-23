@@ -9,7 +9,7 @@ Due Wednesday (2020/03/25):
   - finding your own sources is highly encouraged. Nevertheless, here are potential sources: [nytimes](https://www.nytimes.com/interactive/2018/us/2018-year-in-graphics.html), [washingtonpost](https://www.washingtonpost.com/graphics/2018/ns/best-graphics/), [fivethirtyeight](https://fivethirtyeight.com/), [pudding.cool](https://pudding.cool).
 
 Due Monday (2020/03/30):
-- This weeks coding exercise is described in detail in [Lab 6]((labs/lab-6))
+- This weeks coding exercise is described in detail in [Lab 6](../../labs/lab-6)
   - do you best solving the exercise, then post a link to the [class wiki](https://github.com/leoneckert/critical-data-and-visualization-spring-2020/wiki).
 
 

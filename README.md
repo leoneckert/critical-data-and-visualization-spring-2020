@@ -443,7 +443,7 @@ Due Wednesday (2020/03/25):
 
 
 Due Monday (2020/03/30):
-- This weeks coding exercise is described in detail in [Lab 6]((labs/lab-6))
+- This weeks coding exercise is described in detail in [Lab 6](labs/lab-6)
   - do you best solving the exercise, then post a link to the [class wiki](https://github.com/leoneckert/critical-data-and-visualization-spring-2020/wiki).
 
 
