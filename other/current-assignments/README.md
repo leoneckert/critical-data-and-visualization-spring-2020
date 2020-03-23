@@ -6,9 +6,11 @@ Due Wednesday (2020/03/25):
 - Find two articles that tell a story with data and data visualization.
   - Supply links to them in a markdown file alongside 2-3 sentences explaining what they are about. Push the file and add a link to the class wiki.
   - Be prepared to explain what you enjoy about these articles and the way they use data / data visualization.
-  - finding your own sources is highly encouraged. Nevertheless, here are potential sources: nytimes, washingtonpost, fivethirtyeight, pudding.cool.
+  - finding your own sources is highly encouraged. Nevertheless, here are potential sources: [nytimes](https://www.nytimes.com/interactive/2018/us/2018-year-in-graphics.html), [washingtonpost](https://www.washingtonpost.com/graphics/2018/ns/best-graphics/), [fivethirtyeight](https://fivethirtyeight.com/), [pudding.cool](https://pudding.cool).
 
-
+Due Monday (2020/03/30):
+- This weeks coding exercise is described in detail in [Lab 6]((labs/lab-6))
+  - do you best solving the exercise, then post a link to the [class wiki](https://github.com/leoneckert/critical-data-and-visualization-spring-2020/wiki).
 
 
 
