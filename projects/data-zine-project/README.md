@@ -18,3 +18,6 @@ The format of your zine is small. Keep this is mind when deciding on the size of
 - [X] JSON data set (in-progress), by 2020/03/04
 - [ ] paper prototype, by 2020/03/11
 - [ ] code for the visualization, by 2020/03/21 (SATURDAY!)
+
+
+<!-- Needs to clarify bette how abstract the viz should be, it needs to not be readable in itself. the key then explains how the viz came into being -->
