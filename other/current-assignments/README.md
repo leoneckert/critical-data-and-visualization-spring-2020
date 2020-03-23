@@ -1,17 +1,12 @@
 
-Due Monday (2020/03/23):
-- Please **record a video presentation** of you project.
-  - The video should be **2.5 minutes long**.
-  - The video should be a screen capture in which you flick through the pages of you zine.
-  - As you show the pages, discuss the following questions - feel free to add other things you want to say, or change the order, be yourself :)
-    - What data did you choose to collect?
-    - How did you collect it, what was the routine?
-    - Why did you choose to visualize the data in this way?
-    - What can be seen in the visualization? Does it reveal something you didn't expect?
-    - Did you make crucial compromises? Which ones?
-    - If this project had a larger scale and wasn't built for print, how would you imagine it to be?
-  - When you are done, drop the video into [this folder](https://drive.google.com/drive/folders/1es18O3IMwhZj00WaHHfh4U4sbsHNbM4C?usp=sharing) and add a link to the [class wiki](https://github.com/leoneckert/critical-data-and-visualization-spring-2020/wiki) (no worries, only nyu emails can see the Google Drive).
 
+
+Due Wednesday (2020/03/25):
+
+- Find two articles that tell a story with data and data visualization.
+  - Supply links to them in a markdown file alongside 2-3 sentences explaining what they are about. Push the file and add a link to the class wiki.
+  - Be prepared to explain what you enjoy about these articles and the way they use data / data visualization.
+  - finding your own sources is highly encouraged. Nevertheless, here are potential sources: nytimes, washingtonpost, fivethirtyeight, pudding.cool.
 
 
 
@@ -142,3 +137,17 @@ Due Wednesday (2020/03/18):
 - **Aim** to upload a finished version of your Data Zine project.
   - Make notes of difficulties you still need to resolve.
    -->
+
+
+Due Monday (2020/03/23):
+- Please **record a video presentation** of you project.
+  - The video should be **2.5 minutes long**.
+  - The video should be a screen capture in which you flick through the pages of you zine.
+  - As you show the pages, discuss the following questions - feel free to add other things you want to say, or change the order, be yourself :)
+    - What data did you choose to collect?
+    - How did you collect it, what was the routine?
+    - Why did you choose to visualize the data in this way?
+    - What can be seen in the visualization? Does it reveal something you didn't expect?
+    - Did you make crucial compromises? Which ones?
+    - If this project had a larger scale and wasn't built for print, how would you imagine it to be?
+  - When you are done, drop the video into [this folder](https://drive.google.com/drive/folders/1es18O3IMwhZj00WaHHfh4U4sbsHNbM4C?usp=sharing) and add a link to the [class wiki](https://github.com/leoneckert/critical-data-and-visualization-spring-2020/wiki) (no worries, only nyu emails can see the Google Drive).
