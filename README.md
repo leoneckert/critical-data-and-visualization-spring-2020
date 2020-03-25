@@ -32,7 +32,7 @@ So, what exactly is data? How is value extracted from it? And why should we care
 - Week 4 - [Human / Bias II](#week-4)
 - Week 5 - [Prediction & Uncertainty](#week-5)
 - Week 6 - [Data Zine Project Presentation 🎉](#week-6)
-- Week 7 - Surveillance Capitalism I
+- Week 7 - [Surveillance Capitalism I](#week-7)
 - Week 8 - Surveillance Capitalism II
 - Week 9 - Ethics & Privacy
 - Week 10 - Data Story Contextual Report & Presentation 📚
@@ -183,6 +183,7 @@ Content:
     - data functions
   - Part 4: Real Data ([Video](https://nyu.zoom.us/rec/share/z8ZfA5OgxEhJX52VtFv9Qas4DL_heaa8hnRPq_dZnk7-eH-SSxqAUyOjLnmSBpQQ?startTime=1582689194000))
     - loading data in D3
+
 
 
 
@@ -434,6 +435,9 @@ Presentation Order:
 - [ ] Crystal
 - [ ] Novia
 
+
+#### Assignments:
+
 Due Wednesday (2020/03/25):
 
 - Find two articles that tell a story with data and data visualization.
@@ -449,12 +453,61 @@ Due Monday (2020/03/30):
 
 
 
-
-<!-- ## Week 7
+## Week 7
 
 ![Surveillance Capitalism I](other/assets/week7.png)
 
-Surveillance Capitalism I -->
+Surveillance Capitalism I
+
+
+### Wednesday Class
+
+- Presenting and discussing the data articles we found.
+- Briefing: [Data Story Contextual Progress Report & Presentation (and Data Story)](data-story-and-contextual-report-presentation)
+  - inspiration: [The Articles That You Found](https://github.com/leoneckert/critical-data-and-visualization-spring-2020/wiki/Two-Data-Articles-(week-6)), our [Resources Page](other/resources).
+
+
+#### Assignments:
+
+Due Monday (2020/03/30):
+- Take a deep dive into the datasets that you can find online.
+  - Find three different datasets that you like, write a short paragraph highlighting what they are about and how you could imagine building a project around them.
+  - collect those notes in markdown file, push to your repo and submit a link to the [class wiki](https://github.com/leoneckert/critical-data-and-visualization-spring-2020/wiki).
+  - Find some sources for datasets in our [Resources Page](other/resources).
+    - if you find other cool sources (both english and chinese), consider submitting them to [a collection I have started](https://docs.google.com/forms/d/e/1FAIpQLScfgFIBxAlW9Qz7t2jO6GViJ8y0utwFQBdEQORXuNMBkKTE8Q/viewform?usp=sf_link) 😊
+    - Dedicate time to this research, find something that you feel connected to and inspired by --> you will spend about seven weeks dealing with the subject you choose, pick something exciting.
+    - What matters is your passion for the subject as well as the potential for creative visualizations of it.
+    - keep your mind open to the possibility of collecting or scraping an interesting dataset - if this is something of interest to you, I will assist and advise you.
+
+Due Wednesday (2020/04/01):
+- Prepare a very short presentation about your favorite of the three subjects your pre-selected.
+  - Each of you will present their topic in this format:
+      - 5 slides that can only contain images (no text!)
+      - 20 seconds per slide as you talk along explaining your interest and what you hope to make visible through your project
+      - practice your text and its timing (email it to me by Tuesday if that helps)
+      - this is a VERY short presentation, do not invest more than maximum (!) 2 hours to prepare it.
+      - Add your 5 slides to this [Drive Folder](https://drive.google.com/drive/folders/1i_e5ZYJSRhOkGH_SgAkrsmxqPuDDYLr_?usp=sharing) by Tuesday night, please.
+- "Surveillance Capitalism"
+  - Watch Shoshana Zuboff's talk on [The Rise of Surveillance Capitalism](https://www.youtube.com/watch?v=2s4Y-uZG5zk)
+    - ![trosc.png](other/assets/trosc.png)
+    - Intro: Zuboff's fascinating book ["*The Age of Surveillance Capitalism: The Fight for a Human Future at the New Frontier of Power*"](https://www.publicaffairsbooks.com/titles/shoshana-zuboff/the-age-of-surveillance-capitalism/9781610395694/) was published in 2019 and sparked many discussions. I would be happy to share the Introduction Chapter with you if you are interested - we also [have it (physically) in our library](https://bobcat.library.nyu.edu/permalink/f/1umpk5p/nyu_aleph006571029). It even made it onto the list of [Barack Obama's Favorite Books of 2019](https://twitter.com/BarackObama/status/1211033245812441091)!
+    - Please write **a short 200-300 response** to the talk you watched:
+      - In your own words, what does Zuboff mean by "Surveillance Capitalism".
+        - These figures from the book may help you: [Figure 1](readings/zuboff-taosc-figure-1.png), [Figure 2](readings/zuboff-taosc-figure-2.png), [Figure 3](readings/zuboff-taosc-figure-3.png)
+      - Is there aspects of Zuboff's ideas that...
+        - ...you were partilcuarly surprise by?
+        - ...disagree with?
+        - ...spark associations with your own exoerience?
+        - ...you want to ask further questions about?
+    - link to it on the [class wiki](https://github.com/leoneckert/critical-data-and-visualization-spring-2020/wiki) when you are done.
+
+###### Optional / Further Reading:
+- [Big Tech’s Big Defector](https://www.newyorker.com/magazine/2019/12/02/big-techs-big-defector), New Yorker, Brian Barth (2019)
+- [You Are Now Remotely Controlled](https://www.nytimes.com/2020/01/24/opinion/sunday/surveillance-capitalism.html) by Shoshana Zuboff in the New York Times
+
+
+
+
 
 
 

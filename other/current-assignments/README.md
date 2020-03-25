@@ -1,16 +1,41 @@
 
 
 
-Due Wednesday (2020/03/25):
 
-- Find two articles that tell a story with data and data visualization.
-  - Supply links to them in a markdown file alongside 2-3 sentences explaining what they are about. Push the file and add a link to the class wiki.
-  - Be prepared to explain what you enjoy about these articles and the way they use data / data visualization.
-  - finding your own sources is highly encouraged. Nevertheless, here are potential sources: [nytimes](https://www.nytimes.com/interactive/2018/us/2018-year-in-graphics.html), [washingtonpost](https://www.washingtonpost.com/graphics/2018/ns/best-graphics/), [fivethirtyeight](https://fivethirtyeight.com/), [pudding.cool](https://pudding.cool).
 
 Due Monday (2020/03/30):
 - This weeks coding exercise is described in detail in [Lab 6](../../labs/lab-6)
   - do you best solving the exercise, then post a link to the [class wiki](https://github.com/leoneckert/critical-data-and-visualization-spring-2020/wiki).
+- Take a deep dive into the datasets that you can find online.
+  - Find three different datasets that you like, write a short paragraph highlighting what they are about and how you could imagine building a project around them.
+  - collect those notes in markdown file, push to your repo and submit a link to the [class wiki](https://github.com/leoneckert/critical-data-and-visualization-spring-2020/wiki).
+  - Find some sources for datasets in our [Resources Page](other/resources).
+    - if you find other cool sources (both english and chinese), consider submitting them to [a collection I have started](https://docs.google.com/forms/d/e/1FAIpQLScfgFIBxAlW9Qz7t2jO6GViJ8y0utwFQBdEQORXuNMBkKTE8Q/viewform?usp=sf_link) 😊
+    - Dedicate time to this research, find something that you feel connected to and inspired by --> you will spend about seven weeks dealing with the subject you choose, pick something exciting.
+    - What matters is your passion for the subject as well as the potential for creative visualizations of it.
+    - keep your mind open to the possibility of collecting or scraping an interesting dataset - if this is something of interest to you, I will assist and advise you.
+
+Due Wednesday (2020/04/01):
+- Prepare a very short presentation about your favorite of the three subjects your pre-selected.
+  - Each of you will present their topic in this format:
+      - 5 slides that can only contain images (no text!)
+      - 20 seconds per slide as you talk along explaining your interest and what you hope to make visible through your project
+      - practice your text and its timing (email it to me by Tuesday if that helps)
+      - this is a VERY short presentation, do not invest more than maximum (!) 2 hours to prepare it.
+      - Add your 5 slides to this [Drive Folder](https://drive.google.com/drive/folders/1i_e5ZYJSRhOkGH_SgAkrsmxqPuDDYLr_?usp=sharing) by Tuesday night, please.
+- "Surveillance Capitalism"
+  - Watch Shoshana Zuboff's talk on [The Rise of Surveillance Capitalism](https://www.youtube.com/watch?v=2s4Y-uZG5zk)
+    - ![trosc.png](../../other/assets/trosc.png)
+    - Intro: Zuboff's fascinating book ["*The Age of Surveillance Capitalism: The Fight for a Human Future at the New Frontier of Power*"](https://www.publicaffairsbooks.com/titles/shoshana-zuboff/the-age-of-surveillance-capitalism/9781610395694/) was published in 2019 and sparked many discussions. I would be happy to share the Introduction Chapter with you if you are interested - we also [have it (physically) in our library](https://bobcat.library.nyu.edu/permalink/f/1umpk5p/nyu_aleph006571029). It even made it onto the list of [Barack Obama's Favorite Books of 2019](https://twitter.com/BarackObama/status/1211033245812441091)!
+    - Please write **a short 200-300 response** to the talk you watched:
+      - In your own words, what does Zuboff mean by "Surveillance Capitalism".
+        - These figures from the book may help you: [Figure 1](readings/zuboff-taosc-figure-1.png), [Figure 2](readings/zuboff-taosc-figure-2.png), [Figure 3](readings/zuboff-taosc-figure-3.png)
+      - Is there aspects of Zuboff's ideas that...
+        - ...you were partilcuarly surprise by?
+        - ...disagree with?
+        - ...spark associations with your own exoerience?
+        - ...you want to ask further questions about?
+    - link to it on the [class wiki](https://github.com/leoneckert/critical-data-and-visualization-spring-2020/wiki) when you are done.
 
 
 
@@ -153,3 +178,10 @@ Due Wednesday (2020/03/18):
     - Did you make crucial compromises? Which ones?
     - If this project had a larger scale and wasn't built for print, how would you imagine it to be?
   - When you are done, drop the video into [this folder](https://drive.google.com/drive/folders/1es18O3IMwhZj00WaHHfh4U4sbsHNbM4C?usp=sharing) and add a link to the [class wiki](https://github.com/leoneckert/critical-data-and-visualization-spring-2020/wiki) (no worries, only nyu emails can see the Google Drive). -->
+
+<!-- Due Wednesday (2020/03/25):
+
+- Find two articles that tell a story with data and data visualization.
+  - Supply links to them in a markdown file alongside 2-3 sentences explaining what they are about. Push the file and add a link to the class wiki.
+  - Be prepared to explain what you enjoy about these articles and the way they use data / data visualization.
+  - finding your own sources is highly encouraged. Nevertheless, here are potential sources: [nytimes](https://www.nytimes.com/interactive/2018/us/2018-year-in-graphics.html), [washingtonpost](https://www.washingtonpost.com/graphics/2018/ns/best-graphics/), [fivethirtyeight](https://fivethirtyeight.com/), [pudding.cool](https://pudding.cool). -->

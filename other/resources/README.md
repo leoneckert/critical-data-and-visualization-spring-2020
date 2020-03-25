@@ -40,6 +40,7 @@
 - [Mapping coronavirus, responsibly](https://www.esri.com/arcgis-blog/products/product/mapping/mapping-coronavirus-responsibly/)
 - [Streets in Brussels](https://twitter.com/karim_douieb/status/1235137396418760705)
 - [Sorting Streets](http://fakeisthenewreal.org/street-grids/)
+- [https://projects.christianlaesser.com/travel-visa-inequality/](https://projects.christianlaesser.com/travel-visa-inequality/) <- all the data was scraped from Wikipedia
 
 
 ### Infos
