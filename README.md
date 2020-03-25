@@ -420,20 +420,20 @@ Due Monday (2020/03/23):
 During the Presentations, **please help each other** by giving feedback, thoughts, ideas, inspiration in [this document](https://docs.google.com/document/d/1DqT94lHkJjgclopknO2qbi_IDerTHDnJ0EFvVw941VM/edit?usp=sharing).
 
 Presentation Order:
-- [ ] Iris
-- [ ] William
-- [ ] Kris
-- [ ] Lydia
-- [ ] Yufeng
-- [ ] Shiny
-- [ ] Daisy
-- [ ] Sumner
-- [ ] Kenneth
-- [ ] Lishan
-- [ ] Ellen
-- [ ] Thea
-- [ ] Crystal
-- [ ] Novia
+- [X] Iris
+- [X] William
+- [X] Kris
+- [X] Lydia
+- [X] Yufeng
+- [X] Shiny
+- [X] Daisy
+- [X] Sumner
+- [X] Kenneth
+- [X] Lishan
+- [X] Ellen
+- [X] Thea
+- [X] Crystal
+- [X] Novia
 
 
 #### Assignments:
@@ -463,7 +463,7 @@ Surveillance Capitalism I
 ### Wednesday Class
 
 - Presenting and discussing the data articles we found.
-- Briefing: [Data Story Contextual Progress Report & Presentation (and Data Story)](data-story-and-contextual-report-presentation)
+- Briefing: [Data Story Contextual Progress Report & Presentation (and Data Story)](/projects/data-story-and-contextual-report-presentation)
   - inspiration: [The Articles That You Found](https://github.com/leoneckert/critical-data-and-visualization-spring-2020/wiki/Two-Data-Articles-(week-6)), our [Resources Page](other/resources).
 
 
