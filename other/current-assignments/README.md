@@ -29,7 +29,7 @@ Due Wednesday (2020/04/01):
     - Intro: Zuboff's fascinating book ["*The Age of Surveillance Capitalism: The Fight for a Human Future at the New Frontier of Power*"](https://www.publicaffairsbooks.com/titles/shoshana-zuboff/the-age-of-surveillance-capitalism/9781610395694/) was published in 2019 and sparked many discussions. I would be happy to share the Introduction Chapter with you if you are interested - we also [have it (physically) in our library](https://bobcat.library.nyu.edu/permalink/f/1umpk5p/nyu_aleph006571029). It even made it onto the list of [Barack Obama's Favorite Books of 2019](https://twitter.com/BarackObama/status/1211033245812441091)!
     - Please write **a short 200-300 response** to the talk you watched:
       - In your own words, what does Zuboff mean by "Surveillance Capitalism".
-        - These figures from the book may help you: [Figure 1](readings/zuboff-taosc-figure-1.png), [Figure 2](readings/zuboff-taosc-figure-2.png), [Figure 3](readings/zuboff-taosc-figure-3.png)
+        - These figures from the book may help you: [Figure 1](../../readings/zuboff-taosc-figure-1.png), [Figure 2](../../readings/zuboff-taosc-figure-2.png), [Figure 3](../../readings/zuboff-taosc-figure-3.png)
       - Is there aspects of Zuboff's ideas that...
         - ...you were partilcuarly surprise by?
         - ...disagree with?
