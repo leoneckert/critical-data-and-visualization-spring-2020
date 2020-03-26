@@ -486,7 +486,7 @@ Due Wednesday (2020/04/01):
       - 20 seconds per slide as you talk along explaining your interest and what you hope to make visible through your project
       - practice your text and its timing (email it to me by Tuesday if that helps)
       - this is a VERY short presentation, do not invest more than maximum (!) 2 hours to prepare it.
-      - Add your 5 slides to this [Drive Folder](https://drive.google.com/drive/folders/1i_e5ZYJSRhOkGH_SgAkrsmxqPuDDYLr_?usp=sharing) by Tuesday night, please.
+      - Add your 5 slides to this [Drive Folder](https://drive.google.com/drive/folders/1i_e5ZYJSRhOkGH_SgAkrsmxqPuDDYLr_?usp=sharing) and add a link to the [class wiki](https://github.com/leoneckert/critical-data-and-visualization-spring-2020/wiki) by Tuesday night, please.
 - "Surveillance Capitalism"
   - Watch Shoshana Zuboff's talk on [The Rise of Surveillance Capitalism](https://www.youtube.com/watch?v=2s4Y-uZG5zk)
     - ![trosc.png](other/assets/trosc.png)
