@@ -22,7 +22,6 @@ let viz = d3.select("#container")
     .style("background-color", "lavender")
 ;
 
-
 function cleanData(dataToTransform){
   console.log("dataToTransform");
 
@@ -180,6 +179,7 @@ function gotData(incomingData){
       .attr("fill", getFill)
     ;
 
+
     enteringElements.append("text")
       .text(function(d, i){
         return d.Country
@@ -197,6 +197,7 @@ function gotData(incomingData){
     };
 
     enteringElements.attr("transform", getGroupPosition);
+
     existingElements.select("circle")
       .attr("r", getRadius)
     ;

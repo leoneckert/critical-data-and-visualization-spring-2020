@@ -112,7 +112,7 @@ function gotData(incomingData){
       })
     ;
     datagroups.transition().delay(function(d, i){
-      return i*300;
+      return i*30;
     }).duration(500).attr("transform", getGroupLocation);
   }
 
