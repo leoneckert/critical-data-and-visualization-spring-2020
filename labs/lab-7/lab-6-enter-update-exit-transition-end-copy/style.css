@@ -1,0 +1,43 @@
+.xaxis line, .yaxis line{
+  stroke: white;
+}
+
+.xaxis path, .yaxis path{
+  stroke: white;
+}
+
+.xaxis text, .yaxis text{
+  fill: white;
+}
+
+svg{
+  background-color: black;
+}
+
+body{
+  margin: 0;
+}
+
+img{
+  width:100%;
+  cursor: pointer;
+}
+img:hover{
+  opacity: 0.8;
+}
+
+.buttons div{
+  display: inline-block;
+  outline: dashed black 1px;
+  width: 180px;
+  padding: 5px;
+  text-align: center;
+}
+.caption{
+  margin:0;
+  font-family: monospace;
+}
+
+.buttons{
+  margin-bottom: 50px;
+}

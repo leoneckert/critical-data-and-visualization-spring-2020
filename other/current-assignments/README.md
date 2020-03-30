@@ -1,20 +1,5 @@
 
 
-
-
-
-Due Monday (2020/03/30):
-- This weeks coding exercise is described in detail in [Lab 6](../../labs/lab-6)
-  - do you best solving the exercise, then post a link to the [class wiki](https://github.com/leoneckert/critical-data-and-visualization-spring-2020/wiki).
-- Take a deep dive into the datasets that you can find online.
-  - Find three different datasets that you like, write a short paragraph highlighting what they are about and how you could imagine building a project around them.
-  - collect those notes in markdown file, push to your repo and submit a link to the [class wiki](https://github.com/leoneckert/critical-data-and-visualization-spring-2020/wiki).
-  - Find some sources for datasets in our [Resources Page](other/resources).
-    - if you find other cool sources (both english and chinese), consider submitting them to [a collection I have started](https://docs.google.com/forms/d/e/1FAIpQLScfgFIBxAlW9Qz7t2jO6GViJ8y0utwFQBdEQORXuNMBkKTE8Q/viewform?usp=sf_link) 😊
-    - Dedicate time to this research, find something that you feel connected to and inspired by --> you will spend about seven weeks dealing with the subject you choose, pick something exciting.
-    - What matters is your passion for the subject as well as the potential for creative visualizations of it.
-    - keep your mind open to the possibility of collecting or scraping an interesting dataset - if this is something of interest to you, I will assist and advise you.
-
 Due Wednesday (2020/04/01):
 - Prepare a very short presentation about your favorite of the three subjects your pre-selected.
   - Each of you will present their topic in this format:
@@ -38,6 +23,22 @@ Due Wednesday (2020/04/01):
         - ...you want to ask further questions about?
     - link to it on the [class wiki](https://github.com/leoneckert/critical-data-and-visualization-spring-2020/wiki) when you are done.
 
+Due Monday (2020/04/06):
+- Listen to two podcasts and write 200-300 words for each along the below prompts
+  - ["Radio Lab Right to be forgotten"](https://www.wnycstudios.org/podcasts/radiolab/articles/radiolab-right-be-forgotten)
+    - try to come up with a set of guidelines how public records/data should be dealt with -- and/or discuss the difficulties of this task.
+    - can you think of other situations for similar kinds of dilemmas?
+  - ["The Daily The End of Privacy as we know it?"](https://www.nytimes.com/2020/02/10/podcasts/the-daily/facial-recognition-surveillance.html)
+    - weigh the benefits and risks of a system like ClearView
+    - which aspects do you find particularly problematic & how might we regulate undertakings like this?
+- add your response to the [class wiki](https://github.com/leoneckert/critical-data-and-visualization-spring-2020/wiki)
+
+
+Due Wednesday (2020/04/08):
+- Finish the [Lab's Coding Exercise](../../labs/lab-7).
+  - You showed be feeling comfortable with all the techniques used in it,
+  - Experiment
+  - add your finished work to the [class wiki](https://github.com/leoneckert/critical-data-and-visualization-spring-2020/wiki)
 
 
 <!-- Due this Wednesday (2020/02/19):
@@ -186,3 +187,20 @@ Due Wednesday (2020/03/18):
   - Supply links to them in a markdown file alongside 2-3 sentences explaining what they are about. Push the file and add a link to the class wiki.
   - Be prepared to explain what you enjoy about these articles and the way they use data / data visualization.
   - finding your own sources is highly encouraged. Nevertheless, here are potential sources: [nytimes](https://www.nytimes.com/interactive/2018/us/2018-year-in-graphics.html), [washingtonpost](https://www.washingtonpost.com/graphics/2018/ns/best-graphics/), [fivethirtyeight](https://fivethirtyeight.com/), [pudding.cool](https://pudding.cool). -->
+
+
+
+
+
+
+<!-- Due Monday (2020/03/30):
+- This weeks coding exercise is described in detail in [Lab 6](../../labs/lab-6)
+  - do you best solving the exercise, then post a link to the [class wiki](https://github.com/leoneckert/critical-data-and-visualization-spring-2020/wiki).
+- Take a deep dive into the datasets that you can find online.
+  - Find three different datasets that you like, write a short paragraph highlighting what they are about and how you could imagine building a project around them.
+  - collect those notes in markdown file, push to your repo and submit a link to the [class wiki](https://github.com/leoneckert/critical-data-and-visualization-spring-2020/wiki).
+  - Find some sources for datasets in our [Resources Page](other/resources).
+    - if you find other cool sources (both english and chinese), consider submitting them to [a collection I have started](https://docs.google.com/forms/d/e/1FAIpQLScfgFIBxAlW9Qz7t2jO6GViJ8y0utwFQBdEQORXuNMBkKTE8Q/viewform?usp=sf_link) 😊
+    - Dedicate time to this research, find something that you feel connected to and inspired by --> you will spend about seven weeks dealing with the subject you choose, pick something exciting.
+    - What matters is your passion for the subject as well as the potential for creative visualizations of it.
+    - keep your mind open to the possibility of collecting or scraping an interesting dataset - if this is something of interest to you, I will assist and advise you. -->

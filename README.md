@@ -506,7 +506,34 @@ Due Wednesday (2020/04/01):
 - [You Are Now Remotely Controlled](https://www.nytimes.com/2020/01/24/opinion/sunday/surveillance-capitalism.html) by Shoshana Zuboff in the New York Times
 
 
+### Monday Lab
 
+##### Lab 7: More Practice: Enter/Update/Exit Selections
+
+Find the Lab in detail [here](labs/lab-7)
+
+- In the lab, we are building this visualization:
+  - ![preview](labs/lab-7/assets/lab7.gif)
+
+
+#### Assignments:
+
+Due Monday (2020/04/06):
+- Listen to two podcasts and write 200-300 words for each along the below prompts
+  - ["Radio Lab Right to be forgotten"](https://www.wnycstudios.org/podcasts/radiolab/articles/radiolab-right-be-forgotten)
+    - try to come up with a set of guidelines how public records/data should be dealt with -- and/or discuss the difficulties of this task.
+    - can you think of other situations for similar kinds of dilemmas?
+  - ["The Daily The End of Privacy as we know it?"](https://www.nytimes.com/2020/02/10/podcasts/the-daily/facial-recognition-surveillance.html)
+    - weigh the benefits and risks of a system like ClearView
+    - which aspects do you find particularly problematic & how might we regulate undertakings like this?
+- add your response to the [class wiki](https://github.com/leoneckert/critical-data-and-visualization-spring-2020/wiki)
+
+
+Due Wednesday (2020/04/08):
+- Finish the [Lab's Coding Exercise](labs/lab-7).
+  - You showed be feeling comfortable with all the techniques used in it,
+  - Experiment
+  - add your finished work to the [class wiki](https://github.com/leoneckert/critical-data-and-visualization-spring-2020/wiki)
 
 
 

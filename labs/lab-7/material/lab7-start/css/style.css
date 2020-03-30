@@ -1,0 +1,65 @@
+/*
+Color Theme Swatches in Hex
+from: https://color.adobe.com/720ab200490a8131a4a9aa7749902173-color-theme-13470410
+#F27294
+#04ADBF
+#45BF9D
+#F2E0D5
+#F24C27
+*/
+
+
+body{
+  margin:0;
+  margin-top:30px;
+}
+#container{
+  text-align: center;
+}
+#buttons{
+  display: flex;
+  width:100%;
+  max-width: 900px;
+  margin: auto;
+}
+.button{
+  height:50px;
+  flex-grow: 1;
+  text-align: center;
+  cursor: pointer;
+  margin: 25px;
+}
+.button p{
+  font-family: sans-serif;
+  pointer-events: none;
+  color: white;
+  font-weight: bold;
+}
+
+
+  /* blur edges of buttons:
+  https://stackoverflow.com/questions/15775365/how-to-blur-div-edges */
+#buttonA{
+  background-color: #F27294;
+  box-shadow: 0 0 10px 10px #F27294;
+}
+#buttonB{
+  background-color: #04ADBF;
+  box-shadow: 0 0 10px 10px #04ADBF;
+}
+#buttonC{
+  background-color: #45BF9D;
+  box-shadow: 0 0 10px 10px #45BF9D;
+}
+#buttonD{
+  background-color: #F2E0D5;
+  box-shadow: 0 0 10px 10px #F2E0D5;
+}
+#buttonE{
+  background-color: #F24C27;
+  box-shadow: 0 0 10px 10px #F24C27;
+}
+#buttonF{
+  background-color: black;
+  box-shadow: 0 0 10px 10px black;
+}
