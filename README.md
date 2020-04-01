@@ -457,13 +457,11 @@ Due Monday (2020/03/30):
 
 ![Surveillance Capitalism I](other/assets/week7.png)
 
-Surveillance Capitalism I
-
 
 ### Wednesday Class
 
 - Presenting and discussing the data articles we found.
-- Briefing: [Data Story Contextual Progress Report & Presentation (and Data Story)](/projects/data-story-and-contextual-report-presentation)
+- Briefing: [Data Story Contextual Progress Report & Presentation (and Data Story)](projects/data-story-and-contextual-report-presentation)
   - inspiration: [The Articles That You Found](https://github.com/leoneckert/critical-data-and-visualization-spring-2020/wiki/Two-Data-Articles-(week-6)), our [Resources Page](other/resources).
 
 
@@ -544,21 +542,31 @@ Due Wednesday (2020/04/08):
 
 
 
-<!-- ## Week 8
+## Week 8
 
 ![Surveillance Capitalism II](other/assets/week8.png)
 
-Surveillance Capitalism II -->
 
 
+### Wednesday Class
 
+- [*5x20seconds: What's it all about?*](https://docs.google.com/presentation/d/1x4RLOUOE07OWWSJRRdY27j8_iEdOv0rFXC1QuTZWVd4/edit?usp=sharing) Presentations
+- Discussion of Zuboff ([responses](https://github.com/leoneckert/critical-data-and-visualization-spring-2020/wiki/Response-to-Shoshana-Zuboff-(week-7)), [zuckerberg](https://www.youtube.com/watch?v=EgI_KAkSyCw), [Figure 1](readings/zuboff-taosc-figure-1.png), [Figure 2](readings/zuboff-taosc-figure-2.png), [Figure 3](readings/zuboff-taosc-figure-3.png))
 
+##### Looking Ahead:
+- **next week**:
+  - one class & two labs (wednesday, saturday)
+- **the week after**:
+  - Contextual Report Writing due
+  - Contextual Report Presentations
 
+If you imagine your final project, all the text bits, the meat, the stuff that actually *tells* a story and guides the viewer through your visualization/webpage/experience should be done in 2 weeks (as part of your Contextual Report). Therefore, see assignment:
 
+#### Assignments:
 
-
-
-
+Due Monday (2020/04/06):
+- Start to dive deep into the subject of your dataset. Contextually, that is. Use [this structure](projects/contextual-report-guide) as a pointer to guide your research.
+- Come to class with substantial starting points for each of the points you aim to cover. In class, we will be talking through your plans one-on-one. After this class, we embark on two technical labs before the presentations are due. Schedule wisely!  
 
 
 <!-- ## Week 9
