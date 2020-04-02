@@ -1,38 +1,16 @@
 
 
-Due Wednesday (2020/04/01):
-- Prepare a very short presentation about your favorite of the three subjects your pre-selected.
-  - Each of you will present their topic in this format:
-      - 5 slides that can only contain images (no text!)
-      - 20 seconds per slide as you talk along explaining your interest and what you hope to make visible through your project
-      - practice your text and its timing (email it to me by Tuesday if that helps)
-      - this is a VERY short presentation, do not invest more than maximum (!) 2 hours to prepare it.
-      - Add your 5 slides to this [Drive Folder](https://drive.google.com/drive/folders/1i_e5ZYJSRhOkGH_SgAkrsmxqPuDDYLr_?usp=sharing) and add a link to the [class wiki](https://github.com/leoneckert/critical-data-and-visualization-spring-2020/wiki) by Tuesday night, please.
-- "Surveillance Capitalism"
-- "Surveillance Capitalism"
-  - Watch Shoshana Zuboff's talk on [The Rise of Surveillance Capitalism](https://www.youtube.com/watch?v=2s4Y-uZG5zk)
-    - ![trosc.png](../../other/assets/trosc.png)
-    - Intro: Zuboff's fascinating book ["*The Age of Surveillance Capitalism: The Fight for a Human Future at the New Frontier of Power*"](https://www.publicaffairsbooks.com/titles/shoshana-zuboff/the-age-of-surveillance-capitalism/9781610395694/) was published in 2019 and sparked many discussions. I would be happy to share the Introduction Chapter with you if you are interested - we also [have it (physically) in our library](https://bobcat.library.nyu.edu/permalink/f/1umpk5p/nyu_aleph006571029). It even made it onto the list of [Barack Obama's Favorite Books of 2019](https://twitter.com/BarackObama/status/1211033245812441091)!
-    - Please write **a short 200-300 response** to the talk you watched:
-      - In your own words, what does Zuboff mean by "Surveillance Capitalism".
-        - These figures from the book may help you: [Figure 1](../../readings/zuboff-taosc-figure-1.png), [Figure 2](../../readings/zuboff-taosc-figure-2.png), [Figure 3](../../readings/zuboff-taosc-figure-3.png)
-      - Is there aspects of Zuboff's ideas that...
-        - ...you were partilcuarly surprise by?
-        - ...disagree with?
-        - ...spark associations with your own exoerience?
-        - ...you want to ask further questions about?
-    - link to it on the [class wiki](https://github.com/leoneckert/critical-data-and-visualization-spring-2020/wiki) when you are done.
-
 Due Monday (2020/04/06):
 - Listen to two podcasts and write 200-300 words for each along the below prompts
-  - ["Radio Lab Right to be forgotten"](https://www.wnycstudios.org/podcasts/radiolab/articles/radiolab-right-be-forgotten)
-    - try to come up with a set of guidelines how public records/data should be dealt with -- and/or discuss the difficulties of this task.
-    - can you think of other situations for similar kinds of dilemmas?
-  - ["The Daily The End of Privacy as we know it?"](https://www.nytimes.com/2020/02/10/podcasts/the-daily/facial-recognition-surveillance.html)
-    - weigh the benefits and risks of a system like ClearView
-    - which aspects do you find particularly problematic & how might we regulate undertakings like this?
-- add your response to the [class wiki](https://github.com/leoneckert/critical-data-and-visualization-spring-2020/wiki)
-
+    - ["Radio Lab Right to be forgotten"](https://www.wnycstudios.org/podcasts/radiolab/articles/radiolab-right-be-forgotten)
+      - try to come up with a set of guidelines how public records/data should be dealt with -- and/or discuss the difficulties of this task.
+      - can you think of other situations for similar kinds of dilemmas?
+    - ["The Daily The End of Privacy as we know it?"](https://www.nytimes.com/2020/02/10/podcasts/the-daily/facial-recognition-surveillance.html)
+      - weigh the benefits and risks of a system like ClearView
+      - which aspects do you find particularly problematic & how might we regulate undertakings like this?
+  - add your response to the [class wiki](https://github.com/leoneckert/critical-data-and-visualization-spring-2020/wiki)
+- Start to dive deep into the subject of your dataset. Contextually, that is. Use [this structure](../../projects/contextual-report-guide) as a pointer to guide your research.
+  - Come to class with substantial starting points for each of the points you aim to cover. In class, we will be talking through your plans one-on-one. After this class, we embark on two technical labs before the presentations are due. Schedule wisely!
 
 Due Wednesday (2020/04/08):
 - Finish the [Lab's Coding Exercise](../../labs/lab-7).
@@ -201,6 +179,31 @@ Due Wednesday (2020/03/18):
   - collect those notes in markdown file, push to your repo and submit a link to the [class wiki](https://github.com/leoneckert/critical-data-and-visualization-spring-2020/wiki).
   - Find some sources for datasets in our [Resources Page](other/resources).
     - if you find other cool sources (both english and chinese), consider submitting them to [a collection I have started](https://docs.google.com/forms/d/e/1FAIpQLScfgFIBxAlW9Qz7t2jO6GViJ8y0utwFQBdEQORXuNMBkKTE8Q/viewform?usp=sf_link) 😊
-    - Dedicate time to this research, find something that you feel connected to and inspired by --> you will spend about seven weeks dealing with the subject you choose, pick something exciting.
+    - Dedicate time to this research, find something that you feel connected to and inspired by you will spend about seven weeks dealing with the subject you choose, pick something exciting.
     - What matters is your passion for the subject as well as the potential for creative visualizations of it.
     - keep your mind open to the possibility of collecting or scraping an interesting dataset - if this is something of interest to you, I will assist and advise you. -->
+
+
+
+<!--
+Due Wednesday (2020/04/01):
+- Prepare a very short presentation about your favorite of the three subjects your pre-selected.
+  - Each of you will present their topic in this format:
+      - 5 slides that can only contain images (no text!)
+      - 20 seconds per slide as you talk along explaining your interest and what you hope to make visible through your project
+      - practice your text and its timing (email it to me by Tuesday if that helps)
+      - this is a VERY short presentation, do not invest more than maximum (!) 2 hours to prepare it.
+      - Add your 5 slides to this [Drive Folder](https://drive.google.com/drive/folders/1i_e5ZYJSRhOkGH_SgAkrsmxqPuDDYLr_?usp=sharing) and add a link to the [class wiki](https://github.com/leoneckert/critical-data-and-visualization-spring-2020/wiki) by Tuesday night, please.
+- "Surveillance Capitalism"
+  - Watch Shoshana Zuboff's talk on [The Rise of Surveillance Capitalism](https://www.youtube.com/watch?v=2s4Y-uZG5zk)
+    - ![trosc.png](../../other/assets/trosc.png)
+    - Intro: Zuboff's fascinating book ["*The Age of Surveillance Capitalism: The Fight for a Human Future at the New Frontier of Power*"](https://www.publicaffairsbooks.com/titles/shoshana-zuboff/the-age-of-surveillance-capitalism/9781610395694/) was published in 2019 and sparked many discussions. I would be happy to share the Introduction Chapter with you if you are interested - we also [have it (physically) in our library](https://bobcat.library.nyu.edu/permalink/f/1umpk5p/nyu_aleph006571029). It even made it onto the list of [Barack Obama's Favorite Books of 2019](https://twitter.com/BarackObama/status/1211033245812441091)!
+    - Please write **a short 200-300 response** to the talk you watched:
+      - In your own words, what does Zuboff mean by "Surveillance Capitalism".
+        - These figures from the book may help you: [Figure 1](../../readings/zuboff-taosc-figure-1.png), [Figure 2](../../readings/zuboff-taosc-figure-2.png), [Figure 3](../../readings/zuboff-taosc-figure-3.png)
+      - Is there aspects of Zuboff's ideas that...
+        - ...you were partilcuarly surprise by?
+        - ...disagree with?
+        - ...spark associations with your own exoerience?
+        - ...you want to ask further questions about?
+    - link to it on the [class wiki](https://github.com/leoneckert/critical-data-and-visualization-spring-2020/wiki) when you are done. -->
