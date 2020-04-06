@@ -578,29 +578,29 @@ Due Monday (2020/04/06):
 Today:
 - one-on-one check ins
   - each 4.6666666667 minutes ((75mins class time - 5 mins intro time)/14 students):
-    - [ ] Shiny
-    - [ ] Yufeng
-    - [ ] Crystal
-    - [ ] Lishan
-    - [ ] Sumner
-    - [ ] Thea
-    - [ ] Lydia
-    - [ ] Kenneth
-    - [ ] Ellen
-    - [ ] Novia
-    - [ ] Kris
-    - [ ] Daisy
-    - [ ] William
-    - [ ] Iris
+    - [X] Shiny
+    - [X] Yufeng
+    - [X] Crystal
+    - [X] Lishan
+    - [X] Sumner
+    - [X] Thea
+    - [X] Lydia
+    - [X] Kenneth
+    - [X] Ellen
+    - [X] Novia
+    - [X] Kris
+    - [X] Daisy
+    - [X] William
+    - [X] Iris
 
 #### Assignments:
 
 Due Monday (2020/04/13):
 - You picked your dataset. Now get **deeply familiar** with its context. Follow instructions in the [brief](projects/data-story-and-contextual-report-presentation) and the [writing guide](projects/contextual-report-guide).
-- Add your written report to [this folder](https://drive.google.com/open?id=1Uw-t6deXslfMEECbA1x3IpKmerO3Y-mE) by **Monday 20/4/13 noon**.
+- Add your written report to [this folder](https://drive.google.com/open?id=1Uw-t6deXslfMEECbA1x3IpKmerO3Y-mE) by **Monday 20/4/13 noon** and post a link to the [class wiki](https://github.com/leoneckert/critical-data-and-visualization-spring-2020/wiki).
 - Prepare a 4-6 minute presentation.
   - if you plan to **not** use Google Slides, please let me know by Friday
-  - add your slides to [this folder](https://drive.google.com/open?id=1LaI3fDmney3PLun0wNd81F6nMleGi387) by **Monday 20/4/13 noon** and please add a link to them to the class wiki, too.
+  - add your slides to [this folder](https://drive.google.com/open?id=1LaI3fDmney3PLun0wNd81F6nMleGi387) by **Monday 20/4/13 noon** and please add a link to them to the [class wiki](https://github.com/leoneckert/critical-data-and-visualization-spring-2020/wiki), too.
     - pro tip: avoid too much text on your slides, it really does make them less clear. slides do not need to speak for themselves but illustrate what you have to say.
 - Thanks! You got this!!
 
