@@ -20,7 +20,7 @@ The Data Story Contextual Progress Report is a short piece of writing. It should
 
 Along with your writing, you are expected to present your research in a 5 minute presentation - the structure of the presentation should be oriented by your writing and use slides to support (but not echo) your words.
 
-**Both is due on April 15th.**
+**Both is due on April 13th.**
 
 
 ### The Data Story (Week 14)

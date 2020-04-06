@@ -1,16 +1,6 @@
 
 
-Due Monday (2020/04/06):
-- Listen to two podcasts and write 200-300 words for each along the below prompts
-    - ["Radio Lab Right to be forgotten"](https://www.wnycstudios.org/podcasts/radiolab/articles/radiolab-right-be-forgotten)
-      - try to come up with a set of guidelines how public records/data should be dealt with -- and/or discuss the difficulties of this task.
-      - can you think of other situations for similar kinds of dilemmas?
-    - ["The Daily The End of Privacy as we know it?"](https://www.nytimes.com/2020/02/10/podcasts/the-daily/facial-recognition-surveillance.html)
-      - weigh the benefits and risks of a system like ClearView
-      - which aspects do you find particularly problematic & how might we regulate undertakings like this?
-  - add your response to the [class wiki](https://github.com/leoneckert/critical-data-and-visualization-spring-2020/wiki)
-- Start to dive deep into the subject of your dataset. Contextually, that is. Use [this structure](../../projects/contextual-report-guide) as a pointer to guide your research.
-  - Come to class with substantial starting points for each of the points you aim to cover. In class, we will be talking through your plans one-on-one. After this class, we embark on two technical labs before the presentations are due. Schedule wisely!
+
 
 Due Wednesday (2020/04/08):
 - Finish the [Lab's Coding Exercise](../../labs/lab-7).
@@ -18,6 +8,14 @@ Due Wednesday (2020/04/08):
   - Experiment
   - add your finished work to the [class wiki](https://github.com/leoneckert/critical-data-and-visualization-spring-2020/wiki)
 
+Due Monday (2020/04/13):
+- You picked your dataset. Now get **deeply familiar** with its context. Follow instructions in the [brief](/projects/data-story-and-contextual-report-presentation) and the [writing guide](/projects/contextual-report-guide).
+- Add your written report to [this folder](https://drive.google.com/open?id=1Uw-t6deXslfMEECbA1x3IpKmerO3Y-mE) by **Monday 20/4/13 noon**.
+- Prepare a 4-6 minute presentation.
+  - if you plan to **not** use Google Slides, please let me know by Friday
+  - add your slides to [this folder](https://drive.google.com/open?id=1LaI3fDmney3PLun0wNd81F6nMleGi387) by **Monday 20/4/13 noon** and please add a link to them to the class wiki, too.
+    - pro tip: avoid too much text on your slides, it really does make them less clear. slides do not need to speak for themselves but illustrate what you have to say.
+- Thanks! You got this!!
 
 <!-- Due this Wednesday (2020/02/19):
 - Do this assignment first (strongly recommended)
@@ -207,3 +205,16 @@ Due Wednesday (2020/04/01):
         - ...spark associations with your own exoerience?
         - ...you want to ask further questions about?
     - link to it on the [class wiki](https://github.com/leoneckert/critical-data-and-visualization-spring-2020/wiki) when you are done. -->
+
+
+<!-- Due Monday (2020/04/06):
+- Listen to two podcasts and write 200-300 words for each along the below prompts
+    - ["Radio Lab Right to be forgotten"](https://www.wnycstudios.org/podcasts/radiolab/articles/radiolab-right-be-forgotten)
+      - try to come up with a set of guidelines how public records/data should be dealt with -- and/or discuss the difficulties of this task.
+      - can you think of other situations for similar kinds of dilemmas?
+    - ["The Daily The End of Privacy as we know it?"](https://www.nytimes.com/2020/02/10/podcasts/the-daily/facial-recognition-surveillance.html)
+      - weigh the benefits and risks of a system like ClearView
+      - which aspects do you find particularly problematic & how might we regulate undertakings like this?
+  - add your response to the [class wiki](https://github.com/leoneckert/critical-data-and-visualization-spring-2020/wiki)
+- Start to dive deep into the subject of your dataset. Contextually, that is. Use [this structure](../../projects/contextual-report-guide) as a pointer to guide your research.
+  - Come to class with substantial starting points for each of the points you aim to cover. In class, we will be talking through your plans one-on-one. After this class, we embark on two technical labs before the presentations are due. Schedule wisely! -->

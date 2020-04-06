@@ -33,7 +33,7 @@ So, what exactly is data? How is value extracted from it? And why should we care
 - Week 5 - [Prediction & Uncertainty](#week-5)
 - Week 6 - [Data Zine Project Presentation 🎉](#week-6)
 - Week 7 - [Surveillance Capitalism I](#week-7)
-- Week 8 - Surveillance Capitalism II
+- Week 8 - [Surveillance Capitalism II](#week-8)
 - Week 9 - Ethics & Privacy
 - Week 10 - Data Story Contextual Report & Presentation 📚
 - Week 11 - Power & Control I
@@ -348,20 +348,20 @@ Due Wednesday (2020/03/18):
 Prediction & Uncertainty
 
 one-on-one check ins, each 4.6666666667 minutes ((75mins class time - 5 mins intro time)/14 students):
-- [ ] Iris
-- [ ] William
-- [ ] Daisy
-- [ ] Kris
-- [ ] Novia
-- [ ] Ellen
-- [ ] Kenneth
-- [ ] Lydia
-- [ ] Thea
-- [ ] Sumner
-- [ ] Lishan
-- [ ] Crystal
-- [ ] Yufeng
-- [ ] Shiny
+- [X] Iris
+- [X] William
+- [X] Daisy
+- [X] Kris
+- [X] Novia
+- [X] Ellen
+- [X] Kenneth
+- [X] Lydia
+- [X] Thea
+- [X] Sumner
+- [X] Lishan
+- [X] Crystal
+- [X] Yufeng
+- [X] Shiny
 
 
 
@@ -567,6 +567,42 @@ If you imagine your final project, all the text bits, the meat, the stuff that a
 Due Monday (2020/04/06):
 - Start to dive deep into the subject of your dataset. Contextually, that is. Use [this structure](projects/contextual-report-guide) as a pointer to guide your research.
 - Come to class with substantial starting points for each of the points you aim to cover. In class, we will be talking through your plans one-on-one. After this class, we embark on two technical labs before the presentations are due. Schedule wisely!  
+
+### Monday Class
+
+- **correction**: due date of [Data Story Contextual Progress Report & Presentation (and Data Story)](projects/data-story-and-contextual-report-presentation) is on April 13 (it previously said April 15 in the brief)
+- Monday / Wednesday presentation schedule (7/7)
+  - randomly picked on the day unless anyone wants to go first?
+
+
+Today:
+- one-on-one check ins
+  - each 4.6666666667 minutes ((75mins class time - 5 mins intro time)/14 students):
+    - [ ] Shiny
+    - [ ] Yufeng
+    - [ ] Crystal
+    - [ ] Lishan
+    - [ ] Sumner
+    - [ ] Thea
+    - [ ] Lydia
+    - [ ] Kenneth
+    - [ ] Ellen
+    - [ ] Novia
+    - [ ] Kris
+    - [ ] Daisy
+    - [ ] William
+    - [ ] Iris
+
+#### Assignments:
+
+Due Monday (2020/04/13):
+- You picked your dataset. Now get **deeply familiar** with its context. Follow instructions in the [brief](projects/data-story-and-contextual-report-presentation) and the [writing guide](projects/contextual-report-guide).
+- Add your written report to [this folder](https://drive.google.com/open?id=1Uw-t6deXslfMEECbA1x3IpKmerO3Y-mE) by **Monday 20/4/13 noon**.
+- Prepare a 4-6 minute presentation.
+  - if you plan to **not** use Google Slides, please let me know by Friday
+  - add your slides to [this folder](https://drive.google.com/open?id=1LaI3fDmney3PLun0wNd81F6nMleGi387) by **Monday 20/4/13 noon** and please add a link to them to the class wiki, too.
+    - pro tip: avoid too much text on your slides, it really does make them less clear. slides do not need to speak for themselves but illustrate what you have to say.
+- Thanks! You got this!!
 
 
 <!-- ## Week 9
