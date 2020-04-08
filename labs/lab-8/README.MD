@@ -11,7 +11,7 @@
   - Mike Bostock's [description](https://bost.ocks.org/mike/constancy/)
 - Descriptions: Generators, Components & Layouts
 - Line Exercise
-  - [video](line-video)
+  - [video](#line-video)
     - simple line
       - understanding how the shape of data relates to elements
     - real data
