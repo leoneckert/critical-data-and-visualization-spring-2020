@@ -605,14 +605,28 @@ Due Monday (2020/04/13):
 - Thanks! You got this!!
 
 
-<!-- ## Week 9
+## Week 9
 
 ![Ethics & Privacy](other/assets/week9.png)
 
-Ethics & Privacy -->
+Ethics & Privacy
 
 
+### Wednesday Lab
 
+##### Lab 8: Generators, Components & Layouts
+
+Find the Lab in detail [here](labs/lab-8)
+
+- In the lab, we learn about the line generator.
+
+
+#### Assignments:
+
+Due Saturday (2020/04/11):
+- Modify the code from the Lab's video to build the below interaction:
+  - ![coding exercise](labs/lab-8/assets/line-transition.gif)
+  - upload your result and post a link to the [class wiki](https://github.com/leoneckert/critical-data-and-visualization-spring-2020/wiki). 
 
 
 

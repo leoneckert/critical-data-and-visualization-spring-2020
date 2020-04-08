@@ -1,0 +1,14 @@
+Lab 8 - Generators, Components & Layouts
+
+The LINE generator
+
+
+- Simple Line to understand the generator
+- Complex Line with real data
+- Exercise!
+	
+
+
+Critical Data and Visualization 
+Leon Eckert
+
