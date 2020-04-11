@@ -76,3 +76,10 @@ let pathMaker = d3.geoPath(projection);
 Download the [Exercise Code](material/line-to-map-start.zip).
 
 [The Video](https://nyu.zoom.us/rec/share/6swvJqj36GpLRZ3Ws2OAdKkGLrXheaa80HJP_PcEzhoqnX-45oi3JUu9gNUDgLEa)
+
+
+#### assignment:
+
+Below are examples of what you could build over the next (almost) 2 weeks.
+
+![lab9](assets/lab9-assignment.gif)
