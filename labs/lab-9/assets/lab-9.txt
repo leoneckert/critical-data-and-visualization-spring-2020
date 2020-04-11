@@ -1,0 +1,15 @@
+Lab 9 - From Line to Map
+
+
+
+
+- What Line and Map have in common
+- Projections
+- Working with 2 datasets
+- Plotting points on a map
+	
+
+
+Critical Data and Visualization 
+Leon Eckert
+
