@@ -80,6 +80,14 @@ Download the [Exercise Code](material/line-to-map-start.zip).
 
 #### assignment:
 
-Below are examples of what you could build over the next (almost) 2 weeks.
+Due April 22nd.
+- Set yourself a visual goal for a map exercise (e.g. I want a dot to move from location to location).
+- This is not a "project", but an exercise and opportunity to create something visually pleasing.
+- Below are examples.
+  - play with different projections.
+  - try to transition between different projections.
+  - try to transition between differen geojson data sets.
+  - be playful.
+- Submit you work to the [class wiki](https://github.com/leoneckert/critical-data-and-visualization-spring-2020/wiki) when you are done.
 
 ![lab9](assets/lab9-assignment.gif)

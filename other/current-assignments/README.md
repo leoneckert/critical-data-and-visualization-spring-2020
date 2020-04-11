@@ -2,11 +2,7 @@
 
 
 
-Due Wednesday (2020/04/08):
-- Finish the [Lab's Coding Exercise](../../labs/lab-7).
-  - You showed be feeling comfortable with all the techniques used in it,
-  - Experiment
-  - add your finished work to the [class wiki](https://github.com/leoneckert/critical-data-and-visualization-spring-2020/wiki)
+
 
 Due Monday (2020/04/13):
 - You picked your dataset. Now get **deeply familiar** with its context. Follow instructions in the [brief](/projects/data-story-and-contextual-report-presentation) and the [writing guide](/projects/contextual-report-guide).
@@ -16,6 +12,18 @@ Due Monday (2020/04/13):
   - add your slides to [this folder](https://drive.google.com/open?id=1LaI3fDmney3PLun0wNd81F6nMleGi387) by **Monday 20/4/13 noon** and please add a link to them to the [class wiki](https://github.com/leoneckert/critical-data-and-visualization-spring-2020/wiki), too.
     - pro tip: avoid too much text on your slides, it really does make them less clear. slides do not need to speak for themselves but illustrate what you have to say.
 - Thanks! You got this!!
+
+Due Wednesday (2020/04/22):
+- Set yourself a visual goal for a map exercise (e.g. I want a dot to move from location to location).
+- This is not a "project", but an exercise and opportunity to create something visually pleasing.
+- Below are examples.
+  - play with different projections.
+  - try to transition between different projections.
+  - try to transition between differen geojson data sets.
+  - be playful.
+- Submit you work to the [class wiki](https://github.com/leoneckert/critical-data-and-visualization-spring-2020/wiki) when you are done.
+
+![lab9](/labs/lab-9/assets/lab9-assignment.gif)
 
 <!-- Due this Wednesday (2020/02/19):
 - Do this assignment first (strongly recommended)
@@ -218,3 +226,18 @@ Due Wednesday (2020/04/01):
   - add your response to the [class wiki](https://github.com/leoneckert/critical-data-and-visualization-spring-2020/wiki)
 - Start to dive deep into the subject of your dataset. Contextually, that is. Use [this structure](../../projects/contextual-report-guide) as a pointer to guide your research.
   - Come to class with substantial starting points for each of the points you aim to cover. In class, we will be talking through your plans one-on-one. After this class, we embark on two technical labs before the presentations are due. Schedule wisely! -->
+
+
+
+
+  <!-- Due Wednesday (2020/04/08):
+- Finish the [Lab's Coding Exercise](../../labs/lab-7).
+  - You showed be feeling comfortable with all the techniques used in it,
+  - Experiment
+  - add your finished work to the [class wiki](https://github.com/leoneckert/critical-data-and-visualization-spring-2020/wiki) -->
+
+
+<!-- Due Saturday (2020/04/11):
+- Modify the code from the Lab's video to build the below interaction:
+  - ![coding exercise](/labs/lab-8/assets/line-transition.gif)
+  - upload your result and post a link to the [class wiki](https://github.com/leoneckert/critical-data-and-visualization-spring-2020/wiki). -->

@@ -626,10 +626,29 @@ Find the Lab in detail [here](labs/lab-8)
 Due Saturday (2020/04/11):
 - Modify the code from the Lab's video to build the below interaction:
   - ![coding exercise](labs/lab-8/assets/line-transition.gif)
-  - upload your result and post a link to the [class wiki](https://github.com/leoneckert/critical-data-and-visualization-spring-2020/wiki). 
+  - upload your result and post a link to the [class wiki](https://github.com/leoneckert/critical-data-and-visualization-spring-2020/wiki).
 
 
+### Saturday Lab
 
+##### Lab 9: From Line To Map
+
+Find the Lab in detail [here](/labs/lab-9)
+
+#### Assignments:
+
+Due Wednesday (2020/04/22):
+
+- Set yourself a visual goal for a map exercise (e.g. I want a dot to move from location to location).
+- This is not a "project", but an exercise and opportunity to create something visually pleasing.
+- Below are examples.
+  - play with different projections.
+  - try to transition between different projections.
+  - try to transition between differen geojson data sets.
+  - be playful.
+- Submit you work to the [class wiki](https://github.com/leoneckert/critical-data-and-visualization-spring-2020/wiki) when you are done.
+
+![lab9](/labs/lab-9/assets/lab9-assignment.gif)
 
 
 
