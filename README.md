@@ -654,15 +654,44 @@ Due Wednesday (2020/04/22):
 
 
 
-<!-- ## Week 10
+## Week 10
 
 ![Data Story: Contextual Report Presentations](other/assets/week10.png)
 
-Data Story: Contextual Report Presentations -->
+Data Story: Contextual Report Presentations
+
+Presentation Day 1:
+- [ ] Iris
+- [ ] Sumner
+- [ ] Kenneth
+- [ ] Thea
+- [ ] ?
+- [ ] Ellen
+- [ ] William
+
+Help each other with feedback here: [FEEDBACK DOCUMENT](https://docs.google.com/document/d/1oSO6heL63DUSJ4YH9u3nd1mFonoqtpwoFX4azcQdbFo/edit?usp=sharing)
+
+Shuffle Procedure
+```js
+let students = ["Daisy","Kris","Lishan","Lydia","Novia","Shiny","Yufeng","Crystal"]
+
+function pick(array) {
+  array.sort(() => Math.random() - 0.5);
+  console.log(array.pop())
+}
+
+pick(students);
+```
 
 
+Due Monday (2020/04/20):
 
+- Read ["The Messy Truth About Social Credit"](https://docs.google.com/document/d/1LMBrmO3giz2HnF9NKbrIRx7W4m7rwxfPb5nlL0kEZkI/edit?usp=sharing) ([original source\*](https://logicmag.io/china/the-messy-truth-about-social-credit/))
+  - Add at least contributions as describes in the **shared document**.
+- Watch [Trevor Paglen: Invisible Images of Surveillance](https://www.youtube.com/watch?v=ijVTdSoZEC4) (12:46).
+- Watch [Invisible Images: Ethics of Autonomous Vision Systems | Trevor Paglen](https://www.youtube.com/watch?v=JZjGsaJ1OcU) (05:29).
 
+\* Logic Magazine is great. This article is from their [issue on China](https://logicmag.io/china) - if you are interested in getting access to more articles from this one, please let me know :)
 
 
 
