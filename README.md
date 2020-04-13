@@ -665,7 +665,7 @@ Presentation Day 1:
 - [ ] Sumner
 - [ ] Kenneth
 - [ ] Thea
-- [ ] ?
+- [ ] Lishan
 - [ ] Ellen
 - [ ] William
 
