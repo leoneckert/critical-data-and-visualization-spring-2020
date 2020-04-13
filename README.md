@@ -686,10 +686,11 @@ pick(students);
 
 Due Monday (2020/04/20):
 
-- Read ["The Messy Truth About Social Credit"](https://docs.google.com/document/d/1LMBrmO3giz2HnF9NKbrIRx7W4m7rwxfPb5nlL0kEZkI/edit?usp=sharing) ([original source\*](https://logicmag.io/china/the-messy-truth-about-social-credit/))
+- Read ["The Messy Truth About Social Credit" (SHARED DOCUMENT)](https://docs.google.com/document/d/1LMBrmO3giz2HnF9NKbrIRx7W4m7rwxfPb5nlL0kEZkI/edit?usp=sharing) ([original source\*](https://logicmag.io/china/the-messy-truth-about-social-credit/))
   - Add at least contributions as describes in the **shared document**.
 - Watch [Trevor Paglen: Invisible Images of Surveillance](https://www.youtube.com/watch?v=ijVTdSoZEC4) (12:46).
 - Watch [Invisible Images: Ethics of Autonomous Vision Systems | Trevor Paglen](https://www.youtube.com/watch?v=JZjGsaJ1OcU) (05:29).
+
 
 \* Logic Magazine is great. This article is from their [issue on China](https://logicmag.io/china) - if you are interested in getting access to more articles from this one, please let me know :)
 

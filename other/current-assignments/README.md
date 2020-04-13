@@ -4,14 +4,16 @@
 
 
 
-Due Monday (2020/04/13):
-- You picked your dataset. Now get **deeply familiar** with its context. Follow instructions in the [brief](/projects/data-story-and-contextual-report-presentation) and the [writing guide](/projects/contextual-report-guide).
-- Add your written report to [this folder](https://drive.google.com/open?id=1Uw-t6deXslfMEECbA1x3IpKmerO3Y-mE) by **Monday 20/4/13 noon** and post a link to the [class wiki](https://github.com/leoneckert/critical-data-and-visualization-spring-2020/wiki).
-- Prepare a 4-6 minute presentation.
-  - if you plan to **not** use Google Slides, please let me know by Friday
-  - add your slides to [this folder](https://drive.google.com/open?id=1LaI3fDmney3PLun0wNd81F6nMleGi387) by **Monday 20/4/13 noon** and please add a link to them to the [class wiki](https://github.com/leoneckert/critical-data-and-visualization-spring-2020/wiki), too.
-    - pro tip: avoid too much text on your slides, it really does make them less clear. slides do not need to speak for themselves but illustrate what you have to say.
-- Thanks! You got this!!
+
+
+Due Monday (2020/04/20):
+
+- Read ["The Messy Truth About Social Credit" (SHARED DOCUMENT)](https://docs.google.com/document/d/1LMBrmO3giz2HnF9NKbrIRx7W4m7rwxfPb5nlL0kEZkI/edit?usp=sharing) ([original source\*](https://logicmag.io/china/the-messy-truth-about-social-credit/))
+  - Add at least contributions as describes in the **shared document**.
+- Watch [Trevor Paglen: Invisible Images of Surveillance](https://www.youtube.com/watch?v=ijVTdSoZEC4) (12:46).
+- Watch [Invisible Images: Ethics of Autonomous Vision Systems | Trevor Paglen](https://www.youtube.com/watch?v=JZjGsaJ1OcU) (05:29).
+
+\* Logic Magazine is great. This article is from their [issue on China](https://logicmag.io/china) - if you are interested in getting access to more articles from this one, please let me know :)
 
 Due Wednesday (2020/04/22):
 - Set yourself a visual goal for a map exercise (e.g. I want a dot to move from location to location).
@@ -241,3 +243,13 @@ Due Wednesday (2020/04/01):
 - Modify the code from the Lab's video to build the below interaction:
   - ![coding exercise](/labs/lab-8/assets/line-transition.gif)
   - upload your result and post a link to the [class wiki](https://github.com/leoneckert/critical-data-and-visualization-spring-2020/wiki). -->
+
+
+  <!-- Due Monday (2020/04/13):
+- You picked your dataset. Now get **deeply familiar** with its context. Follow instructions in the [brief](/projects/data-story-and-contextual-report-presentation) and the [writing guide](/projects/contextual-report-guide).
+- Add your written report to [this folder](https://drive.google.com/open?id=1Uw-t6deXslfMEECbA1x3IpKmerO3Y-mE) by **Monday 20/4/13 noon** and post a link to the [class wiki](https://github.com/leoneckert/critical-data-and-visualization-spring-2020/wiki).
+- Prepare a 4-6 minute presentation.
+  - if you plan to **not** use Google Slides, please let me know by Friday
+  - add your slides to [this folder](https://drive.google.com/open?id=1LaI3fDmney3PLun0wNd81F6nMleGi387) by **Monday 20/4/13 noon** and please add a link to them to the [class wiki](https://github.com/leoneckert/critical-data-and-visualization-spring-2020/wiki), too.
+    - pro tip: avoid too much text on your slides, it really does make them less clear. slides do not need to speak for themselves but illustrate what you have to say.
+- Thanks! You got this!! -->
