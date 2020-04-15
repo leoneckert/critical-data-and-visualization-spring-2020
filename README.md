@@ -660,7 +660,7 @@ Due Wednesday (2020/04/22):
 
 Data Story: Contextual Report Presentations
 
-Presentation Day 1:
+### Presentation Day 1:
 - [ ] Iris
 - [ ] Sumner
 - [ ] Kenneth
@@ -668,6 +668,8 @@ Presentation Day 1:
 - [ ] Lishan
 - [ ] Ellen
 - [ ] William
+
+
 
 Help each other with feedback here: [FEEDBACK DOCUMENT](https://docs.google.com/document/d/1oSO6heL63DUSJ4YH9u3nd1mFonoqtpwoFX4azcQdbFo/edit?usp=sharing)
 
@@ -682,6 +684,19 @@ Due Monday (2020/04/20):
 
 \* Logic Magazine is great. This article is from their [issue on China](https://logicmag.io/china) - if you are interested in getting access to more articles from this one, please let me know :)
 
+
+
+### Presentation Day 2:
+- [ ] Novia
+- [ ] Lydia
+- [ ] Kris
+- [ ] Crystal
+- [ ] Shiny
+- [ ] Daisy
+- [ ] William
+
+
+Today's feedback goes here: [FEEDBACK DOCUMENT](https://docs.google.com/document/d/1fkSxvmC7OOCfN262s0JugqF-ajF0R7G6V9PopqtfD0Y/edit?usp=sharing)
 
 
 
