@@ -671,18 +671,6 @@ Presentation Day 1:
 
 Help each other with feedback here: [FEEDBACK DOCUMENT](https://docs.google.com/document/d/1oSO6heL63DUSJ4YH9u3nd1mFonoqtpwoFX4azcQdbFo/edit?usp=sharing)
 
-Shuffle Procedure
-```js
-let students = ["Daisy","Kris","Lishan","Lydia","Novia","Shiny","Yufeng","Crystal"]
-
-function pick(array) {
-  array.sort(() => Math.random() - 0.5);
-  console.log(array.pop())
-}
-
-pick(students);
-```
-
 
 Due Monday (2020/04/20):
 
