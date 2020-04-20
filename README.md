@@ -34,9 +34,9 @@ So, what exactly is data? How is value extracted from it? And why should we care
 - Week 6 - [Data Zine Project Presentation 🎉](#week-6)
 - Week 7 - [Surveillance Capitalism I](#week-7)
 - Week 8 - [Surveillance Capitalism II](#week-8)
-- Week 9 - Ethics & Privacy
-- Week 10 - Data Story Contextual Report & Presentation 📚
-- Week 11 - Power & Control I
+- Week 9 - [Ethics & Privacy](#week-9)
+- Week 10 - [Data Story Contextual Report & Presentation 📚](#week-10)
+- Week 11 - [Power & Control I](#week-11)
 - Week 12 - Power & Control II
 - Week 13 - Resistance
 - Week 14 - Data Story Presentations 🥂
@@ -661,13 +661,13 @@ Due Wednesday (2020/04/22):
 Data Story: Contextual Report Presentations
 
 ### Presentation Day 1:
-- [ ] Iris
-- [ ] Sumner
-- [ ] Kenneth
-- [ ] Thea
-- [ ] Lishan
-- [ ] Ellen
-- [ ] William
+- [X] Iris
+- [X] Sumner
+- [X] Kenneth
+- [X] Thea
+- [X] Lishan
+- [X] Ellen
+- [X] William
 
 
 
@@ -693,7 +693,7 @@ Due Monday (2020/04/20):
 - [ ] Crystal
 - [ ] Shiny
 - [ ] Daisy
-- [ ] Yufeng
+- [ ] YufenX
 
 
 Today's feedback goes here: [FEEDBACK DOCUMENT](https://docs.google.com/document/d/1fkSxvmC7OOCfN262s0JugqF-ajF0R7G6V9PopqtfD0Y/edit?usp=sharing)
@@ -703,18 +703,34 @@ Today's feedback goes here: [FEEDBACK DOCUMENT](https://docs.google.com/document
 
 
 
-<!-- ## Week 11
+## Week 11
 
 ![Power & Control I](other/assets/week11.png)
 
-Power & Control I -->
+Power & Control I
+
+- Discussion of the reading.
+- What is a data story?
+
+
+Due Wednesday (2020/04/22):
+- Create a detailed paper prototype for your final project.
+  - Template for print:
+    - A3 ([landscape](/other/material/datastory-paperprototype-a3-landscape.pdf), [portrait](/other/material/datastory-paperprototype-a3-portrait.pdf))
+    - A4 ([landscape](/other/material/datastory-paperprototype-a4-landscape.pdf), [portrait](/other/material/datastory-paperprototype-a4-portrait.pdf))
+- Scan it (or take very high resolution photographs in good light), then add a link to the [class wiki](https://github.com/leoneckert/critical-data-and-visualization-spring-2020/wiki).
 
 
 
-
-
-
-
+Due Monday (2020/04/27):
+- Read three source:
+  - [Seeing like a state (Introduction)](/readings/seeing-like-a-state-introduction.pdf) by  James C. Scott (1998)
+  - [How Trump Consultants Exploited the Facebook Data of Millions](https://www.nytimes.com/2018/03/17/us/politics/cambridge-analytica-trump-campaign.html), New York Times (2018)
+  - [Cambridge Analytica and Our Lives Inside the Surveillance Machine](https://www.newyorker.com/tech/annals-of-technology/cambridge-analytica-and-our-lives-inside-the-surveillance-machine), The New Yorker (2018)
+- Write a 200-300 words reflection. Topics you can think about:
+  - data and political control.
+  - data, psychology, social engineering, and fabrication of beliefs.
+- Link your thoughts to the [class wiki](https://github.com/leoneckert/critical-data-and-visualization-spring-2020/wiki).
 
 
 

@@ -1,20 +1,5 @@
 
 
-
-
-
-
-
-
-Due Monday (2020/04/20):
-
-- Read ["The Messy Truth About Social Credit" (SHARED DOCUMENT)](https://docs.google.com/document/d/1LMBrmO3giz2HnF9NKbrIRx7W4m7rwxfPb5nlL0kEZkI/edit?usp=sharing) ([original source\*](https://logicmag.io/china/the-messy-truth-about-social-credit/))
-  - Add at least contributions as describes in the **shared document**.
-- Watch [Trevor Paglen: Invisible Images of Surveillance](https://www.youtube.com/watch?v=ijVTdSoZEC4) (12:46).
-- Watch [Invisible Images: Ethics of Autonomous Vision Systems | Trevor Paglen](https://www.youtube.com/watch?v=JZjGsaJ1OcU) (05:29).
-
-\* Logic Magazine is great. This article is from their [issue on China](https://logicmag.io/china) - if you are interested in getting access to more articles from this one, please let me know :)
-
 Due Wednesday (2020/04/22):
 - Set yourself a visual goal for a map exercise (e.g. I want a dot to move from location to location).
 - This is not a "project", but an exercise and opportunity to create something visually pleasing.
@@ -26,6 +11,26 @@ Due Wednesday (2020/04/22):
 - Submit you work to the [class wiki](https://github.com/leoneckert/critical-data-and-visualization-spring-2020/wiki) when you are done.
 
 ![lab9](/labs/lab-9/assets/lab9-assignment.gif)
+
+Due Wednesday (2020/04/22):
+- Create a detailed paper prototype for your final project.
+  - Template for print:
+    - A3 ([landscape](/other/material/datastory-paperprototype-a3-landscape.pdf), [portrait](/other/material/datastory-paperprototype-a3-portrait.pdf))
+    - A4 ([landscape](/other/material/datastory-paperprototype-a4-landscape.pdf), [portrait](/other/material/datastory-paperprototype-a4-portrait.pdf))
+- Scan it (or take very high resolution photographs in good light), then add a link to the [class wiki](https://github.com/leoneckert/critical-data-and-visualization-spring-2020/wiki).
+
+
+
+Due Monday (2020/04/27):
+- Read three source:
+  - [Seeing like a state (Introduction)](/readings/seeing-like-a-state-introduction.pdf) by  James C. Scott (1998)
+  - [How Trump Consultants Exploited the Facebook Data of Millions](https://www.nytimes.com/2018/03/17/us/politics/cambridge-analytica-trump-campaign.html), New York Times (2018)
+  - [Cambridge Analytica and Our Lives Inside the Surveillance Machine](https://www.newyorker.com/tech/annals-of-technology/cambridge-analytica-and-our-lives-inside-the-surveillance-machine), The New Yorker (2018)
+- Write a 200-300 words reflection. Topics you can think about:
+  - data and political control.
+  - data, psychology, social engineering, and fabrication of beliefs.
+- Link your thoughts to the [class wiki](https://github.com/leoneckert/critical-data-and-visualization-spring-2020/wiki).
+
 
 <!-- Due this Wednesday (2020/02/19):
 - Do this assignment first (strongly recommended)
@@ -253,3 +258,21 @@ Due Wednesday (2020/04/01):
   - add your slides to [this folder](https://drive.google.com/open?id=1LaI3fDmney3PLun0wNd81F6nMleGi387) by **Monday 20/4/13 noon** and please add a link to them to the [class wiki](https://github.com/leoneckert/critical-data-and-visualization-spring-2020/wiki), too.
     - pro tip: avoid too much text on your slides, it really does make them less clear. slides do not need to speak for themselves but illustrate what you have to say.
 - Thanks! You got this!! -->
+
+
+
+
+
+
+
+
+
+
+<!-- Due Monday (2020/04/20):
+
+- Read ["The Messy Truth About Social Credit" (SHARED DOCUMENT)](https://docs.google.com/document/d/1LMBrmO3giz2HnF9NKbrIRx7W4m7rwxfPb5nlL0kEZkI/edit?usp=sharing) ([original source\*](https://logicmag.io/china/the-messy-truth-about-social-credit/))
+  - Add at least contributions as describes in the **shared document**.
+- Watch [Trevor Paglen: Invisible Images of Surveillance](https://www.youtube.com/watch?v=ijVTdSoZEC4) (12:46).
+- Watch [Invisible Images: Ethics of Autonomous Vision Systems | Trevor Paglen](https://www.youtube.com/watch?v=JZjGsaJ1OcU) (05:29).
+
+\* Logic Magazine is great. This article is from their [issue on China](https://logicmag.io/china) - if you are interested in getting access to more articles from this one, please let me know :) -->
