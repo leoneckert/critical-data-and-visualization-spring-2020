@@ -709,6 +709,8 @@ Today's feedback goes here: [FEEDBACK DOCUMENT](https://docs.google.com/document
 
 Power & Control I
 
+### Monday Class
+
 - Discussion of the reading.
 - What is a data story?
 
@@ -733,7 +735,18 @@ Due Monday (2020/04/27):
 - Link your thoughts to the [class wiki](https://github.com/leoneckert/critical-data-and-visualization-spring-2020/wiki).
 
 
+### Wednesday Lab
 
+##### Lab 10: interaction
+
+Find the Lab in detail [here](labs/lab-8)
+
+Due Wednesday (2020/04/29):
+- Finish your data story website.
+  - Build everything out except (!) the visualizations (keep placeholder divs).
+  - Think of the structure, various pages.
+  - Importantly: think of the contextual information you need (mostly taken from the research you already did)
+- Submit you work to the [class wiki](https://github.com/leoneckert/critical-data-and-visualization-spring-2020/wiki).
 
 
 <!-- ## Week 12

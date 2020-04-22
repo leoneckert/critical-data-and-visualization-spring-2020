@@ -1,23 +1,5 @@
 
 
-Due Wednesday (2020/04/22):
-- Set yourself a visual goal for a map exercise (e.g. I want a dot to move from location to location).
-- This is not a "project", but an exercise and opportunity to create something visually pleasing.
-- Below are examples.
-  - play with different projections.
-  - try to transition between different projections.
-  - try to transition between differen geojson data sets.
-  - be playful.
-- Submit you work to the [class wiki](https://github.com/leoneckert/critical-data-and-visualization-spring-2020/wiki) when you are done.
-
-![lab9](/labs/lab-9/assets/lab9-assignment.gif)
-
-Due Wednesday (2020/04/22):
-- Create a detailed paper prototype for your final project.
-  - Template for print:
-    - A3 ([landscape](/other/material/datastory-paperprototype-a3-landscape.pdf), [portrait](/other/material/datastory-paperprototype-a3-portrait.pdf))
-    - A4 ([landscape](/other/material/datastory-paperprototype-a4-landscape.pdf), [portrait](/other/material/datastory-paperprototype-a4-portrait.pdf))
-- Scan it (or take very high resolution photographs in good light), then add a link to the [class wiki](https://github.com/leoneckert/critical-data-and-visualization-spring-2020/wiki).
 
 
 
@@ -31,6 +13,12 @@ Due Monday (2020/04/27):
   - data, psychology, social engineering, and fabrication of beliefs.
 - Link your thoughts to the [class wiki](https://github.com/leoneckert/critical-data-and-visualization-spring-2020/wiki).
 
+Due Wednesday (2020/04/29):
+- Finish your data story website.
+  - Build everything out except (!) the visualizations (keep placeholder divs).
+  - Think of the structure, various pages.
+  - Importantly: think of the contextual information you need (mostly taken from the research you already did)
+- Submit you work to the [class wiki](https://github.com/leoneckert/critical-data-and-visualization-spring-2020/wiki).
 
 <!-- Due this Wednesday (2020/02/19):
 - Do this assignment first (strongly recommended)
@@ -276,3 +264,22 @@ Due Wednesday (2020/04/01):
 - Watch [Invisible Images: Ethics of Autonomous Vision Systems | Trevor Paglen](https://www.youtube.com/watch?v=JZjGsaJ1OcU) (05:29).
 
 \* Logic Magazine is great. This article is from their [issue on China](https://logicmag.io/china) - if you are interested in getting access to more articles from this one, please let me know :) -->
+
+<!-- Due Wednesday (2020/04/22):
+- Set yourself a visual goal for a map exercise (e.g. I want a dot to move from location to location).
+- This is not a "project", but an exercise and opportunity to create something visually pleasing.
+- Below are examples.
+  - play with different projections.
+  - try to transition between different projections.
+  - try to transition between differen geojson data sets.
+  - be playful.
+- Submit you work to the [class wiki](https://github.com/leoneckert/critical-data-and-visualization-spring-2020/wiki) when you are done.
+
+![lab9](/labs/lab-9/assets/lab9-assignment.gif)
+
+Due Wednesday (2020/04/22):
+- Create a detailed paper prototype for your final project.
+  - Template for print:
+    - A3 ([landscape](/other/material/datastory-paperprototype-a3-landscape.pdf), [portrait](/other/material/datastory-paperprototype-a3-portrait.pdf))
+    - A4 ([landscape](/other/material/datastory-paperprototype-a4-landscape.pdf), [portrait](/other/material/datastory-paperprototype-a4-portrait.pdf))
+- Scan it (or take very high resolution photographs in good light), then add a link to the [class wiki](https://github.com/leoneckert/critical-data-and-visualization-spring-2020/wiki). -->

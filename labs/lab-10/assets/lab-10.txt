@@ -1,0 +1,14 @@
+Lab 10 - Interaction
+
+
+
+
+- CSS
+- d3 eventlisteners
+- tooltip
+	
+
+
+Critical Data and Visualization 
+Leon Eckert
+
