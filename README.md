@@ -739,7 +739,7 @@ Due Monday (2020/04/27):
 
 ##### Lab 10: interaction
 
-Find the Lab in detail [here](labs/lab-8)
+Find the Lab in detail [here](labs/lab-10)
 
 Due Wednesday (2020/04/29):
 - Finish your data story website.
