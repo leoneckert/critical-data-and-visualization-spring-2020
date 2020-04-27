@@ -749,11 +749,27 @@ Due Wednesday (2020/04/29):
 - Submit you work to the [class wiki](https://github.com/leoneckert/critical-data-and-visualization-spring-2020/wiki).
 
 
-<!-- ## Week 12
+## Week 12
 
 ![Power & Control II](other/assets/week12.png)
 
-Power & Control II -->
+Power & Control II
+
+one-on-one check ins, each 4.6666666667 minutes ((75mins class time - 5 mins intro time)/14 students):
+- [ ] Ellen
+- [ ] Kenneth
+- [ ] Lydia
+- [ ] Thea
+- [ ] Iris
+- [ ] William
+- [ ] Sumner
+- [ ] Lishan
+- [ ] Crystal
+- [ ] Yufeng
+- [ ] Shiny
+- [ ] Daisy
+- [ ] Kris
+- [ ] Novia
 
 
 
