@@ -1,0 +1,95 @@
+body {
+  margin:0;
+  font-family: sans-serif;
+}
+
+
+/*
+it makes sense for the sticky element
+to take the full height and width (see below).
+If it should appear smaller, I would recommend
+to still keep the sticky box full height and width
+but to position a smaller, visible div within it.
+"top" makes it stick to the top
+"z-index" makes sure it's behind the scrolling elements
+"position" makes it stick as long as its containing
+element is scrolling up (there is not magic to stickiness!)
+
+
+*/
+.stickyDiv {
+  height: 100vh;
+  width: 100%;
+  top: 0;
+  z-index: -1;
+  position: sticky;
+
+  /* ps you can even make this div a flexbox to position elements inside it */
+  display: relative;
+  /* justify-content: center;
+  align-items: center; */
+}
+
+.filler{
+  width: 600px;
+  height: 400px;
+}
+
+#visualizationWrapper{
+  position: absolute;
+  width: 600px;
+  height: 400px;
+  right: 40px;
+  top:40px;
+  background-color: lavender;
+}
+
+.scrollingContent div{
+  width: 40vw;
+  margin-left: 20px;
+  padding: 10px;
+  background-color: lightyellow;
+  /* outline: 5px dashed lightpink; */
+  margin-bottom: 200px;
+}
+
+
+.scrollingContent div:last-child{
+  margin-bottom: 0px;
+}
+
+
+/* everything below is just styling for this particular example
+it can all be changed
+be experimental
+be playful
+be wild
+:)  */
+
+
+.header{
+  height: 50vh;
+}
+.lightblue{
+  background-color: lightblue;
+}
+
+.lightpink{
+  background-color: lightpink;
+}
+.lightgreen{
+  background-color: lightgreen;
+}
+.lightyellow{
+  background-color: lightyellow;
+}
+.special{
+  height: 30vh
+}
+
+/* .scrollingContent p{
+  margin-bottom: 200px;
+}
+.scrollingContent p:last-child{
+  margin-bottom: 0px;
+} */

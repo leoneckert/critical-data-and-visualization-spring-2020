@@ -41,7 +41,7 @@
 - [Streets in Brussels](https://twitter.com/karim_douieb/status/1235137396418760705)
 - [Sorting Streets](http://fakeisthenewreal.org/street-grids/)
 - [https://projects.christianlaesser.com/travel-visa-inequality/](https://projects.christianlaesser.com/travel-visa-inequality/) <- all the data was scraped from Wikipedia
-
+- [A visual introduction to machine learning](http://www.r2d3.us/visual-intro-to-machine-learning-part-1/)
 
 ### Infos
 
