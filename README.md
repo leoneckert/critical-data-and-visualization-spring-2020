@@ -755,6 +755,8 @@ Due Wednesday (2020/04/29):
 
 Power & Control II
 
+### Monday Class
+
 one-on-one check ins, each 4.6666666667 minutes ((75mins class time - 5 mins intro time)/14 students):
 - [ ] Ellen
 - [ ] Kenneth
@@ -772,8 +774,16 @@ one-on-one check ins, each 4.6666666667 minutes ((75mins class time - 5 mins int
 - [ ] Novia
 
 
+### Wednesday Lab
 
+##### Lab 11: Scrolling & Force Layouts
 
+Find the Lab in detail [here](labs/lab-10)
+
+Due Wednesday (2020/05/06):
+- Finish your data story website.
+  - Include the visualizations into last week's websites
+  - Submit you work to the [class wiki](https://github.com/leoneckert/critical-data-and-visualization-spring-2020/wiki).
 
 
 

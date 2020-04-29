@@ -3,22 +3,12 @@
 
 
 
-Due Monday (2020/04/27):
-- Read three source:
-  - [Seeing like a state (Introduction)](/readings/seeing-like-a-state-introduction.pdf) by  James C. Scott (1998)
-  - [How Trump Consultants Exploited the Facebook Data of Millions](https://www.nytimes.com/2018/03/17/us/politics/cambridge-analytica-trump-campaign.html), New York Times (2018)
-  - [Cambridge Analytica and Our Lives Inside the Surveillance Machine](https://www.newyorker.com/tech/annals-of-technology/cambridge-analytica-and-our-lives-inside-the-surveillance-machine), The New Yorker (2018)
-- Write a 200-300 words reflection. Topics you can think about:
-  - data and political control.
-  - data, psychology, social engineering, and fabrication of beliefs.
-- Link your thoughts to the [class wiki](https://github.com/leoneckert/critical-data-and-visualization-spring-2020/wiki).
 
-Due Wednesday (2020/04/29):
+
+Due Wednesday (2020/05/06):
 - Finish your data story website.
-  - Build everything out except (!) the visualizations (keep placeholder divs).
-  - Think of the structure, various pages.
-  - Importantly: think of the contextual information you need (mostly taken from the research you already did)
-- Submit you work to the [class wiki](https://github.com/leoneckert/critical-data-and-visualization-spring-2020/wiki).
+  - Include the visualizations into last week's websites
+  - Submit you work to the [class wiki](https://github.com/leoneckert/critical-data-and-visualization-spring-2020/wiki).
 
 <!-- Due this Wednesday (2020/02/19):
 - Do this assignment first (strongly recommended)
@@ -283,3 +273,22 @@ Due Wednesday (2020/04/22):
     - A3 ([landscape](/other/material/datastory-paperprototype-a3-landscape.pdf), [portrait](/other/material/datastory-paperprototype-a3-portrait.pdf))
     - A4 ([landscape](/other/material/datastory-paperprototype-a4-landscape.pdf), [portrait](/other/material/datastory-paperprototype-a4-portrait.pdf))
 - Scan it (or take very high resolution photographs in good light), then add a link to the [class wiki](https://github.com/leoneckert/critical-data-and-visualization-spring-2020/wiki). -->
+
+
+<!-- 
+Due Monday (2020/04/27):
+- Read three source:
+  - [Seeing like a state (Introduction)](/readings/seeing-like-a-state-introduction.pdf) by  James C. Scott (1998)
+  - [How Trump Consultants Exploited the Facebook Data of Millions](https://www.nytimes.com/2018/03/17/us/politics/cambridge-analytica-trump-campaign.html), New York Times (2018)
+  - [Cambridge Analytica and Our Lives Inside the Surveillance Machine](https://www.newyorker.com/tech/annals-of-technology/cambridge-analytica-and-our-lives-inside-the-surveillance-machine), The New Yorker (2018)
+- Write a 200-300 words reflection. Topics you can think about:
+  - data and political control.
+  - data, psychology, social engineering, and fabrication of beliefs.
+- Link your thoughts to the [class wiki](https://github.com/leoneckert/critical-data-and-visualization-spring-2020/wiki).
+
+Due Wednesday (2020/04/29):
+- Finish your data story website.
+  - Build everything out except (!) the visualizations (keep placeholder divs).
+  - Think of the structure, various pages.
+  - Importantly: think of the contextual information you need (mostly taken from the research you already did)
+- Submit you work to the [class wiki](https://github.com/leoneckert/critical-data-and-visualization-spring-2020/wiki). -->
