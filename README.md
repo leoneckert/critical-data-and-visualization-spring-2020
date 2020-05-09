@@ -791,14 +791,26 @@ Due Wednesday (2020/05/06):
 
 
 
-<!-- ## Week 13
+## Week 13
 
 ![Resistance](other/assets/week13.png)
 
-Resistance -->
+Due Monday (2020/05/11):
+- Prepare a 4-6 minute presentation of your project. Be prepared to share your screen (and sound if necessary) and demo your website while explaining it to the audience.
+  - assume the audience has never seen your project (guest critics wint have)
+  - don't assume that anyone reads large passages of text during your presentation - explain/summarize what we need to know
+  - talk about your process, compromises you made, aspects you are most proud of as well those that didn't turn out the way you intended.
+- Your code needs to be uploaded to your repository and a link to it added to the [class wiki](https://github.com/leoneckert/critical-data-and-visualization-spring-2020/wiki).
 
 
 
+Due Friday (2020/05/16):
+- Add a well-formated `README.md` file to your project.
+- It should include:
+  - the projects name
+  - a animated GIF of your favorite detail of the visualization (something that moves, a transition)
+  - 2-3 sentences about the project
+  - links to the source of the data you used
 
 
 
