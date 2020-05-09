@@ -1,14 +1,27 @@
 
 
+Due Monday (2020/05/11):
+- Prepare a 4-6 minute presentation of your project. Be prepared to share your screen (and sound if necessary) and demo your website while explaining it to the audience.
+  - assume the audience has never seen your project (guest critics wint have)
+  - don't assume that anyone reads large passages of text during your presentation - explain/summarize what we need to know
+  - talk about your process, compromises you made, aspects you are most proud of as well those that didn't turn out the way you intended.
+- Your code needs to be uploaded to your repository and a link to it added to the [class wiki](https://github.com/leoneckert/critical-data-and-visualization-spring-2020/wiki).
+
+
+
+Due Friday (2020/05/16):
+- Add a well-formated `README.md` file to your project.
+- It should include:
+  - the projects name
+  - a animated GIF of your favorite detail of the visualization (something that moves, a transition)
+  - 2-3 sentences about the project
+  - links to the source of the data you used
 
 
 
 
 
-Due Wednesday (2020/05/06):
-- Finish your data story website.
-  - Include the visualizations into last week's websites
-  - Submit you work to the [class wiki](https://github.com/leoneckert/critical-data-and-visualization-spring-2020/wiki).
+
 
 <!-- Due this Wednesday (2020/02/19):
 - Do this assignment first (strongly recommended)
@@ -275,7 +288,7 @@ Due Wednesday (2020/04/22):
 - Scan it (or take very high resolution photographs in good light), then add a link to the [class wiki](https://github.com/leoneckert/critical-data-and-visualization-spring-2020/wiki). -->
 
 
-<!-- 
+<!--
 Due Monday (2020/04/27):
 - Read three source:
   - [Seeing like a state (Introduction)](/readings/seeing-like-a-state-introduction.pdf) by  James C. Scott (1998)
@@ -292,3 +305,8 @@ Due Wednesday (2020/04/29):
   - Think of the structure, various pages.
   - Importantly: think of the contextual information you need (mostly taken from the research you already did)
 - Submit you work to the [class wiki](https://github.com/leoneckert/critical-data-and-visualization-spring-2020/wiki). -->
+<!-- 
+Due Wednesday (2020/05/06):
+- Finish your data story website.
+  - Include the visualizations into last week's websites
+  - Submit you work to the [class wiki](https://github.com/leoneckert/critical-data-and-visualization-spring-2020/wiki). -->
