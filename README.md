@@ -826,7 +826,7 @@ Please leave thoughts on the [Feedback Document](https://docs.google.com/documen
 
 Presenters:
 - [ ] Iris: [What We've Lost in Shanghai](https://iris-666.github.io/)
-- [ ] Sumner: [PROJECT](https://cdv.leoneckert.com/datastories-ss20/sumner)
+- [ ] Sumner: [Map of Songci 宋词地图](https://cdv.leoneckert.com/datastories-ss20/sumner)
 - [ ] Lishan: [Spying The Moon](https://cdv.leoneckert.com/datastories-ss20/lishan)
 - [ ] William: [Em😜jified S😎cial Media](https://mstxy.github.io/Emojified-Social-Media/)
 - [ ] Lydia: [NETFLIX 2019WHAT TO SEE NEXT](https://cdv.leoneckert.com/datastories-ss20/lydia)
