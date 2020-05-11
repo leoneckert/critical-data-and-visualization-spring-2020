@@ -814,20 +814,24 @@ Due Friday (2020/05/16):
 
 
 
-
-
-
-
-
-
-
-
-<!-- ## Week 14
+## Week 14
 
 ![Data Story: Final Project Presentation](other/assets/week14.png)
 
-Data Story: Final Project Presentation -->
+Data Story: Final Project Presentation
+- Presentation: 4-6 minutes
+- Feedback: 4-6 minutes
 
+Please leave thoughts on the [Feedback Document](https://docs.google.com/document/d/1nS4CmtRgYD1Y1ZK-cYJIqeOLzS38nxkTcvpQ6ZXdtFE/edit?usp=sharing). Thank you!
+
+Presenters:
+- [ ] Iris: [What We've Lost in Shanghai](https://iris-666.github.io/)
+- [ ] Sumner: [PROJECT](https://cdv.leoneckert.com/datastories-ss20/sumner)
+- [ ] Lishan: [Spying The Moon](https://cdv.leoneckert.com/datastories-ss20/lishan)
+- [ ] William: [Em😜jified S😎cial Media](https://mstxy.github.io/Emojified-Social-Media/)
+- [ ] Lydia: [NETFLIX 2019WHAT TO SEE NEXT](https://cdv.leoneckert.com/datastories-ss20/lydia)
+- [ ] Ellen: [Meteorite Landings](https://ellen25.github.io/cdv-dataStory/)
+- [ ] Kenneth: [When Sneakers Become Capital](https://cdv.leoneckert.com/datastories-ss20/kenneth)
 
 ___
 
