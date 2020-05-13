@@ -828,12 +828,12 @@ Please leave thoughts on the [Feedback Document](https://docs.google.com/documen
 
 Presenters:
 - [X] Iris: [What We've Lost in Shanghai](https://iris-666.github.io/)
-- [X] Sumner: [Map of Songci 宋词地图](https://cdv.leoneckert.com/datastories-ss20/sumner)
+- [X] Sumner: [Map of Songci 宋词地图](https://my-cdv-ss20.now.sh/my-work/final/index.html)
 - [X] Lishan: [Spying The Moon](https://lq455.github.io/)
 - [X] William: [Em😜jified S😎cial Media](https://mstxy.github.io/Emojified-Social-Media/)
-- [X] Lydia: [NETFLIX 2019WHAT TO SEE NEXT](https://cdv.leoneckert.com/datastories-ss20/lydia)
+- [X] Lydia: [NETFLIX 2019WHAT TO SEE NEXT](https://lydiayan628.github.io/netflix2019/)
 - [X] Ellen: [Meteorite Landings](https://ellen25.github.io/cdv-dataStory/)
-- [X] Kenneth: [When Sneakers Become Capital](https://cdv.leoneckert.com/datastories-ss20/kenneth)
+- [X] Kenneth: [When Sneakers Become Capital](https://kenneth233.github.io/)
 
 ### Wednesday Class
 
@@ -852,6 +852,10 @@ Presenters:
 - [ ] Crystal: [Coffee And Code](https://crystal630.github.io/Datastory)
 - [ ] Daisy: [Happy 100,000 Times](https://qianyichen532.github.io/)
 
+Last words
+- class photo
+- the show
+- your were a pleasure to work with, thank you for taking part in this class :)
 
 Due Friday (2020/05/16):
 - Add a well-formated `README.md` file to your project.
