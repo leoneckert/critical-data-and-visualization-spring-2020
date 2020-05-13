@@ -36,9 +36,9 @@ So, what exactly is data? How is value extracted from it? And why should we care
 - Week 9 - [Ethics & Privacy](#week-9)
 - Week 10 - [Data Story Contextual Report & Presentation 📚](#week-10)
 - Week 11 - [Power & Control I](#week-11)
-- Week 12 - Power & Control II
-- Week 13 - Resistance
-- Week 14 - Data Story Presentations 🥂
+- Week 12 - [Power & Control II](#week-12)
+- Week 13 - [Resistance](#week-13)
+- Week 14 - [Data Story Presentations 🥂](#week-14)
 
 ## Week 1
 
@@ -818,7 +818,9 @@ Due Friday (2020/05/16):
 
 ![Data Story: Final Project Presentation](other/assets/week14.png)
 
-Data Story: Final Project Presentation
+### Monday Class
+
+Data Story: Final Project Presentations Part I
 - Presentation: 4-6 minutes
 - Feedback: 4-6 minutes
 
@@ -827,11 +829,38 @@ Please leave thoughts on the [Feedback Document](https://docs.google.com/documen
 Presenters:
 - [ ] Iris: [What We've Lost in Shanghai](https://iris-666.github.io/)
 - [ ] Sumner: [Map of Songci 宋词地图](https://cdv.leoneckert.com/datastories-ss20/sumner)
-- [ ] Lishan: [Spying The Moon](https://cdv.leoneckert.com/datastories-ss20/lishan)
+- [ ] Lishan: [Spying The Moon](https://lq455.github.io/)
 - [ ] William: [Em😜jified S😎cial Media](https://mstxy.github.io/Emojified-Social-Media/)
 - [ ] Lydia: [NETFLIX 2019WHAT TO SEE NEXT](https://cdv.leoneckert.com/datastories-ss20/lydia)
 - [ ] Ellen: [Meteorite Landings](https://ellen25.github.io/cdv-dataStory/)
 - [ ] Kenneth: [When Sneakers Become Capital](https://cdv.leoneckert.com/datastories-ss20/kenneth)
+
+### Wednesday Class
+
+Data Story: Final Project Presentations Part I
+- Presentation: 4-6 minutes
+- Feedback: 4-6 minutes
+
+Please leave thoughts on the [Feedback Document](https://docs.google.com/document/d/12kl8kDltkAkQ_bG18px-QgTrNEFHQMk-pwaPdQY48Ok/edit?usp=sharing[). Thank you!](#week-12)
+
+Presenters:
+- [ ] Novia: [Superhero? Not so Super on Gender](https://zw2375.github.io/Superheroes-Not-so-Super-on-Gender/)
+- [ ] Shiny: [The Final Blessing](https://shiny-niu-wu.github.io/The-Final-Blessing/)
+- [ ] Thea: [The Monthly Hogwarts](https://theasang.github.io/TheMonthlyHogwarts/)
+- [ ] Kris: [The Department of Truth](https://kris4869.github.io/)
+- [ ] Yufeng: [A Visual Retrospective of Digital Cameras](digicam-data-story.now.sh)
+- [ ] Crystal: [Coffee And Code](https://crystal630.github.io/Datastory)
+- [ ] Daisy: [Happy 100,000 Times](https://qianyichen532.github.io/)
+
+
+Due Friday (2020/05/16):
+- Add a well-formated `README.md` file to your project.
+- It should include:
+  - the projects name
+  - a animated GIF of your favorite detail of the visualization (something that moves, a transition)
+    - you can include images in a README file using `![name of image](path-to-image.gif)`
+  - 2-3 sentences about the project
+  - links to the source of the data you used
 
 ___
 
