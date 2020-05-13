@@ -853,6 +853,11 @@ Presenters:
 - [ ] Daisy: [Happy 100,000 Times](https://qianyichen532.github.io/)
 
 Last words
+- version of your project that I will grade should be
+  - in your original calss repo ("my-cdv....")
+  - linked to in the [class wiki](https://github.com/leoneckert/critical-data-and-visualization-spring-2020/wiki)
+  - this FRIDAY (2020/05/15), 2pm
+  - please see below mini requirements
 - class photo
 - the show
 - your were a pleasure to work with, thank you for taking part in this class :)
