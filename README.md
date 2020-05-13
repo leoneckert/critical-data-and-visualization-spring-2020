@@ -841,7 +841,7 @@ Data Story: Final Project Presentations Part I
 - Presentation: 4-6 minutes
 - Feedback: 4-6 minutes
 
-Please leave thoughts on the [Feedback Document](https://docs.google.com/document/d/12kl8kDltkAkQ_bG18px-QgTrNEFHQMk-pwaPdQY48Ok/edit?usp=sharing[). Thank you!](#week-12)
+Please leave thoughts on the [Feedback Document](https://docs.google.com/document/d/12kl8kDltkAkQ_bG18px-QgTrNEFHQMk-pwaPdQY48Ok/edit?usp=sharing[). Thank you!
 
 Presenters:
 - [ ] Novia: [Superhero? Not so Super on Gender](https://zw2375.github.io/Superheroes-Not-so-Super-on-Gender/)
