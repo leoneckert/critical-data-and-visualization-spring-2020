@@ -827,13 +827,13 @@ Data Story: Final Project Presentations Part I
 Please leave thoughts on the [Feedback Document](https://docs.google.com/document/d/1nS4CmtRgYD1Y1ZK-cYJIqeOLzS38nxkTcvpQ6ZXdtFE/edit?usp=sharing). Thank you!
 
 Presenters:
-- [ ] Iris: [What We've Lost in Shanghai](https://iris-666.github.io/)
-- [ ] Sumner: [Map of Songci 宋词地图](https://cdv.leoneckert.com/datastories-ss20/sumner)
-- [ ] Lishan: [Spying The Moon](https://lq455.github.io/)
-- [ ] William: [Em😜jified S😎cial Media](https://mstxy.github.io/Emojified-Social-Media/)
-- [ ] Lydia: [NETFLIX 2019WHAT TO SEE NEXT](https://cdv.leoneckert.com/datastories-ss20/lydia)
-- [ ] Ellen: [Meteorite Landings](https://ellen25.github.io/cdv-dataStory/)
-- [ ] Kenneth: [When Sneakers Become Capital](https://cdv.leoneckert.com/datastories-ss20/kenneth)
+- [X] Iris: [What We've Lost in Shanghai](https://iris-666.github.io/)
+- [X] Sumner: [Map of Songci 宋词地图](https://cdv.leoneckert.com/datastories-ss20/sumner)
+- [X] Lishan: [Spying The Moon](https://lq455.github.io/)
+- [X] William: [Em😜jified S😎cial Media](https://mstxy.github.io/Emojified-Social-Media/)
+- [X] Lydia: [NETFLIX 2019WHAT TO SEE NEXT](https://cdv.leoneckert.com/datastories-ss20/lydia)
+- [X] Ellen: [Meteorite Landings](https://ellen25.github.io/cdv-dataStory/)
+- [X] Kenneth: [When Sneakers Become Capital](https://cdv.leoneckert.com/datastories-ss20/kenneth)
 
 ### Wednesday Class
 
